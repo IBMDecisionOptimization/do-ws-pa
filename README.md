@@ -132,7 +132,7 @@ The JSON object containes different sections for important configurations:
 * ml - optionnal configure connection to a deployed ML model to score
 
 
-You can refer to do-ws-js documentation for more information: https://github.com/IBMDecisionOptimization/do-ws-js/blob/master/README.md
+You can refer to [do-ws-js documentation](https://github.com/IBMDecisionOptimization/do-ws-js/blob/master/README.md) for more information on the configuration.
 
 #### PA configuration
 
