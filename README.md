@@ -107,7 +107,7 @@ After the integration is correctly configured, you can replace the widget with a
 
 ![Deploy widget](/images/padeploy.png)
 
-It provides the followiung actions:
+It provides the following actions:
   1. solve/score (buttons are shown depending on do/ml configuration existing) which will do the full end to end flow from loading from Planning Analytics, solving/scoring with the deployed  model, and pushing back the solution into Planning Analytics.
   1. config to change the inmput and output version/scenario to read/write from/to PA
 
