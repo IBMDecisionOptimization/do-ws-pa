@@ -23,7 +23,7 @@ This aplication is using the shared npm package with goodies for DO for WS and P
 ## How to use this?
 
 Here are the parts to do in order to use this:
-* get access or set up some **Planning AnalyticsA environment**: 
+* get access or set up some **Planning Analytics environment**: 
   * it can be either a Cloud or Local Planning Analytics environment, it just need to be accessible from the server running the integration service.
   * some TM1 server with the data to use must be available (otherwise you can createthe data from within PA)
   + some PA workbook should be created with widgets exposing this data (otherwise just create it!)
