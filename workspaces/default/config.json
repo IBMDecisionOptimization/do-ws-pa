@@ -1,0 +1,96 @@
+{
+	"name": "Default",
+    "pa": {
+		"description": "This is the original ibmtraining public PA credentials",
+		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
+		"url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
+		"accountId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "tenantId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "userId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "username": "xxxxxxxxxxxxxxxxxxxxxx",
+		"password": "xxxxxxxxxxxxxxxxxxxxxx",
+		"mapping" : {
+			"versionDimensionName": "Version",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+					"Subsidiaries": {
+						"name": "Subsidiaries"
+					}
+				},
+				"cubes": {
+					"Test": {
+						"name": "Test",
+						"propertyDimensionName": "TestProperty",
+						"readVersion": false
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"TestOutcome": {
+						"name": "TestOutcome"
+					}			
+				},
+				"prefix": ""
+			}
+		}
+	},
+	"palocal": {	
+		"description": "PA Local on ibmdemos",
+		"url": "http://ibmdemos:54045",
+		"username": "pm",
+        "password": "IBMDem0s",
+		"camnamespace": "Harmony LDAP",
+		"mapping" : {
+			"versionDimensionName": "Version",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+					"Subsidiaries": {
+						"name": "Subsidiaries"
+					}
+				},
+				"cubes": {
+					"Test": {
+						"name": "Test",
+						"propertyDimensionName": "TestProperty",
+						"readVersion": false
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"TestOutcome": {
+						"name": "TestOutcome"
+					}			
+				},
+				"prefix": ""
+			}
+		}
+	},
+	"dsx": {
+		"type": "cloud",
+		"url": "https://dataplatform.cloud.ibm.com",
+		"apiurl": "https://api.dataplatform.cloud.ibm.com",
+		"apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+		"projectName": "PA3",
+		"projectId": "xxxxxxxxxxxxxxxxxxxxxx",
+		"cosurl": "https://s3-api.us-geo.objectstorage.softlayer.net",
+		"cosbucket": "pa3-donotdelete-pr-7inxcmmgyo074w"
+	},
+	
+	"ml": {
+		"url": "https://eu-de.ml.cloud.ibm.com/v3/wml_instances/0eb85aec-7aaa-4471-b097-f607a26938c7/deployments/2a335286-717e-49ee-8ad8-cf172f7f8663/online",
+		"apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+		"input": "Test",
+		"output": "TestOutcome",
+		"outputId": "Subsidiaries",
+		"nbOutputs" : 1
+	},
+	"ui" : {
+	}
+
+}

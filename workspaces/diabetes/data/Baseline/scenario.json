@@ -1,0 +1,8 @@
+{
+  "DiabetesOutcome": {
+    "category": "output"
+  },
+  "Diabetes": {
+    "category": "input"
+  }
+}

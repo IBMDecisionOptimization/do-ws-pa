@@ -1,0 +1,116 @@
+{
+    "name": "Supply Demand with Modeling Assistant",
+    "description" :"Sales and Operations Planning of a production, distribution and sale supply chain. Decide what and where to build samong several prolants and products. Decide where and how much to stock. Decided where and ow to much to assign for different markets.",
+    "scenario" : {        
+        "config" : {
+        }
+    },
+    "pa": {
+		"description": "This is the original ibmtraining public PA credentials",
+		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
+		"url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
+		"accountId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "tenantId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "userId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "username": "xxxxxxxxxxxxxxxxxxxxxx",
+		"password": "xxxxxxxxxxxxxxxxxxxxxx",
+		"mapping" : {
+			"versionDimensionName": "Plan",
+			"input": {
+				"version": "Baseline",
+				"postprocess" : "postreadpa.js",
+				"dimensions": {
+					"Products": {
+						"name": "product"
+					},
+					"Plants": {
+						"name": "plant"
+					},
+					"Markets": {
+						"name": "market"
+					},
+					"Months": {
+						"name": "month"
+					}
+				},
+				"cubes": {
+					"Demand": {
+						"name": "demand",
+						"readVersion" : false
+					},
+					"FirmSales": {
+						"name": "firm_sales",
+						"readVersion" : false
+					},
+					"MarginalProfit": {
+						"name": "marginal_profit",
+						"readVersion" : false
+					},
+					"PlantMonthCapacity": {
+						"name": "plant_month_capacity",
+						"readVersion" : false
+					},
+					"PlantProductCapacity": {
+						"name": "plant_product_capacity",
+						"readVersion" : false
+					},
+					"PlantProductCost": {
+						"name": "plant_product_cost",
+						"readVersion" : false
+					},
+					"InitialInventory": {
+						"name": "initial_inventory",
+						"readVersion" : false
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"production": {
+						"name": "production"
+					},	
+					"executed_sales": {
+						"name": "executed_saled"
+					},	
+					"markets_inventory": {
+						"name": "markets_inventory"
+					},
+					"markets_allocation": {
+						"name": "markets_allocation"
+					},
+					"kpis": {
+						"name": "kpis",
+						"adddummy" : true
+					}
+				},
+				"prefix": "_sd"
+			}
+		}
+	
+    },
+    "dsx" : {
+        "type" : "local",
+        "apiurl": "xxxxxxxxxxxxxxxxxxxxxx",
+        "url": "xxxxxxxxxxxxxxxxxxxxxx",
+        "login": "alain.chabrier@ibm.com",
+        "password": "xxxxxxxxxxxxxxxxxxxxxx",
+        "projectName": "PA3"
+      },
+    "do" : {  
+		"type" : "desktop",
+        "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+        "key": "xxxxxxxxxxxxxxxxxxxxxx",
+		"model": "model.py",
+		"postprocess" : "postdo.js"
+	},
+	"ma" : {
+        "url": "http://localhost:9080/cognitive/ma/lob/",
+        "urlxc": "xxxxxxxxxxxxxxxxxxxxxx",
+        "session": "CO_SESSION.json"
+    },   
+    "ui" : {
+        "title": "Supply Demand with Modeling Assistant",
+        "gridjs" : "grid.js"
+    }
+}

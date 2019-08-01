@@ -1,0 +1,20 @@
+{
+  "kpis": {
+    "category": "output"
+  },
+  "production": {
+    "category": "output"
+  },
+  "executed_sales": {
+    "category": "output"
+  },
+  "markets_inventory": {
+    "category": "output"
+  },
+  "plants_inventory": {
+    "category": "output"
+  },
+  "markets_allocation": {
+    "category": "output"
+  }
+}

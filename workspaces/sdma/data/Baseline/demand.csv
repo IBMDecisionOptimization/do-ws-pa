@@ -1,0 +1,958 @@
+Products,Markets,Months,value
+200S,US,Jan-07,6666
+200S,US,Feb-07,88
+200S,US,Mar-07,81
+200S,Canada,Jan-07,93
+200S,Canada,Feb-07,96
+200S,Canada,Mar-07,97
+200S,Brazil,Jan-07,90
+200S,Brazil,Feb-07,88
+200S,Brazil,Mar-07,90
+200S,Argentina,Jan-07,64
+200S,Argentina,Feb-07,67
+200S,Argentina,Mar-07,61
+200S,UK,Jan-07,72
+200S,UK,Feb-07,73
+200S,UK,Mar-07,71
+200S,France,Jan-07,83
+200S,France,Feb-07,79
+200S,France,Mar-07,75
+200S,Germany,Jan-07,22
+200S,Germany,Feb-07,30
+200S,Germany,Mar-07,22
+200S,Spain,Jan-07,68
+200S,Spain,Feb-07,65
+200S,Spain,Mar-07,59
+200S,Italy,Jan-07,32
+200S,Italy,Feb-07,34
+200S,Italy,Mar-07,36
+200S,China,Jan-07,87
+200S,China,Feb-07,82
+200S,China,Mar-07,87
+200S,Japan,Jan-07,64
+200S,Japan,Feb-07,63
+200S,Japan,Mar-07,58
+300S,US,Jan-07,28
+300S,US,Feb-07,28
+300S,US,Mar-07,22
+300S,Canada,Jan-07,20
+300S,Canada,Feb-07,23
+300S,Canada,Mar-07,22
+300S,Brazil,Jan-07,62
+300S,Brazil,Feb-07,58
+300S,Brazil,Mar-07,55
+300S,Argentina,Jan-07,46
+300S,Argentina,Feb-07,41
+300S,Argentina,Mar-07,44
+300S,UK,Jan-07,27
+300S,UK,Feb-07,30
+300S,UK,Mar-07,30
+300S,France,Jan-07,108
+300S,France,Feb-07,108
+300S,France,Mar-07,105
+300S,Germany,Jan-07,36
+300S,Germany,Feb-07,45
+300S,Germany,Mar-07,44
+300S,Spain,Jan-07,20
+300S,Spain,Feb-07,18
+300S,Spain,Mar-07,23
+300S,Italy,Jan-07,7
+300S,Italy,Feb-07,9
+300S,Italy,Mar-07,6
+300S,China,Jan-07,33
+300S,China,Feb-07,37
+300S,China,Mar-07,29
+300S,Japan,Jan-07,11
+300S,Japan,Feb-07,7
+300S,Japan,Mar-07,12
+600S,US,Jan-07,6
+600S,US,Feb-07,2
+600S,US,Mar-07,5
+600S,Canada,Jan-07,74
+600S,Canada,Feb-07,71
+600S,Canada,Mar-07,78
+600S,Brazil,Jan-07,72
+600S,Brazil,Feb-07,70
+600S,Brazil,Mar-07,72
+600S,Argentina,Jan-07,76
+600S,Argentina,Feb-07,79
+600S,Argentina,Mar-07,77
+600S,UK,Jan-07,26
+600S,UK,Feb-07,30
+600S,UK,Mar-07,30
+600S,France,Jan-07,118
+600S,France,Feb-07,119
+600S,France,Mar-07,115
+600S,Germany,Jan-07,107
+600S,Germany,Feb-07,113
+600S,Germany,Mar-07,115
+600S,Spain,Jan-07,69
+600S,Spain,Feb-07,73
+600S,Spain,Mar-07,78
+600S,Italy,Jan-07,81
+600S,Italy,Feb-07,83
+600S,Italy,Mar-07,82
+600S,China,Jan-07,99
+600S,China,Feb-07,102
+600S,China,Mar-07,104
+600S,Japan,Jan-07,22
+600S,Japan,Feb-07,20
+600S,Japan,Mar-07,16
+626S,US,Jan-07,73
+626S,US,Feb-07,79
+626S,US,Mar-07,82
+626S,Canada,Jan-07,52
+626S,Canada,Feb-07,52
+626S,Canada,Mar-07,55
+626S,Brazil,Jan-07,26
+626S,Brazil,Feb-07,29
+626S,Brazil,Mar-07,22
+626S,Argentina,Jan-07,110
+626S,Argentina,Feb-07,102
+626S,Argentina,Mar-07,106
+626S,UK,Jan-07,31
+626S,UK,Feb-07,29
+626S,UK,Mar-07,28
+626S,France,Jan-07,22
+626S,France,Feb-07,22
+626S,France,Mar-07,25
+626S,Germany,Jan-07,22
+626S,Germany,Feb-07,27
+626S,Germany,Mar-07,24
+626S,Spain,Jan-07,19
+626S,Spain,Feb-07,21
+626S,Spain,Mar-07,12
+626S,Italy,Jan-07,24
+626S,Italy,Feb-07,25
+626S,Italy,Mar-07,24
+626S,China,Jan-07,79
+626S,China,Feb-07,71
+626S,China,Mar-07,78
+626S,Japan,Jan-07,83
+626S,Japan,Feb-07,85
+626S,Japan,Mar-07,86
+676S,US,Jan-07,47
+676S,US,Feb-07,49
+676S,US,Mar-07,56
+676S,Canada,Jan-07,20
+676S,Canada,Feb-07,20
+676S,Canada,Mar-07,25
+676S,Brazil,Jan-07,9
+676S,Brazil,Feb-07,6
+676S,Brazil,Mar-07,11
+676S,Argentina,Jan-07,91
+676S,Argentina,Feb-07,94
+676S,Argentina,Mar-07,97
+676S,UK,Jan-07,28
+676S,UK,Feb-07,27
+676S,UK,Mar-07,31
+676S,France,Jan-07,83
+676S,France,Feb-07,88
+676S,France,Mar-07,85
+676S,Germany,Jan-07,110
+676S,Germany,Feb-07,122
+676S,Germany,Mar-07,126
+676S,Spain,Jan-07,46
+676S,Spain,Feb-07,45
+676S,Spain,Mar-07,47
+676S,Italy,Jan-07,104
+676S,Italy,Feb-07,115
+676S,Italy,Mar-07,120
+676S,China,Jan-07,58
+676S,China,Feb-07,59
+676S,China,Mar-07,68
+676S,Japan,Jan-07,47
+676S,Japan,Feb-07,56
+676S,Japan,Mar-07,59
+676RS,US,Jan-07,101
+676RS,US,Feb-07,106
+676RS,US,Mar-07,116
+676RS,Canada,Jan-07,16
+676RS,Canada,Feb-07,16
+676RS,Canada,Mar-07,16
+676RS,Brazil,Jan-07,58
+676RS,Brazil,Feb-07,58
+676RS,Brazil,Mar-07,59
+676RS,Argentina,Jan-07,85
+676RS,Argentina,Feb-07,92
+676RS,Argentina,Mar-07,90
+676RS,UK,Jan-07,24
+676RS,UK,Feb-07,32
+676RS,UK,Mar-07,33
+676RS,France,Jan-07,35
+676RS,France,Feb-07,39
+676RS,France,Mar-07,36
+676RS,Germany,Jan-07,58
+676RS,Germany,Feb-07,54
+676RS,Germany,Mar-07,59
+676RS,Spain,Jan-07,64
+676RS,Spain,Feb-07,63
+676RS,Spain,Mar-07,59
+676RS,Italy,Jan-07,35
+676RS,Italy,Feb-07,39
+676RS,Italy,Mar-07,34
+676RS,China,Jan-07,36
+676RS,China,Feb-07,37
+676RS,China,Mar-07,39
+676RS,Japan,Jan-07,72
+676RS,Japan,Feb-07,68
+676RS,Japan,Mar-07,70
+900S,US,Jan-07,9
+900S,US,Feb-07,14
+900S,US,Mar-07,6
+900S,Canada,Jan-07,105
+900S,Canada,Feb-07,97
+900S,Canada,Mar-07,102
+900S,Brazil,Jan-07,37
+900S,Brazil,Feb-07,40
+900S,Brazil,Mar-07,43
+900S,Argentina,Jan-07,35
+900S,Argentina,Feb-07,34
+900S,Argentina,Mar-07,35
+900S,UK,Jan-07,115
+900S,UK,Feb-07,107
+900S,UK,Mar-07,111
+900S,France,Jan-07,41
+900S,France,Feb-07,37
+900S,France,Mar-07,44
+900S,Germany,Jan-07,43
+900S,Germany,Feb-07,35
+900S,Germany,Mar-07,39
+900S,Spain,Jan-07,59
+900S,Spain,Feb-07,61
+900S,Spain,Mar-07,60
+900S,Italy,Jan-07,22
+900S,Italy,Feb-07,24
+900S,Italy,Mar-07,22
+900S,China,Jan-07,13
+900S,China,Feb-07,12
+900S,China,Mar-07,16
+900S,Japan,Jan-07,39
+900S,Japan,Feb-07,38
+900S,Japan,Mar-07,37
+929S,US,Jan-07,107
+929S,US,Feb-07,106
+929S,US,Mar-07,107
+929S,Canada,Jan-07,42
+929S,Canada,Feb-07,40
+929S,Canada,Mar-07,45
+929S,Brazil,Jan-07,15
+929S,Brazil,Feb-07,10
+929S,Brazil,Mar-07,8
+929S,Argentina,Jan-07,11
+929S,Argentina,Feb-07,6
+929S,Argentina,Mar-07,7
+929S,UK,Jan-07,53
+929S,UK,Feb-07,52
+929S,UK,Mar-07,54
+929S,France,Jan-07,116
+929S,France,Feb-07,113
+929S,France,Mar-07,110
+929S,Germany,Jan-07,15
+929S,Germany,Feb-07,21
+929S,Germany,Mar-07,20
+929S,Spain,Jan-07,94
+929S,Spain,Feb-07,99
+929S,Spain,Mar-07,92
+929S,Italy,Jan-07,39
+929S,Italy,Feb-07,45
+929S,Italy,Mar-07,46
+929S,China,Jan-07,67
+929S,China,Feb-07,67
+929S,China,Mar-07,71
+929S,Japan,Jan-07,22
+929S,Japan,Feb-07,23
+929S,Japan,Mar-07,23
+996S,US,Jan-07,70
+996S,US,Feb-07,68
+996S,US,Mar-07,68
+996S,Canada,Jan-07,87
+996S,Canada,Feb-07,91
+996S,Canada,Mar-07,90
+996S,Brazil,Jan-07,10
+996S,Brazil,Feb-07,8
+996S,Brazil,Mar-07,12
+996S,Argentina,Jan-07,96
+996S,Argentina,Feb-07,95
+996S,Argentina,Mar-07,105
+996S,UK,Jan-07,47
+996S,UK,Feb-07,46
+996S,UK,Mar-07,55
+996S,France,Jan-07,52
+996S,France,Feb-07,54
+996S,France,Mar-07,60
+996S,Germany,Jan-07,47
+996S,Germany,Feb-07,44
+996S,Germany,Mar-07,49
+996S,Spain,Jan-07,85
+996S,Spain,Feb-07,87
+996S,Spain,Mar-07,98
+996S,Italy,Jan-07,25
+996S,Italy,Feb-07,28
+996S,Italy,Mar-07,28
+996S,China,Jan-07,98
+996S,China,Feb-07,101
+996S,China,Mar-07,98
+996S,Japan,Jan-07,50
+996S,Japan,Feb-07,51
+996S,Japan,Mar-07,55
+996RS,US,Jan-07,15
+996RS,US,Feb-07,17
+996RS,US,Mar-07,15
+996RS,Canada,Jan-07,73
+996RS,Canada,Feb-07,72
+996RS,Canada,Mar-07,70
+996RS,Brazil,Jan-07,97
+996RS,Brazil,Feb-07,98
+996RS,Brazil,Mar-07,99
+996RS,Argentina,Jan-07,48
+996RS,Argentina,Feb-07,54
+996RS,Argentina,Mar-07,55
+996RS,UK,Jan-07,53
+996RS,UK,Feb-07,63
+996RS,UK,Mar-07,63
+996RS,France,Jan-07,25
+996RS,France,Feb-07,28
+996RS,France,Mar-07,34
+996RS,Germany,Jan-07,34
+996RS,Germany,Feb-07,29
+996RS,Germany,Mar-07,28
+996RS,Spain,Jan-07,71
+996RS,Spain,Feb-07,75
+996RS,Spain,Mar-07,73
+996RS,Italy,Jan-07,71
+996RS,Italy,Feb-07,72
+996RS,Italy,Mar-07,76
+996RS,China,Jan-07,5
+996RS,China,Feb-07,11
+996RS,China,Mar-07,3
+996RS,Japan,Jan-07,24
+996RS,Japan,Feb-07,23
+996RS,Japan,Mar-07,23
+RoadStar,US,Jan-07,86
+RoadStar,US,Feb-07,80
+RoadStar,US,Mar-07,77
+RoadStar,Canada,Jan-07,101
+RoadStar,Canada,Feb-07,98
+RoadStar,Canada,Mar-07,102
+RoadStar,Brazil,Jan-07,80
+RoadStar,Brazil,Feb-07,75
+RoadStar,Brazil,Mar-07,79
+RoadStar,Argentina,Jan-07,105
+RoadStar,Argentina,Feb-07,102
+RoadStar,Argentina,Mar-07,105
+RoadStar,UK,Jan-07,36
+RoadStar,UK,Feb-07,37
+RoadStar,UK,Mar-07,42
+RoadStar,France,Jan-07,92
+RoadStar,France,Feb-07,89
+RoadStar,France,Mar-07,90
+RoadStar,Germany,Jan-07,89
+RoadStar,Germany,Feb-07,81
+RoadStar,Germany,Mar-07,87
+RoadStar,Spain,Jan-07,84
+RoadStar,Spain,Feb-07,79
+RoadStar,Spain,Mar-07,85
+RoadStar,Italy,Jan-07,111
+RoadStar,Italy,Feb-07,113
+RoadStar,Italy,Mar-07,106
+RoadStar,China,Jan-07,34
+RoadStar,China,Feb-07,40
+RoadStar,China,Mar-07,38
+RoadStar,Japan,Jan-07,75
+RoadStar,Japan,Feb-07,74
+RoadStar,Japan,Mar-07,79
+RoadLiner,US,Jan-07,16
+RoadLiner,US,Feb-07,20
+RoadLiner,US,Mar-07,17
+RoadLiner,Canada,Jan-07,83
+RoadLiner,Canada,Feb-07,86
+RoadLiner,Canada,Mar-07,79
+RoadLiner,Brazil,Jan-07,105
+RoadLiner,Brazil,Feb-07,104
+RoadLiner,Brazil,Mar-07,103
+RoadLiner,Argentina,Jan-07,62
+RoadLiner,Argentina,Feb-07,61
+RoadLiner,Argentina,Mar-07,63
+RoadLiner,UK,Jan-07,38
+RoadLiner,UK,Feb-07,44
+RoadLiner,UK,Mar-07,37
+RoadLiner,France,Jan-07,53
+RoadLiner,France,Feb-07,55
+RoadLiner,France,Mar-07,58
+RoadLiner,Germany,Jan-07,64
+RoadLiner,Germany,Feb-07,67
+RoadLiner,Germany,Mar-07,69
+RoadLiner,Spain,Jan-07,81
+RoadLiner,Spain,Feb-07,72
+RoadLiner,Spain,Mar-07,76
+RoadLiner,Italy,Jan-07,43
+RoadLiner,Italy,Feb-07,45
+RoadLiner,Italy,Mar-07,45
+RoadLiner,China,Jan-07,64
+RoadLiner,China,Feb-07,60
+RoadLiner,China,Mar-07,64
+RoadLiner,Japan,Jan-07,28
+RoadLiner,Japan,Feb-07,24
+RoadLiner,Japan,Mar-07,22
+Victory,US,Jan-07,97
+Victory,US,Feb-07,100
+Victory,US,Mar-07,95
+Victory,Canada,Jan-07,86
+Victory,Canada,Feb-07,87
+Victory,Canada,Mar-07,87
+Victory,Brazil,Jan-07,73
+Victory,Brazil,Feb-07,65
+Victory,Brazil,Mar-07,69
+Victory,Argentina,Jan-07,30
+Victory,Argentina,Feb-07,22
+Victory,Argentina,Mar-07,21
+Victory,UK,Jan-07,36
+Victory,UK,Feb-07,42
+Victory,UK,Mar-07,38
+Victory,France,Jan-07,47
+Victory,France,Feb-07,53
+Victory,France,Mar-07,52
+Victory,Germany,Jan-07,75
+Victory,Germany,Feb-07,83
+Victory,Germany,Mar-07,77
+Victory,Spain,Jan-07,38
+Victory,Spain,Feb-07,40
+Victory,Spain,Mar-07,43
+Victory,Italy,Jan-07,87
+Victory,Italy,Feb-07,81
+Victory,Italy,Mar-07,88
+Victory,China,Jan-07,81
+Victory,China,Feb-07,74
+Victory,China,Mar-07,77
+Victory,Japan,Jan-07,13
+Victory,Japan,Feb-07,10
+Victory,Japan,Mar-07,18
+Boulevard,US,Jan-07,84
+Boulevard,US,Feb-07,92
+Boulevard,US,Mar-07,93
+Boulevard,Canada,Jan-07,50
+Boulevard,Canada,Feb-07,54
+Boulevard,Canada,Mar-07,53
+Boulevard,Brazil,Jan-07,10
+Boulevard,Brazil,Feb-07,5
+Boulevard,Brazil,Mar-07,9
+Boulevard,Argentina,Jan-07,37
+Boulevard,Argentina,Feb-07,37
+Boulevard,Argentina,Mar-07,39
+Boulevard,UK,Jan-07,38
+Boulevard,UK,Feb-07,38
+Boulevard,UK,Mar-07,40
+Boulevard,France,Jan-07,26
+Boulevard,France,Feb-07,28
+Boulevard,France,Mar-07,33
+Boulevard,Germany,Jan-07,4
+Boulevard,Germany,Feb-07,12
+Boulevard,Germany,Mar-07,12
+Boulevard,Spain,Jan-07,101
+Boulevard,Spain,Feb-07,95
+Boulevard,Spain,Mar-07,102
+Boulevard,Italy,Jan-07,77
+Boulevard,Italy,Feb-07,83
+Boulevard,Italy,Mar-07,84
+Boulevard,China,Jan-07,100
+Boulevard,China,Feb-07,93
+Boulevard,China,Mar-07,98
+Boulevard,Japan,Jan-07,82
+Boulevard,Japan,Feb-07,81
+Boulevard,Japan,Mar-07,74
+KingTwin,US,Jan-07,36
+KingTwin,US,Feb-07,40
+KingTwin,US,Mar-07,40
+KingTwin,Canada,Jan-07,52
+KingTwin,Canada,Feb-07,58
+KingTwin,Canada,Mar-07,55
+KingTwin,Brazil,Jan-07,22
+KingTwin,Brazil,Feb-07,27
+KingTwin,Brazil,Mar-07,29
+KingTwin,Argentina,Jan-07,83
+KingTwin,Argentina,Feb-07,92
+KingTwin,Argentina,Mar-07,92
+KingTwin,UK,Jan-07,81
+KingTwin,UK,Feb-07,87
+KingTwin,UK,Mar-07,94
+KingTwin,France,Jan-07,95
+KingTwin,France,Feb-07,101
+KingTwin,France,Mar-07,102
+KingTwin,Germany,Jan-07,118
+KingTwin,Germany,Feb-07,116
+KingTwin,Germany,Mar-07,118
+KingTwin,Spain,Jan-07,86
+KingTwin,Spain,Feb-07,95
+KingTwin,Spain,Mar-07,95
+KingTwin,Italy,Jan-07,66
+KingTwin,Italy,Feb-07,65
+KingTwin,Italy,Mar-07,67
+KingTwin,China,Jan-07,77
+KingTwin,China,Feb-07,80
+KingTwin,China,Mar-07,81
+KingTwin,Japan,Jan-07,45
+KingTwin,Japan,Feb-07,49
+KingTwin,Japan,Mar-07,54
+MegaTwin,US,Jan-07,66
+MegaTwin,US,Feb-07,71
+MegaTwin,US,Mar-07,75
+MegaTwin,Canada,Jan-07,28
+MegaTwin,Canada,Feb-07,35
+MegaTwin,Canada,Mar-07,34
+MegaTwin,Brazil,Jan-07,80
+MegaTwin,Brazil,Feb-07,78
+MegaTwin,Brazil,Mar-07,77
+MegaTwin,Argentina,Jan-07,88
+MegaTwin,Argentina,Feb-07,89
+MegaTwin,Argentina,Mar-07,97
+MegaTwin,UK,Jan-07,34
+MegaTwin,UK,Feb-07,38
+MegaTwin,UK,Mar-07,35
+MegaTwin,France,Jan-07,89
+MegaTwin,France,Feb-07,94
+MegaTwin,France,Mar-07,104
+MegaTwin,Germany,Jan-07,35
+MegaTwin,Germany,Feb-07,33
+MegaTwin,Germany,Mar-07,30
+MegaTwin,Spain,Jan-07,27
+MegaTwin,Spain,Feb-07,31
+MegaTwin,Spain,Mar-07,32
+MegaTwin,Italy,Jan-07,88
+MegaTwin,Italy,Feb-07,92
+MegaTwin,Italy,Mar-07,90
+MegaTwin,China,Jan-07,0
+MegaTwin,China,Feb-07,9
+MegaTwin,China,Mar-07,7
+MegaTwin,Japan,Jan-07,57
+MegaTwin,Japan,Feb-07,61
+MegaTwin,Japan,Mar-07,56
+ST900,US,Jan-07,43
+ST900,US,Feb-07,40
+ST900,US,Mar-07,40
+ST900,Canada,Jan-07,9
+ST900,Canada,Feb-07,7
+ST900,Canada,Mar-07,5
+ST900,Brazil,Jan-07,19
+ST900,Brazil,Feb-07,17
+ST900,Brazil,Mar-07,20
+ST900,Argentina,Jan-07,76
+ST900,Argentina,Feb-07,79
+ST900,Argentina,Mar-07,72
+ST900,UK,Jan-07,41
+ST900,UK,Feb-07,45
+ST900,UK,Mar-07,46
+ST900,France,Jan-07,64
+ST900,France,Feb-07,59
+ST900,France,Mar-07,58
+ST900,Germany,Jan-07,39
+ST900,Germany,Feb-07,46
+ST900,Germany,Mar-07,43
+ST900,Spain,Jan-07,42
+ST900,Spain,Feb-07,42
+ST900,Spain,Mar-07,44
+ST900,Italy,Jan-07,53
+ST900,Italy,Feb-07,52
+ST900,Italy,Mar-07,56
+ST900,China,Jan-07,55
+ST900,China,Feb-07,49
+ST900,China,Mar-07,45
+ST900,Japan,Jan-07,45
+ST900,Japan,Feb-07,48
+ST900,Japan,Mar-07,41
+ST1200,US,Jan-07,58
+ST1200,US,Feb-07,62
+ST1200,US,Mar-07,64
+ST1200,Canada,Jan-07,13
+ST1200,Canada,Feb-07,16
+ST1200,Canada,Mar-07,10
+ST1200,Brazil,Jan-07,58
+ST1200,Brazil,Feb-07,60
+ST1200,Brazil,Mar-07,53
+ST1200,Argentina,Jan-07,86
+ST1200,Argentina,Feb-07,91
+ST1200,Argentina,Mar-07,91
+ST1200,UK,Jan-07,93
+ST1200,UK,Feb-07,101
+ST1200,UK,Mar-07,95
+ST1200,France,Jan-07,81
+ST1200,France,Feb-07,81
+ST1200,France,Mar-07,82
+ST1200,Germany,Jan-07,27
+ST1200,Germany,Feb-07,23
+ST1200,Germany,Mar-07,22
+ST1200,Spain,Jan-07,95
+ST1200,Spain,Feb-07,89
+ST1200,Spain,Mar-07,95
+ST1200,Italy,Jan-07,67
+ST1200,Italy,Feb-07,66
+ST1200,Italy,Mar-07,68
+ST1200,China,Jan-07,99
+ST1200,China,Feb-07,100
+ST1200,China,Mar-07,100
+ST1200,Japan,Jan-07,98
+ST1200,Japan,Feb-07,99
+ST1200,Japan,Mar-07,107
+ST1200R,US,Jan-07,76
+ST1200R,US,Feb-07,73
+ST1200R,US,Mar-07,79
+ST1200R,Canada,Jan-07,67
+ST1200R,Canada,Feb-07,75
+ST1200R,Canada,Mar-07,77
+ST1200R,Brazil,Jan-07,15
+ST1200R,Brazil,Feb-07,14
+ST1200R,Brazil,Mar-07,18
+ST1200R,Argentina,Jan-07,47
+ST1200R,Argentina,Feb-07,47
+ST1200R,Argentina,Mar-07,54
+ST1200R,UK,Jan-07,108
+ST1200R,UK,Feb-07,110
+ST1200R,UK,Mar-07,113
+ST1200R,France,Jan-07,69
+ST1200R,France,Feb-07,68
+ST1200R,France,Mar-07,69
+ST1200R,Germany,Jan-07,32
+ST1200R,Germany,Feb-07,27
+ST1200R,Germany,Mar-07,27
+ST1200R,Spain,Jan-07,47
+ST1200R,Spain,Feb-07,54
+ST1200R,Spain,Mar-07,58
+ST1200R,Italy,Jan-07,9
+ST1200R,Italy,Feb-07,7
+ST1200R,Italy,Mar-07,6
+ST1200R,China,Jan-07,86
+ST1200R,China,Feb-07,88
+ST1200R,China,Mar-07,85
+ST1200R,Japan,Jan-07,53
+ST1200R,Japan,Feb-07,47
+ST1200R,Japan,Mar-07,52
+Bandit 900,US,Jan-07,55
+Bandit 900,US,Feb-07,48
+Bandit 900,US,Mar-07,54
+Bandit 900,Canada,Jan-07,60
+Bandit 900,Canada,Feb-07,60
+Bandit 900,Canada,Mar-07,64
+Bandit 900,Brazil,Jan-07,106
+Bandit 900,Brazil,Feb-07,111
+Bandit 900,Brazil,Mar-07,107
+Bandit 900,Argentina,Jan-07,66
+Bandit 900,Argentina,Feb-07,75
+Bandit 900,Argentina,Mar-07,71
+Bandit 900,UK,Jan-07,107
+Bandit 900,UK,Feb-07,112
+Bandit 900,UK,Mar-07,107
+Bandit 900,France,Jan-07,101
+Bandit 900,France,Feb-07,103
+Bandit 900,France,Mar-07,109
+Bandit 900,Germany,Jan-07,27
+Bandit 900,Germany,Feb-07,28
+Bandit 900,Germany,Mar-07,27
+Bandit 900,Spain,Jan-07,47
+Bandit 900,Spain,Feb-07,47
+Bandit 900,Spain,Mar-07,48
+Bandit 900,Italy,Jan-07,109
+Bandit 900,Italy,Feb-07,104
+Bandit 900,Italy,Mar-07,107
+Bandit 900,China,Jan-07,55
+Bandit 900,China,Feb-07,51
+Bandit 900,China,Mar-07,55
+Bandit 900,Japan,Jan-07,52
+Bandit 900,Japan,Feb-07,61
+Bandit 900,Japan,Mar-07,57
+Bandit 1200,US,Jan-07,97
+Bandit 1200,US,Feb-07,100
+Bandit 1200,US,Mar-07,95
+Bandit 1200,Canada,Jan-07,62
+Bandit 1200,Canada,Feb-07,64
+Bandit 1200,Canada,Mar-07,67
+Bandit 1200,Brazil,Jan-07,66
+Bandit 1200,Brazil,Feb-07,72
+Bandit 1200,Brazil,Mar-07,68
+Bandit 1200,Argentina,Jan-07,83
+Bandit 1200,Argentina,Feb-07,90
+Bandit 1200,Argentina,Mar-07,93
+Bandit 1200,UK,Jan-07,115
+Bandit 1200,UK,Feb-07,109
+Bandit 1200,UK,Mar-07,117
+Bandit 1200,France,Jan-07,22
+Bandit 1200,France,Feb-07,20
+Bandit 1200,France,Mar-07,26
+Bandit 1200,Germany,Jan-07,56
+Bandit 1200,Germany,Feb-07,58
+Bandit 1200,Germany,Mar-07,58
+Bandit 1200,Spain,Jan-07,108
+Bandit 1200,Spain,Feb-07,115
+Bandit 1200,Spain,Mar-07,111
+Bandit 1200,Italy,Jan-07,36
+Bandit 1200,Italy,Feb-07,34
+Bandit 1200,Italy,Mar-07,34
+Bandit 1200,China,Jan-07,101
+Bandit 1200,China,Feb-07,104
+Bandit 1200,China,Mar-07,102
+Bandit 1200,Japan,Jan-07,32
+Bandit 1200,Japan,Feb-07,28
+Bandit 1200,Japan,Mar-07,35
+Bandit 1200S,US,Jan-07,59
+Bandit 1200S,US,Feb-07,56
+Bandit 1200S,US,Mar-07,59
+Bandit 1200S,Canada,Jan-07,64
+Bandit 1200S,Canada,Feb-07,66
+Bandit 1200S,Canada,Mar-07,64
+Bandit 1200S,Brazil,Jan-07,31
+Bandit 1200S,Brazil,Feb-07,36
+Bandit 1200S,Brazil,Mar-07,34
+Bandit 1200S,Argentina,Jan-07,90
+Bandit 1200S,Argentina,Feb-07,96
+Bandit 1200S,Argentina,Mar-07,99
+Bandit 1200S,UK,Jan-07,69
+Bandit 1200S,UK,Feb-07,63
+Bandit 1200S,UK,Mar-07,68
+Bandit 1200S,France,Jan-07,99
+Bandit 1200S,France,Feb-07,100
+Bandit 1200S,France,Mar-07,104
+Bandit 1200S,Germany,Jan-07,58
+Bandit 1200S,Germany,Feb-07,59
+Bandit 1200S,Germany,Mar-07,53
+Bandit 1200S,Spain,Jan-07,11
+Bandit 1200S,Spain,Feb-07,11
+Bandit 1200S,Spain,Mar-07,9
+Bandit 1200S,Italy,Jan-07,26
+Bandit 1200S,Italy,Feb-07,24
+Bandit 1200S,Italy,Mar-07,23
+Bandit 1200S,China,Jan-07,80
+Bandit 1200S,China,Feb-07,89
+Bandit 1200S,China,Mar-07,84
+Bandit 1200S,Japan,Jan-07,89
+Bandit 1200S,Japan,Feb-07,90
+Bandit 1200S,Japan,Mar-07,94
+Enduro 350,US,Jan-07,62
+Enduro 350,US,Feb-07,59
+Enduro 350,US,Mar-07,60
+Enduro 350,Canada,Jan-07,3
+Enduro 350,Canada,Feb-07,4
+Enduro 350,Canada,Mar-07,5
+Enduro 350,Brazil,Jan-07,26
+Enduro 350,Brazil,Feb-07,29
+Enduro 350,Brazil,Mar-07,21
+Enduro 350,Argentina,Jan-07,77
+Enduro 350,Argentina,Feb-07,70
+Enduro 350,Argentina,Mar-07,73
+Enduro 350,UK,Jan-07,10
+Enduro 350,UK,Feb-07,19
+Enduro 350,UK,Mar-07,17
+Enduro 350,France,Jan-07,108
+Enduro 350,France,Feb-07,106
+Enduro 350,France,Mar-07,102
+Enduro 350,Germany,Jan-07,10
+Enduro 350,Germany,Feb-07,10
+Enduro 350,Germany,Mar-07,13
+Enduro 350,Spain,Jan-07,98
+Enduro 350,Spain,Feb-07,95
+Enduro 350,Spain,Mar-07,93
+Enduro 350,Italy,Jan-07,4
+Enduro 350,Italy,Feb-07,13
+Enduro 350,Italy,Mar-07,5
+Enduro 350,China,Jan-07,94
+Enduro 350,China,Feb-07,93
+Enduro 350,China,Mar-07,88
+Enduro 350,Japan,Jan-07,79
+Enduro 350,Japan,Feb-07,74
+Enduro 350,Japan,Mar-07,78
+Enduro 450,US,Jan-07,58
+Enduro 450,US,Feb-07,66
+Enduro 450,US,Mar-07,66
+Enduro 450,Canada,Jan-07,28
+Enduro 450,Canada,Feb-07,27
+Enduro 450,Canada,Mar-07,28
+Enduro 450,Brazil,Jan-07,67
+Enduro 450,Brazil,Feb-07,69
+Enduro 450,Brazil,Mar-07,70
+Enduro 450,Argentina,Jan-07,17
+Enduro 450,Argentina,Feb-07,15
+Enduro 450,Argentina,Mar-07,16
+Enduro 450,UK,Jan-07,60
+Enduro 450,UK,Feb-07,61
+Enduro 450,UK,Mar-07,66
+Enduro 450,France,Jan-07,71
+Enduro 450,France,Feb-07,69
+Enduro 450,France,Mar-07,73
+Enduro 450,Germany,Jan-07,102
+Enduro 450,Germany,Feb-07,103
+Enduro 450,Germany,Mar-07,108
+Enduro 450,Spain,Jan-07,38
+Enduro 450,Spain,Feb-07,40
+Enduro 450,Spain,Mar-07,44
+Enduro 450,Italy,Jan-07,36
+Enduro 450,Italy,Feb-07,41
+Enduro 450,Italy,Mar-07,41
+Enduro 450,China,Jan-07,52
+Enduro 450,China,Feb-07,56
+Enduro 450,China,Mar-07,55
+Enduro 450,Japan,Jan-07,75
+Enduro 450,Japan,Feb-07,71
+Enduro 450,Japan,Mar-07,68
+Enduro 550,US,Jan-07,90
+Enduro 550,US,Feb-07,92
+Enduro 550,US,Mar-07,100
+Enduro 550,Canada,Jan-07,63
+Enduro 550,Canada,Feb-07,68
+Enduro 550,Canada,Mar-07,66
+Enduro 550,Brazil,Jan-07,25
+Enduro 550,Brazil,Feb-07,18
+Enduro 550,Brazil,Mar-07,18
+Enduro 550,Argentina,Jan-07,56
+Enduro 550,Argentina,Feb-07,58
+Enduro 550,Argentina,Mar-07,56
+Enduro 550,UK,Jan-07,50
+Enduro 550,UK,Feb-07,52
+Enduro 550,UK,Mar-07,53
+Enduro 550,France,Jan-07,40
+Enduro 550,France,Feb-07,40
+Enduro 550,France,Mar-07,39
+Enduro 550,Germany,Jan-07,89
+Enduro 550,Germany,Feb-07,91
+Enduro 550,Germany,Mar-07,97
+Enduro 550,Spain,Jan-07,57
+Enduro 550,Spain,Feb-07,63
+Enduro 550,Spain,Mar-07,65
+Enduro 550,Italy,Jan-07,95
+Enduro 550,Italy,Feb-07,99
+Enduro 550,Italy,Mar-07,106
+Enduro 550,China,Jan-07,103
+Enduro 550,China,Feb-07,103
+Enduro 550,China,Mar-07,109
+Enduro 550,Japan,Jan-07,84
+Enduro 550,Japan,Feb-07,86
+Enduro 550,Japan,Mar-07,85
+CRX500,US,Jan-07,61
+CRX500,US,Feb-07,65
+CRX500,US,Mar-07,66
+CRX500,Canada,Jan-07,26
+CRX500,Canada,Feb-07,29
+CRX500,Canada,Mar-07,22
+CRX500,Brazil,Jan-07,72
+CRX500,Brazil,Feb-07,70
+CRX500,Brazil,Mar-07,73
+CRX500,Argentina,Jan-07,88
+CRX500,Argentina,Feb-07,83
+CRX500,Argentina,Mar-07,81
+CRX500,UK,Jan-07,82
+CRX500,UK,Feb-07,80
+CRX500,UK,Mar-07,83
+CRX500,France,Jan-07,64
+CRX500,France,Feb-07,63
+CRX500,France,Mar-07,64
+CRX500,Germany,Jan-07,60
+CRX500,Germany,Feb-07,57
+CRX500,Germany,Mar-07,54
+CRX500,Spain,Jan-07,54
+CRX500,Spain,Feb-07,57
+CRX500,Spain,Mar-07,54
+CRX500,Italy,Jan-07,104
+CRX500,Italy,Feb-07,107
+CRX500,Italy,Mar-07,100
+CRX500,China,Jan-07,50
+CRX500,China,Feb-07,43
+CRX500,China,Mar-07,50
+CRX500,Japan,Jan-07,87
+CRX500,Japan,Feb-07,87
+CRX500,Japan,Mar-07,79
+CRS550,US,Jan-07,96
+CRS550,US,Feb-07,93
+CRS550,US,Mar-07,97
+CRS550,Canada,Jan-07,77
+CRS550,Canada,Feb-07,70
+CRS550,Canada,Mar-07,78
+CRS550,Brazil,Jan-07,109
+CRS550,Brazil,Feb-07,112
+CRS550,Brazil,Mar-07,110
+CRS550,Argentina,Jan-07,110
+CRS550,Argentina,Feb-07,112
+CRS550,Argentina,Mar-07,105
+CRS550,UK,Jan-07,110
+CRS550,UK,Feb-07,106
+CRS550,UK,Mar-07,112
+CRS550,France,Jan-07,67
+CRS550,France,Feb-07,68
+CRS550,France,Mar-07,67
+CRS550,Germany,Jan-07,61
+CRS550,Germany,Feb-07,66
+CRS550,Germany,Mar-07,62
+CRS550,Spain,Jan-07,64
+CRS550,Spain,Feb-07,66
+CRS550,Spain,Mar-07,64
+CRS550,Italy,Jan-07,70
+CRS550,Italy,Feb-07,62
+CRS550,Italy,Mar-07,66
+CRS550,China,Jan-07,23
+CRS550,China,Feb-07,22
+CRS550,China,Mar-07,26
+CRS550,Japan,Jan-07,22
+CRS550,Japan,Feb-07,16
+CRS550,Japan,Mar-07,15
+CRX600,US,Jan-07,66
+CRX600,US,Feb-07,66
+CRX600,US,Mar-07,63
+CRX600,Canada,Jan-07,10
+CRX600,Canada,Feb-07,3
+CRX600,Canada,Mar-07,7
+CRX600,Brazil,Jan-07,104
+CRX600,Brazil,Feb-07,110
+CRX600,Brazil,Mar-07,105
+CRX600,Argentina,Jan-07,48
+CRX600,Argentina,Feb-07,41
+CRX600,Argentina,Mar-07,42
+CRX600,UK,Jan-07,40
+CRX600,UK,Feb-07,40
+CRX600,UK,Mar-07,37
+CRX600,France,Jan-07,54
+CRX600,France,Feb-07,52
+CRX600,France,Mar-07,56
+CRX600,Germany,Jan-07,17
+CRX600,Germany,Feb-07,22
+CRX600,Germany,Mar-07,20
+CRX600,Spain,Jan-07,49
+CRX600,Spain,Feb-07,52
+CRX600,Spain,Mar-07,48
+CRX600,Italy,Jan-07,69
+CRX600,Italy,Feb-07,73
+CRX600,Italy,Mar-07,73
+CRX600,China,Jan-07,72
+CRX600,China,Feb-07,76
+CRX600,China,Mar-07,78
+CRX600,Japan,Jan-07,76
+CRX600,Japan,Feb-07,77
+CRX600,Japan,Mar-07,74
+CRX650,US,Jan-07,42
+CRX650,US,Feb-07,42
+CRX650,US,Mar-07,45
+CRX650,Canada,Jan-07,63
+CRX650,Canada,Feb-07,65
+CRX650,Canada,Mar-07,70
+CRX650,Brazil,Jan-07,100
+CRX650,Brazil,Feb-07,107
+CRX650,Brazil,Mar-07,105
+CRX650,Argentina,Jan-07,62
+CRX650,Argentina,Feb-07,58
+CRX650,Argentina,Mar-07,63
+CRX650,UK,Jan-07,101
+CRX650,UK,Feb-07,97
+CRX650,UK,Mar-07,102
+CRX650,France,Jan-07,52
+CRX650,France,Feb-07,55
+CRX650,France,Mar-07,61
+CRX650,Germany,Jan-07,37
+CRX650,Germany,Feb-07,42
+CRX650,Germany,Mar-07,37
+CRX650,Spain,Jan-07,98
+CRX650,Spain,Feb-07,95
+CRX650,Spain,Mar-07,98
+CRX650,Italy,Jan-07,69
+CRX650,Italy,Feb-07,71
+CRX650,Italy,Mar-07,69
+CRX650,China,Jan-07,41
+CRX650,China,Feb-07,41
+CRX650,China,Mar-07,50
+CRX650,Japan,Jan-07,85
+CRX650,Japan,Feb-07,92
+CRX650,Japan,Mar-07,93

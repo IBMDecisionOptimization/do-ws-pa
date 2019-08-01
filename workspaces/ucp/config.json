@@ -1,0 +1,122 @@
+{
+	"name" : "UCP",
+	"palocal": {	
+		"description": "PA Local on ibmdemos",
+		"loginurl": "http://ibmdemos/login",
+		"url": "http://ibmdemos/tm1/Decision%20Optimisation",
+		"username": "pm",
+		"password": "IBMDem0s",
+		"mapping" : {
+			"versionDimensionName": "Version",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+					"Periods": {
+						"name": "Periods"
+					}
+				},
+				"cubes": {
+					"Units": {
+						"name": "Units",
+						"propertyDimensionName": "UnitProperties"
+					},
+					"UnitMaintenances": {
+						"name": "UnitMaintenances"
+					},
+					"Loads": {
+						"name": "Loads"
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"production": {
+						"name": "production"
+					},
+					"started": {
+						"name": "started"
+					},
+					"used": {
+						"name": "used"
+					},
+					"kpis": {
+						"name" : "kpis",
+						"adddummy" : true
+					}
+				},
+				"prefix": "_ucp"
+			}
+		}
+	},
+	"pa": {
+		"description": "This is the original ibmtraining public PA credentials",
+		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
+		"url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
+		"accountId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "tenantId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "userId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "username": "xxxxxxxxxxxxxxxxxxxxxx",
+		"password": "xxxxxxxxxxxxxxxxxxxxxx",
+		"mapping" : {
+			"versionDimensionName": "Version",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+					"Periods": {
+						"name": "Periods"
+					}
+				},
+				"cubes": {
+					"Units": {
+						"name": "Units",
+						"propertyDimensionName": "UnitProperties"
+					},
+					"UnitMaintenances": {
+						"name": "UnitMaintenances"
+					},
+					"Loads": {
+						"name": "Loads"
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"production": {
+						"name": "production"
+					},
+					"started": {
+						"name": "started"
+					},
+					"used": {
+						"name": "used"
+					},
+					"kpis": {
+						"name" : "kpis",
+						"adddummy" : true
+					}
+				},
+				"prefix": "_ucp"
+			}
+		}
+	},
+	"dsx": {
+		"url": "xxxxxxxxxxxxxxxxxxxxxx",
+		"login": "alain.chabrier@ibm.com",
+		"password": "xxxxxxxxxxxxxxxxxxxxxx",
+		"projectName": "PA3"
+	},
+	"do": {
+		"type" : "desktop",		
+		"model" : "model.py",
+		"url": "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",		
+		"key": "xxxxxxxxxxxxxxxxxxxxxx",
+		"action": {
+			"text": "PLAN"
+		}
+	},
+	"ui" : {
+		"title": "Unit Commitment"
+	}	
+}

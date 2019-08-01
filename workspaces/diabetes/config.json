@@ -1,0 +1,91 @@
+{
+	"name": "Diabetes",
+	"palocal": {	
+		"description": "PA Local on ibmdemos",
+		"loginurl": "http://ibmdemos/login",
+		"url": "http://ibmdemos/tm1/Decision%20Optimisation",
+		"username": "pm",
+		"password": "IBMDem0s",
+		"mapping" : {
+			"versionDimensionName": "Version",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+	
+				},
+				"cubes": {
+					"Diabetes": {
+						"name": "Diabetes",
+						"propertyDimensionName": "DiabeteProperties"
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"DiabetesOutcome": {
+						"name": "DiabetesOutcome"
+					}			
+				},
+				"prefix": ""
+			}
+		}
+	},
+	"pa": {
+		"description": "This is the original ibmtraining public PA credentials",
+		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
+		"url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
+		"accountId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "tenantId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "userId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "username": "xxxxxxxxxxxxxxxxxxxxxx",
+		"password": "xxxxxxxxxxxxxxxxxxxxxx",
+		"mapping" : {
+			"versionDimensionName": "Version",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+	
+				},
+				"cubes": {
+					"Diabetes": {
+						"name": "Diabetes",
+						"propertyDimensionName": "DiabeteProperties"
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"DiabetesOutcome": {
+						"name": "DiabetesOutcome"
+					}			
+				},
+				"prefix": ""
+			}
+		}
+	},
+	"dsx": {
+		"type": "cloud",
+		"url": "https://dataplatform.cloud.ibm.com",
+		"apiurl": "https://api.dataplatform.cloud.ibm.com",
+		"apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+		"projectName": "PA3",
+		"projectId": "xxxxxxxxxxxxxxxxxxxxxx",
+		"cosurl": "https://s3-api.us-geo.objectstorage.softlayer.net",
+		"cosbucket": "pa3-donotdelete-pr-7inxcmmgyo074w"
+	},
+	"ml": {
+		"url": "https://us-south.ml.cloud.ibm.com/v3/wml_instances/8a69e5fe-b112-4b92-adfd-0dbce326332b/deployments/25b7a943-3578-4e88-a308-432718177678/online",
+		"apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+		"input": "Diabetes",
+		"output": "DiabetesOutcome",
+		"action": {
+			"text": "PREDICT",
+			"alertErrors": true
+		}
+	},
+	"ui" : {
+		"title": "Diabetes"
+	}
+}

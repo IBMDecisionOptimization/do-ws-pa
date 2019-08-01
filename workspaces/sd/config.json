@@ -1,0 +1,95 @@
+{
+	"name": "SD",
+	"pa": {
+		"description": "This is the original ibmtraining public PA credentials",
+		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
+		"url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
+		"accountId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "tenantId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "userId": "xxxxxxxxxxxxxxxxxxxxxx",
+        "username": "xxxxxxxxxxxxxxxxxxxxxx",
+		"password": "xxxxxxxxxxxxxxxxxxxxxx",
+		"mapping" : {
+			"versionDimensionName": "Plan",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+					"Products": {
+						"name": "Products"
+					},
+					"Plants": {
+						"name": "Plants"
+					},
+					"Markets": {
+						"name": "Markets"
+					},
+					"Months": {
+						"name": "Months"
+					}
+				},
+				"cubes": {
+					"Demand": {
+						"name": "Demand",
+						"readVersion" : false
+					},
+					"FirmSales": {
+						"name": "FirmSales",
+						"readVersion" : false
+					},
+					"MarginalProfit": {
+						"name": "MarginalProfit",
+						"readVersion" : false
+					},
+					"PlantMonthCapacity": {
+						"name": "PlantMonthCapacity",
+						"readVersion" : false
+					},
+					"PlantProductCapacity": {
+						"name": "PlantProductCapacity",
+						"readVersion" : false
+					},
+					"PlantProductCost": {
+						"name": "PlantProductCost",
+						"readVersion" : false
+					},
+					"InitialInventory": {
+						"name": "InitialInventory",
+						"readVersion" : false
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"production": {
+						"name": "production"
+					},	
+					"executed_sales": {
+						"name": "executed_saled"
+					},	
+					"markets_inventory": {
+						"name": "markets_inventory"
+					},
+					"markets_allocation": {
+						"name": "markets_allocation"
+					}
+				},
+				"prefix": "_sd"
+			}
+		}
+	},
+	"dsx": {
+		"url": "xxxxxxxxxxxxxxxxxxxxxx",
+		"login": "alain.chabrier@ibm.com",
+		"password": "xxxxxxxxxxxxxxxxxxxxxx",
+		"projectName": "SD"
+	},
+	"do": {
+		"model" : "model_sd.py",
+		"url": "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",		
+		"key": "xxxxxxxxxxxxxxxxxxxxxx"
+	},
+	"ui" : {
+		"title": "Supply Demand"
+	}	
+}

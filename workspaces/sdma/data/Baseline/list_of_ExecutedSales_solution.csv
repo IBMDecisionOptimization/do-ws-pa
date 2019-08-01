@@ -1,0 +1,958 @@
+,id_of_Market,id_of_Month,id_of_Product,executedSalesVar
+0,Argentina,Feb-07,200S,67.0
+1,Argentina,Feb-07,300S,41.0
+2,Argentina,Feb-07,600S,79.0
+3,Argentina,Feb-07,626S,102.0
+4,Argentina,Feb-07,676RS,92.0
+5,Argentina,Feb-07,676S,94.0
+6,Argentina,Feb-07,900S,34.0
+7,Argentina,Feb-07,929S,6.0
+8,Argentina,Feb-07,996RS,54.0
+9,Argentina,Feb-07,996S,95.0
+10,Argentina,Feb-07,Bandit 1200,90.0
+11,Argentina,Feb-07,Bandit 1200S,96.0
+12,Argentina,Feb-07,Bandit 900,75.0
+13,Argentina,Feb-07,Boulevard,37.0
+14,Argentina,Feb-07,CRS550,112.0
+15,Argentina,Feb-07,CRX500,83.0
+16,Argentina,Feb-07,CRX600,41.0
+17,Argentina,Feb-07,CRX650,58.0
+18,Argentina,Feb-07,Enduro 350,70.0
+19,Argentina,Feb-07,Enduro 450,15.0
+20,Argentina,Feb-07,Enduro 550,58.0
+21,Argentina,Feb-07,KingTwin,92.0
+22,Argentina,Feb-07,MegaTwin,89.0
+23,Argentina,Feb-07,RoadLiner,61.0
+24,Argentina,Feb-07,RoadStar,102.0
+25,Argentina,Feb-07,ST1200,91.0
+26,Argentina,Feb-07,ST1200R,47.0
+27,Argentina,Feb-07,ST900,79.0
+28,Argentina,Feb-07,Victory,22.0
+29,Argentina,Jan-07,200S,64.0
+30,Argentina,Jan-07,300S,46.0
+31,Argentina,Jan-07,600S,76.0
+32,Argentina,Jan-07,626S,110.0
+33,Argentina,Jan-07,676RS,85.0
+34,Argentina,Jan-07,676S,91.0
+35,Argentina,Jan-07,900S,35.0
+36,Argentina,Jan-07,929S,11.0
+37,Argentina,Jan-07,996RS,48.0
+38,Argentina,Jan-07,996S,96.0
+39,Argentina,Jan-07,Bandit 1200,83.0
+40,Argentina,Jan-07,Bandit 1200S,90.0
+41,Argentina,Jan-07,Bandit 900,66.0
+42,Argentina,Jan-07,Boulevard,37.0
+43,Argentina,Jan-07,CRS550,110.0
+44,Argentina,Jan-07,CRX500,88.0
+45,Argentina,Jan-07,CRX600,48.0
+46,Argentina,Jan-07,CRX650,62.0
+47,Argentina,Jan-07,Enduro 350,77.0
+48,Argentina,Jan-07,Enduro 450,17.0
+49,Argentina,Jan-07,Enduro 550,56.0
+50,Argentina,Jan-07,KingTwin,83.0
+51,Argentina,Jan-07,MegaTwin,88.0
+52,Argentina,Jan-07,RoadLiner,62.0
+53,Argentina,Jan-07,RoadStar,105.0
+54,Argentina,Jan-07,ST1200,86.0
+55,Argentina,Jan-07,ST1200R,47.0
+56,Argentina,Jan-07,ST900,76.0
+57,Argentina,Jan-07,Victory,30.0
+58,Argentina,Mar-07,200S,61.0
+59,Argentina,Mar-07,300S,44.0
+60,Argentina,Mar-07,600S,77.0
+61,Argentina,Mar-07,626S,106.0
+62,Argentina,Mar-07,676RS,90.0
+63,Argentina,Mar-07,676S,97.0
+64,Argentina,Mar-07,900S,35.0
+65,Argentina,Mar-07,929S,7.0
+66,Argentina,Mar-07,996RS,55.0
+67,Argentina,Mar-07,996S,105.0
+68,Argentina,Mar-07,Bandit 1200,93.0
+69,Argentina,Mar-07,Bandit 1200S,99.0
+70,Argentina,Mar-07,Bandit 900,71.0
+71,Argentina,Mar-07,Boulevard,39.0
+72,Argentina,Mar-07,CRS550,105.0
+73,Argentina,Mar-07,CRX500,81.0
+74,Argentina,Mar-07,CRX600,42.0
+75,Argentina,Mar-07,CRX650,63.0
+76,Argentina,Mar-07,Enduro 350,73.0
+77,Argentina,Mar-07,Enduro 450,16.0
+78,Argentina,Mar-07,Enduro 550,56.0
+79,Argentina,Mar-07,KingTwin,92.0
+80,Argentina,Mar-07,MegaTwin,97.0
+81,Argentina,Mar-07,RoadLiner,63.0
+82,Argentina,Mar-07,RoadStar,105.0
+83,Argentina,Mar-07,ST1200,91.0
+84,Argentina,Mar-07,ST1200R,54.0
+85,Argentina,Mar-07,ST900,72.0
+86,Argentina,Mar-07,Victory,21.0
+87,Brazil,Feb-07,200S,88.0
+88,Brazil,Feb-07,300S,58.0
+89,Brazil,Feb-07,600S,70.0
+90,Brazil,Feb-07,626S,29.0
+91,Brazil,Feb-07,676RS,58.0
+92,Brazil,Feb-07,676S,6.0
+93,Brazil,Feb-07,900S,40.0
+94,Brazil,Feb-07,929S,10.0
+95,Brazil,Feb-07,996RS,98.0
+96,Brazil,Feb-07,996S,8.0
+97,Brazil,Feb-07,Bandit 1200,72.0
+98,Brazil,Feb-07,Bandit 1200S,36.0
+99,Brazil,Feb-07,Bandit 900,111.0
+100,Brazil,Feb-07,Boulevard,5.0
+101,Brazil,Feb-07,CRS550,112.0
+102,Brazil,Feb-07,CRX500,70.0
+103,Brazil,Feb-07,CRX600,110.0
+104,Brazil,Feb-07,CRX650,107.0
+105,Brazil,Feb-07,Enduro 350,29.0
+106,Brazil,Feb-07,Enduro 450,69.0
+107,Brazil,Feb-07,Enduro 550,18.0
+108,Brazil,Feb-07,KingTwin,27.0
+109,Brazil,Feb-07,MegaTwin,78.0
+110,Brazil,Feb-07,RoadLiner,104.0
+111,Brazil,Feb-07,RoadStar,75.0
+112,Brazil,Feb-07,ST1200,60.0
+113,Brazil,Feb-07,ST1200R,14.0
+114,Brazil,Feb-07,ST900,17.0
+115,Brazil,Feb-07,Victory,65.0
+116,Brazil,Jan-07,200S,90.0
+117,Brazil,Jan-07,300S,62.0
+118,Brazil,Jan-07,600S,72.0
+119,Brazil,Jan-07,626S,26.0
+120,Brazil,Jan-07,676RS,58.0
+121,Brazil,Jan-07,676S,9.0
+122,Brazil,Jan-07,900S,37.0
+123,Brazil,Jan-07,929S,15.0
+124,Brazil,Jan-07,996RS,97.0
+125,Brazil,Jan-07,996S,10.0
+126,Brazil,Jan-07,Bandit 1200,66.0
+127,Brazil,Jan-07,Bandit 1200S,31.0
+128,Brazil,Jan-07,Bandit 900,106.0
+129,Brazil,Jan-07,Boulevard,10.0
+130,Brazil,Jan-07,CRS550,109.0
+131,Brazil,Jan-07,CRX500,72.0
+132,Brazil,Jan-07,CRX600,104.0
+133,Brazil,Jan-07,CRX650,100.0
+134,Brazil,Jan-07,Enduro 350,26.0
+135,Brazil,Jan-07,Enduro 450,67.0
+136,Brazil,Jan-07,Enduro 550,25.0
+137,Brazil,Jan-07,KingTwin,22.0
+138,Brazil,Jan-07,MegaTwin,80.0
+139,Brazil,Jan-07,RoadLiner,105.0
+140,Brazil,Jan-07,RoadStar,80.0
+141,Brazil,Jan-07,ST1200,58.0
+142,Brazil,Jan-07,ST1200R,15.0
+143,Brazil,Jan-07,ST900,19.0
+144,Brazil,Jan-07,Victory,73.0
+145,Brazil,Mar-07,200S,90.0
+146,Brazil,Mar-07,300S,55.0
+147,Brazil,Mar-07,600S,72.0
+148,Brazil,Mar-07,626S,22.0
+149,Brazil,Mar-07,676RS,59.0
+150,Brazil,Mar-07,676S,11.0
+151,Brazil,Mar-07,900S,43.0
+152,Brazil,Mar-07,929S,8.0
+153,Brazil,Mar-07,996RS,99.0
+154,Brazil,Mar-07,996S,12.0
+155,Brazil,Mar-07,Bandit 1200,68.0
+156,Brazil,Mar-07,Bandit 1200S,34.0
+157,Brazil,Mar-07,Bandit 900,107.0
+158,Brazil,Mar-07,Boulevard,9.0
+159,Brazil,Mar-07,CRS550,110.0
+160,Brazil,Mar-07,CRX500,73.0
+161,Brazil,Mar-07,CRX600,105.0
+162,Brazil,Mar-07,CRX650,105.0
+163,Brazil,Mar-07,Enduro 350,21.0
+164,Brazil,Mar-07,Enduro 450,70.0
+165,Brazil,Mar-07,Enduro 550,18.0
+166,Brazil,Mar-07,KingTwin,29.0
+167,Brazil,Mar-07,MegaTwin,77.0
+168,Brazil,Mar-07,RoadLiner,103.0
+169,Brazil,Mar-07,RoadStar,79.0
+170,Brazil,Mar-07,ST1200,53.0
+171,Brazil,Mar-07,ST1200R,18.0
+172,Brazil,Mar-07,ST900,20.0
+173,Brazil,Mar-07,Victory,69.0
+174,Canada,Feb-07,200S,96.0
+175,Canada,Feb-07,300S,23.0
+176,Canada,Feb-07,600S,71.0
+177,Canada,Feb-07,626S,52.0
+178,Canada,Feb-07,676RS,16.0
+179,Canada,Feb-07,676S,20.0
+180,Canada,Feb-07,900S,97.0
+181,Canada,Feb-07,929S,40.0
+182,Canada,Feb-07,996RS,72.0
+183,Canada,Feb-07,996S,91.0
+184,Canada,Feb-07,Bandit 1200,64.0
+185,Canada,Feb-07,Bandit 1200S,66.0
+186,Canada,Feb-07,Bandit 900,60.0
+187,Canada,Feb-07,Boulevard,54.0
+188,Canada,Feb-07,CRS550,70.0
+189,Canada,Feb-07,CRX500,29.0
+190,Canada,Feb-07,CRX600,3.0
+191,Canada,Feb-07,CRX650,65.0
+192,Canada,Feb-07,Enduro 350,4.0
+193,Canada,Feb-07,Enduro 450,27.0
+194,Canada,Feb-07,Enduro 550,68.0
+195,Canada,Feb-07,KingTwin,58.0
+196,Canada,Feb-07,MegaTwin,35.0
+197,Canada,Feb-07,RoadLiner,86.0
+198,Canada,Feb-07,RoadStar,98.0
+199,Canada,Feb-07,ST1200,16.0
+200,Canada,Feb-07,ST1200R,75.0
+201,Canada,Feb-07,ST900,7.0
+202,Canada,Feb-07,Victory,87.0
+203,Canada,Jan-07,200S,93.0
+204,Canada,Jan-07,300S,20.0
+205,Canada,Jan-07,600S,74.0
+206,Canada,Jan-07,626S,52.0
+207,Canada,Jan-07,676RS,16.0
+208,Canada,Jan-07,676S,20.0
+209,Canada,Jan-07,900S,105.0
+210,Canada,Jan-07,929S,42.0
+211,Canada,Jan-07,996RS,73.0
+212,Canada,Jan-07,996S,87.0
+213,Canada,Jan-07,Bandit 1200,62.0
+214,Canada,Jan-07,Bandit 1200S,64.0
+215,Canada,Jan-07,Bandit 900,60.0
+216,Canada,Jan-07,Boulevard,50.0
+217,Canada,Jan-07,CRS550,77.0
+218,Canada,Jan-07,CRX500,26.0
+219,Canada,Jan-07,CRX600,10.0
+220,Canada,Jan-07,CRX650,63.0
+221,Canada,Jan-07,Enduro 350,3.0
+222,Canada,Jan-07,Enduro 450,28.0
+223,Canada,Jan-07,Enduro 550,63.0
+224,Canada,Jan-07,KingTwin,52.0
+225,Canada,Jan-07,MegaTwin,28.0
+226,Canada,Jan-07,RoadLiner,83.0
+227,Canada,Jan-07,RoadStar,101.0
+228,Canada,Jan-07,ST1200,13.0
+229,Canada,Jan-07,ST1200R,67.0
+230,Canada,Jan-07,ST900,9.0
+231,Canada,Jan-07,Victory,86.0
+232,Canada,Mar-07,200S,97.0
+233,Canada,Mar-07,300S,22.0
+234,Canada,Mar-07,600S,78.0
+235,Canada,Mar-07,626S,55.0
+236,Canada,Mar-07,676RS,16.0
+237,Canada,Mar-07,676S,25.0
+238,Canada,Mar-07,900S,102.0
+239,Canada,Mar-07,929S,45.0
+240,Canada,Mar-07,996RS,70.0
+241,Canada,Mar-07,996S,90.0
+242,Canada,Mar-07,Bandit 1200,67.0
+243,Canada,Mar-07,Bandit 1200S,64.0
+244,Canada,Mar-07,Bandit 900,64.0
+245,Canada,Mar-07,Boulevard,53.0
+246,Canada,Mar-07,CRS550,78.0
+247,Canada,Mar-07,CRX500,22.0
+248,Canada,Mar-07,CRX600,7.0
+249,Canada,Mar-07,CRX650,70.0
+250,Canada,Mar-07,Enduro 350,5.0
+251,Canada,Mar-07,Enduro 450,28.0
+252,Canada,Mar-07,Enduro 550,66.0
+253,Canada,Mar-07,KingTwin,55.0
+254,Canada,Mar-07,MegaTwin,34.0
+255,Canada,Mar-07,RoadLiner,79.0
+256,Canada,Mar-07,RoadStar,102.0
+257,Canada,Mar-07,ST1200,10.0
+258,Canada,Mar-07,ST1200R,77.0
+259,Canada,Mar-07,ST900,5.0
+260,Canada,Mar-07,Victory,87.0
+261,China,Feb-07,200S,82.0
+262,China,Feb-07,300S,37.0
+263,China,Feb-07,600S,102.0
+264,China,Feb-07,626S,71.0
+265,China,Feb-07,676RS,37.0
+266,China,Feb-07,676S,59.0
+267,China,Feb-07,900S,12.0
+268,China,Feb-07,929S,67.0
+269,China,Feb-07,996RS,11.0
+270,China,Feb-07,996S,101.0
+271,China,Feb-07,Bandit 1200,104.0
+272,China,Feb-07,Bandit 1200S,89.0
+273,China,Feb-07,Bandit 900,51.0
+274,China,Feb-07,Boulevard,93.0
+275,China,Feb-07,CRS550,22.0
+276,China,Feb-07,CRX500,43.0
+277,China,Feb-07,CRX600,76.0
+278,China,Feb-07,CRX650,41.0
+279,China,Feb-07,Enduro 350,93.0
+280,China,Feb-07,Enduro 450,56.0
+281,China,Feb-07,Enduro 550,103.0
+282,China,Feb-07,KingTwin,80.0
+283,China,Feb-07,MegaTwin,9.0
+284,China,Feb-07,RoadLiner,60.0
+285,China,Feb-07,RoadStar,40.0
+286,China,Feb-07,ST1200,100.0
+287,China,Feb-07,ST1200R,88.0
+288,China,Feb-07,ST900,49.0
+289,China,Feb-07,Victory,74.0
+290,China,Jan-07,200S,87.0
+291,China,Jan-07,300S,33.0
+292,China,Jan-07,600S,99.0
+293,China,Jan-07,626S,79.0
+294,China,Jan-07,676RS,36.0
+295,China,Jan-07,676S,58.0
+296,China,Jan-07,900S,13.0
+297,China,Jan-07,929S,67.0
+298,China,Jan-07,996RS,5.0
+299,China,Jan-07,996S,98.0
+300,China,Jan-07,Bandit 1200,101.0
+301,China,Jan-07,Bandit 1200S,80.0
+302,China,Jan-07,Bandit 900,55.0
+303,China,Jan-07,Boulevard,100.0
+304,China,Jan-07,CRS550,23.0
+305,China,Jan-07,CRX500,50.0
+306,China,Jan-07,CRX600,72.0
+307,China,Jan-07,CRX650,41.0
+308,China,Jan-07,Enduro 350,94.0
+309,China,Jan-07,Enduro 450,52.0
+310,China,Jan-07,Enduro 550,103.0
+311,China,Jan-07,KingTwin,77.0
+312,China,Jan-07,MegaTwin,0.0
+313,China,Jan-07,RoadLiner,64.0
+314,China,Jan-07,RoadStar,34.0
+315,China,Jan-07,ST1200,99.0
+316,China,Jan-07,ST1200R,86.0
+317,China,Jan-07,ST900,55.0
+318,China,Jan-07,Victory,81.0
+319,China,Mar-07,200S,87.0
+320,China,Mar-07,300S,29.0
+321,China,Mar-07,600S,104.0
+322,China,Mar-07,626S,78.0
+323,China,Mar-07,676RS,39.0
+324,China,Mar-07,676S,68.0
+325,China,Mar-07,900S,16.0
+326,China,Mar-07,929S,71.0
+327,China,Mar-07,996RS,3.0
+328,China,Mar-07,996S,98.0
+329,China,Mar-07,Bandit 1200,102.0
+330,China,Mar-07,Bandit 1200S,84.0
+331,China,Mar-07,Bandit 900,55.0
+332,China,Mar-07,Boulevard,98.0
+333,China,Mar-07,CRS550,26.0
+334,China,Mar-07,CRX500,50.0
+335,China,Mar-07,CRX600,78.0
+336,China,Mar-07,CRX650,50.0
+337,China,Mar-07,Enduro 350,88.0
+338,China,Mar-07,Enduro 450,55.0
+339,China,Mar-07,Enduro 550,109.0
+340,China,Mar-07,KingTwin,81.0
+341,China,Mar-07,MegaTwin,7.0
+342,China,Mar-07,RoadLiner,64.0
+343,China,Mar-07,RoadStar,38.0
+344,China,Mar-07,ST1200,100.0
+345,China,Mar-07,ST1200R,85.0
+346,China,Mar-07,ST900,45.0
+347,China,Mar-07,Victory,77.0
+348,France,Feb-07,200S,79.0
+349,France,Feb-07,300S,108.0
+350,France,Feb-07,600S,119.0
+351,France,Feb-07,626S,22.0
+352,France,Feb-07,676RS,39.0
+353,France,Feb-07,676S,88.0
+354,France,Feb-07,900S,37.0
+355,France,Feb-07,929S,113.0
+356,France,Feb-07,996RS,28.0
+357,France,Feb-07,996S,54.0
+358,France,Feb-07,Bandit 1200,20.0
+359,France,Feb-07,Bandit 1200S,100.0
+360,France,Feb-07,Bandit 900,103.0
+361,France,Feb-07,Boulevard,28.0
+362,France,Feb-07,CRS550,68.0
+363,France,Feb-07,CRX500,63.0
+364,France,Feb-07,CRX600,52.0
+365,France,Feb-07,CRX650,55.0
+366,France,Feb-07,Enduro 350,106.0
+367,France,Feb-07,Enduro 450,69.0
+368,France,Feb-07,Enduro 550,40.0
+369,France,Feb-07,KingTwin,101.0
+370,France,Feb-07,MegaTwin,94.0
+371,France,Feb-07,RoadLiner,55.0
+372,France,Feb-07,RoadStar,89.0
+373,France,Feb-07,ST1200,81.0
+374,France,Feb-07,ST1200R,68.0
+375,France,Feb-07,ST900,59.0
+376,France,Feb-07,Victory,53.0
+377,France,Jan-07,200S,83.0
+378,France,Jan-07,300S,108.0
+379,France,Jan-07,600S,118.0
+380,France,Jan-07,626S,22.0
+381,France,Jan-07,676RS,35.0
+382,France,Jan-07,676S,83.0
+383,France,Jan-07,900S,41.0
+384,France,Jan-07,929S,116.0
+385,France,Jan-07,996RS,25.0
+386,France,Jan-07,996S,52.0
+387,France,Jan-07,Bandit 1200,22.0
+388,France,Jan-07,Bandit 1200S,99.0
+389,France,Jan-07,Bandit 900,101.0
+390,France,Jan-07,Boulevard,26.0
+391,France,Jan-07,CRS550,67.0
+392,France,Jan-07,CRX500,64.0
+393,France,Jan-07,CRX600,54.0
+394,France,Jan-07,CRX650,52.0
+395,France,Jan-07,Enduro 350,108.0
+396,France,Jan-07,Enduro 450,71.0
+397,France,Jan-07,Enduro 550,40.0
+398,France,Jan-07,KingTwin,95.0
+399,France,Jan-07,MegaTwin,89.0
+400,France,Jan-07,RoadLiner,53.0
+401,France,Jan-07,RoadStar,92.0
+402,France,Jan-07,ST1200,81.0
+403,France,Jan-07,ST1200R,69.0
+404,France,Jan-07,ST900,64.0
+405,France,Jan-07,Victory,47.0
+406,France,Mar-07,200S,75.0
+407,France,Mar-07,300S,105.0
+408,France,Mar-07,600S,115.0
+409,France,Mar-07,626S,25.0
+410,France,Mar-07,676RS,36.0
+411,France,Mar-07,676S,85.0
+412,France,Mar-07,900S,44.0
+413,France,Mar-07,929S,110.0
+414,France,Mar-07,996RS,34.0
+415,France,Mar-07,996S,60.0
+416,France,Mar-07,Bandit 1200,26.0
+417,France,Mar-07,Bandit 1200S,104.0
+418,France,Mar-07,Bandit 900,109.0
+419,France,Mar-07,Boulevard,33.0
+420,France,Mar-07,CRS550,67.0
+421,France,Mar-07,CRX500,64.0
+422,France,Mar-07,CRX600,56.0
+423,France,Mar-07,CRX650,61.0
+424,France,Mar-07,Enduro 350,102.0
+425,France,Mar-07,Enduro 450,73.0
+426,France,Mar-07,Enduro 550,39.0
+427,France,Mar-07,KingTwin,102.0
+428,France,Mar-07,MegaTwin,104.0
+429,France,Mar-07,RoadLiner,58.0
+430,France,Mar-07,RoadStar,90.0
+431,France,Mar-07,ST1200,82.0
+432,France,Mar-07,ST1200R,69.0
+433,France,Mar-07,ST900,58.0
+434,France,Mar-07,Victory,52.0
+435,Germany,Feb-07,200S,30.0
+436,Germany,Feb-07,300S,45.0
+437,Germany,Feb-07,600S,113.0
+438,Germany,Feb-07,626S,27.0
+439,Germany,Feb-07,676RS,54.0
+440,Germany,Feb-07,676S,122.0
+441,Germany,Feb-07,900S,35.0
+442,Germany,Feb-07,929S,21.0
+443,Germany,Feb-07,996RS,29.0
+444,Germany,Feb-07,996S,44.0
+445,Germany,Feb-07,Bandit 1200,58.0
+446,Germany,Feb-07,Bandit 1200S,59.0
+447,Germany,Feb-07,Bandit 900,28.0
+448,Germany,Feb-07,Boulevard,12.0
+449,Germany,Feb-07,CRS550,66.0
+450,Germany,Feb-07,CRX500,57.0
+451,Germany,Feb-07,CRX600,22.0
+452,Germany,Feb-07,CRX650,42.0
+453,Germany,Feb-07,Enduro 350,10.0
+454,Germany,Feb-07,Enduro 450,103.0
+455,Germany,Feb-07,Enduro 550,91.0
+456,Germany,Feb-07,KingTwin,116.0
+457,Germany,Feb-07,MegaTwin,33.0
+458,Germany,Feb-07,RoadLiner,67.0
+459,Germany,Feb-07,RoadStar,81.0
+460,Germany,Feb-07,ST1200,23.0
+461,Germany,Feb-07,ST1200R,27.0
+462,Germany,Feb-07,ST900,46.0
+463,Germany,Feb-07,Victory,83.0
+464,Germany,Jan-07,200S,22.0
+465,Germany,Jan-07,300S,36.0
+466,Germany,Jan-07,600S,107.0
+467,Germany,Jan-07,626S,22.0
+468,Germany,Jan-07,676RS,58.0
+469,Germany,Jan-07,676S,110.0
+470,Germany,Jan-07,900S,43.0
+471,Germany,Jan-07,929S,15.0
+472,Germany,Jan-07,996RS,34.0
+473,Germany,Jan-07,996S,47.0
+474,Germany,Jan-07,Bandit 1200,56.0
+475,Germany,Jan-07,Bandit 1200S,58.0
+476,Germany,Jan-07,Bandit 900,27.0
+477,Germany,Jan-07,Boulevard,4.0
+478,Germany,Jan-07,CRS550,61.0
+479,Germany,Jan-07,CRX500,60.0
+480,Germany,Jan-07,CRX600,17.0
+481,Germany,Jan-07,CRX650,37.0
+482,Germany,Jan-07,Enduro 350,10.0
+483,Germany,Jan-07,Enduro 450,102.0
+484,Germany,Jan-07,Enduro 550,89.0
+485,Germany,Jan-07,KingTwin,118.0
+486,Germany,Jan-07,MegaTwin,35.0
+487,Germany,Jan-07,RoadLiner,64.0
+488,Germany,Jan-07,RoadStar,89.0
+489,Germany,Jan-07,ST1200,27.0
+490,Germany,Jan-07,ST1200R,32.0
+491,Germany,Jan-07,ST900,39.0
+492,Germany,Jan-07,Victory,75.0
+493,Germany,Mar-07,200S,22.0
+494,Germany,Mar-07,300S,44.0
+495,Germany,Mar-07,600S,115.0
+496,Germany,Mar-07,626S,24.0
+497,Germany,Mar-07,676RS,59.0
+498,Germany,Mar-07,676S,126.0
+499,Germany,Mar-07,900S,39.0
+500,Germany,Mar-07,929S,20.0
+501,Germany,Mar-07,996RS,28.0
+502,Germany,Mar-07,996S,49.0
+503,Germany,Mar-07,Bandit 1200,58.0
+504,Germany,Mar-07,Bandit 1200S,53.0
+505,Germany,Mar-07,Bandit 900,27.0
+506,Germany,Mar-07,Boulevard,12.0
+507,Germany,Mar-07,CRS550,62.0
+508,Germany,Mar-07,CRX500,54.0
+509,Germany,Mar-07,CRX600,20.0
+510,Germany,Mar-07,CRX650,37.0
+511,Germany,Mar-07,Enduro 350,13.0
+512,Germany,Mar-07,Enduro 450,108.0
+513,Germany,Mar-07,Enduro 550,97.0
+514,Germany,Mar-07,KingTwin,118.0
+515,Germany,Mar-07,MegaTwin,30.0
+516,Germany,Mar-07,RoadLiner,69.0
+517,Germany,Mar-07,RoadStar,87.0
+518,Germany,Mar-07,ST1200,22.0
+519,Germany,Mar-07,ST1200R,27.0
+520,Germany,Mar-07,ST900,43.0
+521,Germany,Mar-07,Victory,77.0
+522,Italy,Feb-07,200S,34.0
+523,Italy,Feb-07,300S,9.0
+524,Italy,Feb-07,600S,83.0
+525,Italy,Feb-07,626S,25.0
+526,Italy,Feb-07,676RS,39.0
+527,Italy,Feb-07,676S,115.0
+528,Italy,Feb-07,900S,24.0
+529,Italy,Feb-07,929S,45.0
+530,Italy,Feb-07,996RS,72.0
+531,Italy,Feb-07,996S,28.0
+532,Italy,Feb-07,Bandit 1200,34.0
+533,Italy,Feb-07,Bandit 1200S,24.0
+534,Italy,Feb-07,Bandit 900,104.0
+535,Italy,Feb-07,Boulevard,83.0
+536,Italy,Feb-07,CRS550,62.0
+537,Italy,Feb-07,CRX500,107.0
+538,Italy,Feb-07,CRX600,73.0
+539,Italy,Feb-07,CRX650,71.0
+540,Italy,Feb-07,Enduro 350,13.0
+541,Italy,Feb-07,Enduro 450,41.0
+542,Italy,Feb-07,Enduro 550,99.0
+543,Italy,Feb-07,KingTwin,65.0
+544,Italy,Feb-07,MegaTwin,92.0
+545,Italy,Feb-07,RoadLiner,45.0
+546,Italy,Feb-07,RoadStar,113.0
+547,Italy,Feb-07,ST1200,66.0
+548,Italy,Feb-07,ST1200R,7.0
+549,Italy,Feb-07,ST900,52.0
+550,Italy,Feb-07,Victory,81.0
+551,Italy,Jan-07,200S,32.0
+552,Italy,Jan-07,300S,7.0
+553,Italy,Jan-07,600S,81.0
+554,Italy,Jan-07,626S,24.0
+555,Italy,Jan-07,676RS,35.0
+556,Italy,Jan-07,676S,104.0
+557,Italy,Jan-07,900S,22.0
+558,Italy,Jan-07,929S,39.0
+559,Italy,Jan-07,996RS,71.0
+560,Italy,Jan-07,996S,25.0
+561,Italy,Jan-07,Bandit 1200,36.0
+562,Italy,Jan-07,Bandit 1200S,26.0
+563,Italy,Jan-07,Bandit 900,109.0
+564,Italy,Jan-07,Boulevard,77.0
+565,Italy,Jan-07,CRS550,70.0
+566,Italy,Jan-07,CRX500,104.0
+567,Italy,Jan-07,CRX600,69.0
+568,Italy,Jan-07,CRX650,69.0
+569,Italy,Jan-07,Enduro 350,4.0
+570,Italy,Jan-07,Enduro 450,36.0
+571,Italy,Jan-07,Enduro 550,95.0
+572,Italy,Jan-07,KingTwin,66.0
+573,Italy,Jan-07,MegaTwin,88.0
+574,Italy,Jan-07,RoadLiner,43.0
+575,Italy,Jan-07,RoadStar,111.0
+576,Italy,Jan-07,ST1200,67.0
+577,Italy,Jan-07,ST1200R,9.0
+578,Italy,Jan-07,ST900,53.0
+579,Italy,Jan-07,Victory,87.0
+580,Italy,Mar-07,200S,36.0
+581,Italy,Mar-07,300S,6.0
+582,Italy,Mar-07,600S,82.0
+583,Italy,Mar-07,626S,24.0
+584,Italy,Mar-07,676RS,34.0
+585,Italy,Mar-07,676S,120.0
+586,Italy,Mar-07,900S,22.0
+587,Italy,Mar-07,929S,46.0
+588,Italy,Mar-07,996RS,76.0
+589,Italy,Mar-07,996S,28.0
+590,Italy,Mar-07,Bandit 1200,34.0
+591,Italy,Mar-07,Bandit 1200S,23.0
+592,Italy,Mar-07,Bandit 900,107.0
+593,Italy,Mar-07,Boulevard,84.0
+594,Italy,Mar-07,CRS550,66.0
+595,Italy,Mar-07,CRX500,100.0
+596,Italy,Mar-07,CRX600,73.0
+597,Italy,Mar-07,CRX650,69.0
+598,Italy,Mar-07,Enduro 350,5.0
+599,Italy,Mar-07,Enduro 450,41.0
+600,Italy,Mar-07,Enduro 550,106.0
+601,Italy,Mar-07,KingTwin,67.0
+602,Italy,Mar-07,MegaTwin,90.0
+603,Italy,Mar-07,RoadLiner,45.0
+604,Italy,Mar-07,RoadStar,106.0
+605,Italy,Mar-07,ST1200,68.0
+606,Italy,Mar-07,ST1200R,6.0
+607,Italy,Mar-07,ST900,56.0
+608,Italy,Mar-07,Victory,88.0
+609,Japan,Feb-07,200S,63.0
+610,Japan,Feb-07,300S,7.0
+611,Japan,Feb-07,600S,20.0
+612,Japan,Feb-07,626S,85.0
+613,Japan,Feb-07,676RS,68.0
+614,Japan,Feb-07,676S,56.0
+615,Japan,Feb-07,900S,38.0
+616,Japan,Feb-07,929S,23.0
+617,Japan,Feb-07,996RS,23.0
+618,Japan,Feb-07,996S,51.0
+619,Japan,Feb-07,Bandit 1200,28.0
+620,Japan,Feb-07,Bandit 1200S,90.0
+621,Japan,Feb-07,Bandit 900,61.0
+622,Japan,Feb-07,Boulevard,81.0
+623,Japan,Feb-07,CRS550,16.0
+624,Japan,Feb-07,CRX500,87.0
+625,Japan,Feb-07,CRX600,77.0
+626,Japan,Feb-07,CRX650,92.0
+627,Japan,Feb-07,Enduro 350,74.0
+628,Japan,Feb-07,Enduro 450,71.0
+629,Japan,Feb-07,Enduro 550,86.0
+630,Japan,Feb-07,KingTwin,49.0
+631,Japan,Feb-07,MegaTwin,61.0
+632,Japan,Feb-07,RoadLiner,24.0
+633,Japan,Feb-07,RoadStar,74.0
+634,Japan,Feb-07,ST1200,99.0
+635,Japan,Feb-07,ST1200R,47.0
+636,Japan,Feb-07,ST900,48.0
+637,Japan,Feb-07,Victory,10.0
+638,Japan,Jan-07,200S,64.0
+639,Japan,Jan-07,300S,11.0
+640,Japan,Jan-07,600S,22.0
+641,Japan,Jan-07,626S,83.0
+642,Japan,Jan-07,676RS,72.0
+643,Japan,Jan-07,676S,47.0
+644,Japan,Jan-07,900S,39.0
+645,Japan,Jan-07,929S,22.0
+646,Japan,Jan-07,996RS,24.0
+647,Japan,Jan-07,996S,50.0
+648,Japan,Jan-07,Bandit 1200,32.0
+649,Japan,Jan-07,Bandit 1200S,89.0
+650,Japan,Jan-07,Bandit 900,52.0
+651,Japan,Jan-07,Boulevard,82.0
+652,Japan,Jan-07,CRS550,22.0
+653,Japan,Jan-07,CRX500,87.0
+654,Japan,Jan-07,CRX600,76.0
+655,Japan,Jan-07,CRX650,85.0
+656,Japan,Jan-07,Enduro 350,79.0
+657,Japan,Jan-07,Enduro 450,75.0
+658,Japan,Jan-07,Enduro 550,84.0
+659,Japan,Jan-07,KingTwin,45.0
+660,Japan,Jan-07,MegaTwin,57.0
+661,Japan,Jan-07,RoadLiner,28.0
+662,Japan,Jan-07,RoadStar,75.0
+663,Japan,Jan-07,ST1200,98.0
+664,Japan,Jan-07,ST1200R,53.0
+665,Japan,Jan-07,ST900,45.0
+666,Japan,Jan-07,Victory,13.0
+667,Japan,Mar-07,200S,58.0
+668,Japan,Mar-07,300S,12.0
+669,Japan,Mar-07,600S,16.0
+670,Japan,Mar-07,626S,86.0
+671,Japan,Mar-07,676RS,70.0
+672,Japan,Mar-07,676S,59.0
+673,Japan,Mar-07,900S,37.0
+674,Japan,Mar-07,929S,23.0
+675,Japan,Mar-07,996RS,23.0
+676,Japan,Mar-07,996S,55.0
+677,Japan,Mar-07,Bandit 1200,35.0
+678,Japan,Mar-07,Bandit 1200S,94.0
+679,Japan,Mar-07,Bandit 900,57.0
+680,Japan,Mar-07,Boulevard,74.0
+681,Japan,Mar-07,CRS550,15.0
+682,Japan,Mar-07,CRX500,79.0
+683,Japan,Mar-07,CRX600,74.0
+684,Japan,Mar-07,CRX650,93.0
+685,Japan,Mar-07,Enduro 350,78.0
+686,Japan,Mar-07,Enduro 450,68.0
+687,Japan,Mar-07,Enduro 550,85.0
+688,Japan,Mar-07,KingTwin,54.0
+689,Japan,Mar-07,MegaTwin,56.0
+690,Japan,Mar-07,RoadLiner,22.0
+691,Japan,Mar-07,RoadStar,79.0
+692,Japan,Mar-07,ST1200,107.0
+693,Japan,Mar-07,ST1200R,52.0
+694,Japan,Mar-07,ST900,41.0
+695,Japan,Mar-07,Victory,18.0
+696,Spain,Feb-07,200S,65.0
+697,Spain,Feb-07,300S,18.0
+698,Spain,Feb-07,600S,73.0
+699,Spain,Feb-07,626S,21.0
+700,Spain,Feb-07,676RS,63.0
+701,Spain,Feb-07,676S,45.0
+702,Spain,Feb-07,900S,61.0
+703,Spain,Feb-07,929S,99.0
+704,Spain,Feb-07,996RS,75.0
+705,Spain,Feb-07,996S,87.0
+706,Spain,Feb-07,Bandit 1200,115.0
+707,Spain,Feb-07,Bandit 1200S,11.0
+708,Spain,Feb-07,Bandit 900,47.0
+709,Spain,Feb-07,Boulevard,95.0
+710,Spain,Feb-07,CRS550,66.0
+711,Spain,Feb-07,CRX500,57.0
+712,Spain,Feb-07,CRX600,52.0
+713,Spain,Feb-07,CRX650,95.0
+714,Spain,Feb-07,Enduro 350,95.0
+715,Spain,Feb-07,Enduro 450,40.0
+716,Spain,Feb-07,Enduro 550,63.0
+717,Spain,Feb-07,KingTwin,95.0
+718,Spain,Feb-07,MegaTwin,31.0
+719,Spain,Feb-07,RoadLiner,72.0
+720,Spain,Feb-07,RoadStar,79.0
+721,Spain,Feb-07,ST1200,89.0
+722,Spain,Feb-07,ST1200R,54.0
+723,Spain,Feb-07,ST900,42.0
+724,Spain,Feb-07,Victory,40.0
+725,Spain,Jan-07,200S,68.0
+726,Spain,Jan-07,300S,20.0
+727,Spain,Jan-07,600S,69.0
+728,Spain,Jan-07,626S,19.0
+729,Spain,Jan-07,676RS,64.0
+730,Spain,Jan-07,676S,46.0
+731,Spain,Jan-07,900S,59.0
+732,Spain,Jan-07,929S,94.0
+733,Spain,Jan-07,996RS,71.0
+734,Spain,Jan-07,996S,85.0
+735,Spain,Jan-07,Bandit 1200,108.0
+736,Spain,Jan-07,Bandit 1200S,11.0
+737,Spain,Jan-07,Bandit 900,47.0
+738,Spain,Jan-07,Boulevard,101.0
+739,Spain,Jan-07,CRS550,64.0
+740,Spain,Jan-07,CRX500,54.0
+741,Spain,Jan-07,CRX600,49.0
+742,Spain,Jan-07,CRX650,98.0
+743,Spain,Jan-07,Enduro 350,98.0
+744,Spain,Jan-07,Enduro 450,38.0
+745,Spain,Jan-07,Enduro 550,57.0
+746,Spain,Jan-07,KingTwin,86.0
+747,Spain,Jan-07,MegaTwin,27.0
+748,Spain,Jan-07,RoadLiner,81.0
+749,Spain,Jan-07,RoadStar,84.0
+750,Spain,Jan-07,ST1200,95.0
+751,Spain,Jan-07,ST1200R,47.0
+752,Spain,Jan-07,ST900,42.0
+753,Spain,Jan-07,Victory,38.0
+754,Spain,Mar-07,200S,59.0
+755,Spain,Mar-07,300S,23.0
+756,Spain,Mar-07,600S,78.0
+757,Spain,Mar-07,626S,12.0
+758,Spain,Mar-07,676RS,59.0
+759,Spain,Mar-07,676S,47.0
+760,Spain,Mar-07,900S,60.0
+761,Spain,Mar-07,929S,92.0
+762,Spain,Mar-07,996RS,73.0
+763,Spain,Mar-07,996S,98.0
+764,Spain,Mar-07,Bandit 1200,111.0
+765,Spain,Mar-07,Bandit 1200S,9.0
+766,Spain,Mar-07,Bandit 900,48.0
+767,Spain,Mar-07,Boulevard,102.0
+768,Spain,Mar-07,CRS550,64.0
+769,Spain,Mar-07,CRX500,54.0
+770,Spain,Mar-07,CRX600,48.0
+771,Spain,Mar-07,CRX650,98.0
+772,Spain,Mar-07,Enduro 350,93.0
+773,Spain,Mar-07,Enduro 450,44.0
+774,Spain,Mar-07,Enduro 550,65.0
+775,Spain,Mar-07,KingTwin,95.0
+776,Spain,Mar-07,MegaTwin,32.0
+777,Spain,Mar-07,RoadLiner,76.0
+778,Spain,Mar-07,RoadStar,85.0
+779,Spain,Mar-07,ST1200,95.0
+780,Spain,Mar-07,ST1200R,58.0
+781,Spain,Mar-07,ST900,44.0
+782,Spain,Mar-07,Victory,43.0
+783,UK,Feb-07,200S,73.0
+784,UK,Feb-07,300S,30.0
+785,UK,Feb-07,600S,30.0
+786,UK,Feb-07,626S,29.0
+787,UK,Feb-07,676RS,32.0
+788,UK,Feb-07,676S,27.0
+789,UK,Feb-07,900S,107.0
+790,UK,Feb-07,929S,52.0
+791,UK,Feb-07,996RS,63.0
+792,UK,Feb-07,996S,46.0
+793,UK,Feb-07,Bandit 1200,109.0
+794,UK,Feb-07,Bandit 1200S,63.0
+795,UK,Feb-07,Bandit 900,112.0
+796,UK,Feb-07,Boulevard,38.0
+797,UK,Feb-07,CRS550,106.0
+798,UK,Feb-07,CRX500,80.0
+799,UK,Feb-07,CRX600,40.0
+800,UK,Feb-07,CRX650,97.0
+801,UK,Feb-07,Enduro 350,19.0
+802,UK,Feb-07,Enduro 450,61.0
+803,UK,Feb-07,Enduro 550,52.0
+804,UK,Feb-07,KingTwin,87.0
+805,UK,Feb-07,MegaTwin,38.0
+806,UK,Feb-07,RoadLiner,44.0
+807,UK,Feb-07,RoadStar,37.0
+808,UK,Feb-07,ST1200,101.0
+809,UK,Feb-07,ST1200R,110.0
+810,UK,Feb-07,ST900,45.0
+811,UK,Feb-07,Victory,42.0
+812,UK,Jan-07,200S,72.0
+813,UK,Jan-07,300S,27.0
+814,UK,Jan-07,600S,26.0
+815,UK,Jan-07,626S,31.0
+816,UK,Jan-07,676RS,24.0
+817,UK,Jan-07,676S,28.0
+818,UK,Jan-07,900S,115.0
+819,UK,Jan-07,929S,53.0
+820,UK,Jan-07,996RS,53.0
+821,UK,Jan-07,996S,47.0
+822,UK,Jan-07,Bandit 1200,115.0
+823,UK,Jan-07,Bandit 1200S,69.0
+824,UK,Jan-07,Bandit 900,107.0
+825,UK,Jan-07,Boulevard,38.0
+826,UK,Jan-07,CRS550,110.0
+827,UK,Jan-07,CRX500,82.0
+828,UK,Jan-07,CRX600,40.0
+829,UK,Jan-07,CRX650,101.0
+830,UK,Jan-07,Enduro 350,10.0
+831,UK,Jan-07,Enduro 450,60.0
+832,UK,Jan-07,Enduro 550,50.0
+833,UK,Jan-07,KingTwin,81.0
+834,UK,Jan-07,MegaTwin,34.0
+835,UK,Jan-07,RoadLiner,38.0
+836,UK,Jan-07,RoadStar,36.0
+837,UK,Jan-07,ST1200,93.0
+838,UK,Jan-07,ST1200R,108.0
+839,UK,Jan-07,ST900,41.0
+840,UK,Jan-07,Victory,36.0
+841,UK,Mar-07,200S,71.0
+842,UK,Mar-07,300S,30.0
+843,UK,Mar-07,600S,30.0
+844,UK,Mar-07,626S,28.0
+845,UK,Mar-07,676RS,33.0
+846,UK,Mar-07,676S,31.0
+847,UK,Mar-07,900S,111.0
+848,UK,Mar-07,929S,54.0
+849,UK,Mar-07,996RS,63.0
+850,UK,Mar-07,996S,55.0
+851,UK,Mar-07,Bandit 1200,117.0
+852,UK,Mar-07,Bandit 1200S,68.0
+853,UK,Mar-07,Bandit 900,107.0
+854,UK,Mar-07,Boulevard,40.0
+855,UK,Mar-07,CRS550,112.0
+856,UK,Mar-07,CRX500,83.0
+857,UK,Mar-07,CRX600,37.0
+858,UK,Mar-07,CRX650,102.0
+859,UK,Mar-07,Enduro 350,17.0
+860,UK,Mar-07,Enduro 450,66.0
+861,UK,Mar-07,Enduro 550,53.0
+862,UK,Mar-07,KingTwin,94.0
+863,UK,Mar-07,MegaTwin,35.0
+864,UK,Mar-07,RoadLiner,37.0
+865,UK,Mar-07,RoadStar,42.0
+866,UK,Mar-07,ST1200,95.0
+867,UK,Mar-07,ST1200R,113.0
+868,UK,Mar-07,ST900,46.0
+869,UK,Mar-07,Victory,38.0
+870,US,Feb-07,200S,88.0
+871,US,Feb-07,300S,28.0
+872,US,Feb-07,600S,2.0
+873,US,Feb-07,626S,79.0
+874,US,Feb-07,676RS,106.0
+875,US,Feb-07,676S,49.0
+876,US,Feb-07,900S,14.0
+877,US,Feb-07,929S,106.0
+878,US,Feb-07,996RS,17.0
+879,US,Feb-07,996S,68.0
+880,US,Feb-07,Bandit 1200,100.0
+881,US,Feb-07,Bandit 1200S,56.0
+882,US,Feb-07,Bandit 900,48.0
+883,US,Feb-07,Boulevard,92.0
+884,US,Feb-07,CRS550,93.0
+885,US,Feb-07,CRX500,65.0
+886,US,Feb-07,CRX600,66.0
+887,US,Feb-07,CRX650,42.0
+888,US,Feb-07,Enduro 350,59.0
+889,US,Feb-07,Enduro 450,66.0
+890,US,Feb-07,Enduro 550,92.0
+891,US,Feb-07,KingTwin,40.0
+892,US,Feb-07,MegaTwin,71.0
+893,US,Feb-07,RoadLiner,20.0
+894,US,Feb-07,RoadStar,80.0
+895,US,Feb-07,ST1200,62.0
+896,US,Feb-07,ST1200R,73.0
+897,US,Feb-07,ST900,40.0
+898,US,Feb-07,Victory,100.0
+899,US,Jan-07,200S,6666.0
+900,US,Jan-07,300S,28.0
+901,US,Jan-07,600S,6.0
+902,US,Jan-07,626S,73.0
+903,US,Jan-07,676RS,101.0
+904,US,Jan-07,676S,47.0
+905,US,Jan-07,900S,9.0
+906,US,Jan-07,929S,107.0
+907,US,Jan-07,996RS,15.0
+908,US,Jan-07,996S,70.0
+909,US,Jan-07,Bandit 1200,97.0
+910,US,Jan-07,Bandit 1200S,59.0
+911,US,Jan-07,Bandit 900,55.0
+912,US,Jan-07,Boulevard,84.0
+913,US,Jan-07,CRS550,96.0
+914,US,Jan-07,CRX500,61.0
+915,US,Jan-07,CRX600,66.0
+916,US,Jan-07,CRX650,42.0
+917,US,Jan-07,Enduro 350,62.0
+918,US,Jan-07,Enduro 450,58.0
+919,US,Jan-07,Enduro 550,90.0
+920,US,Jan-07,KingTwin,36.0
+921,US,Jan-07,MegaTwin,66.0
+922,US,Jan-07,RoadLiner,16.0
+923,US,Jan-07,RoadStar,86.0
+924,US,Jan-07,ST1200,58.0
+925,US,Jan-07,ST1200R,76.0
+926,US,Jan-07,ST900,43.0
+927,US,Jan-07,Victory,97.0
+928,US,Mar-07,200S,81.0
+929,US,Mar-07,300S,22.0
+930,US,Mar-07,600S,5.0
+931,US,Mar-07,626S,82.0
+932,US,Mar-07,676RS,116.0
+933,US,Mar-07,676S,56.0
+934,US,Mar-07,900S,6.0
+935,US,Mar-07,929S,107.0
+936,US,Mar-07,996RS,15.0
+937,US,Mar-07,996S,68.0
+938,US,Mar-07,Bandit 1200,95.0
+939,US,Mar-07,Bandit 1200S,59.0
+940,US,Mar-07,Bandit 900,54.0
+941,US,Mar-07,Boulevard,93.0
+942,US,Mar-07,CRS550,97.0
+943,US,Mar-07,CRX500,66.0
+944,US,Mar-07,CRX600,63.0
+945,US,Mar-07,CRX650,45.0
+946,US,Mar-07,Enduro 350,60.0
+947,US,Mar-07,Enduro 450,66.0
+948,US,Mar-07,Enduro 550,100.0
+949,US,Mar-07,KingTwin,40.0
+950,US,Mar-07,MegaTwin,75.0
+951,US,Mar-07,RoadLiner,17.0
+952,US,Mar-07,RoadStar,77.0
+953,US,Mar-07,ST1200,64.0
+954,US,Mar-07,ST1200R,79.0
+955,US,Mar-07,ST900,40.0
+956,US,Mar-07,Victory,95.0
