@@ -16,7 +16,7 @@ A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) /
 
 Look at a video showing what it does: https://ibm.box.com/s/v42tfs9m3w8mbni21xlw14x6cyuant5p
 
-See some slides with some more details: https://ibm.box.com/s/ryv0xyslcpr5ilfoesyn3amo3z7asiva
+See some slides with some more details: https://fr.slideshare.net/AlainChabrier/do-for-ws-pa-external-v1
 
 This aplication is using the shared npm package with goodies for DO for WS and PA: https://www.npmjs.com/package/do-ws-js
 
