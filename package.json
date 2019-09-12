@@ -15,7 +15,7 @@
 		"multer": "x",
 		"jquery-ui": "x",
 		"font-awesome": "x",
-		"do-ws-js": ">=0.1.96",
+		"do-ws-js": ">=0.1.101",
 		"monaco-editor": "*",
 		"copyfiles": "^2.1.0"
 	},

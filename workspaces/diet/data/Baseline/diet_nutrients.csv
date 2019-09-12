@@ -1,0 +1,8 @@
+diet_nutrient,unit_cost,qmin,qmax
+Calories,0,2000,2500
+Calcium,0,800,1600
+Iron,0,10,30
+Vit_A,0,5000,50000
+Dietary_Fiber,0,25,100
+Carbohydrates,0,0,300
+Protein,0,50,100

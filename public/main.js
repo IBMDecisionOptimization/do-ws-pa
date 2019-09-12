@@ -120,6 +120,11 @@ function getConfig(workspace) {
                 }
 
                 
+                if ('allowInit' in config.pa.mapping && config.pa.mapping.allowInit) {
+                } else {
+                        hideButton('INITPA');  
+                }
+                
                 if ('ml' in config) {
                         if ( ('action' in config.ml) && ('text' in config.ml.action) ) {
                                 document.getElementById('DEV_SCORE').innerText = config.ml.action.text;
@@ -155,6 +160,29 @@ function enableButton(WHAT) {
         document.getElementById(WHAT).disabled = false;
 }
 
+
+
+function initPA(btn_id, cb) {
+        
+        let scenarioName = config.pa.mapping.input.version;
+        if (!(scenarioName in scenariomgr.getScenarios()))
+                scenariomgr.newScenario(scenarioName);
+        let scenario = scenariomgr.getScenarios()[scenarioName];
+
+        let btn = document.getElementById(btn_id);
+        let btn_txt = btn.innerHTML;
+        scenario.initPA(function (status) {
+                        btn.disabled = true;
+                        btn.innerHTML = status
+                }, 
+                function (){
+                        btn.disabled = false;
+                        btn.innerHTML = btn_txt;
+                        
+                        if (cb != undefined)
+                                cb();
+                });
+}
 
 function getFromPA(btn_id, cb) {
 
@@ -446,7 +474,7 @@ function initOptim() {
                         enableButton('SOLVE');
                         enableButton('OPTIMIZE');
                 } else {
-                        console.error("Error with Init Optim.");
+                        console.error("Error with Init Optim: " + response.data.status);
                 }
         })
         .catch(showHttpError);     
@@ -517,6 +545,8 @@ function load() {
 
         //document.getElementById("ALLDIMENSIONS").onclick = getAllDimensions;       
         //document.getElementById("ALLCUBES").onclick = getAllCubes;       
+        document.getElementById("INITPA").onclick = function() {initPA('INITPA');}; 
+
         document.getElementById("GETFROMPA").onclick = function() {getFromPA('GETFROMPA');}; 
         document.getElementById("PUSHTOWS").onclick = createProjectAndPushToWS; 
         document.getElementById("OPENWS").onclick = openWS;                 

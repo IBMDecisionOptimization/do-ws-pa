@@ -1,0 +1,17 @@
+{
+  "diet_food_nutrients": {
+    "category": "input"
+  },
+  "diet_food": {
+    "category": "input"
+  },
+  "kpis": {
+    "category": "output"
+  },
+  "solution": {
+    "category": "output"
+  },
+  "diet_nutrients": {
+    "category": "input"
+  }
+}

@@ -1,0 +1,70 @@
+{
+	"name" : "Diet",	
+	"pa": {
+		"description": "Diet example with cube initialization",
+		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
+		"url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
+		"accountId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "tenantId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "username": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"password": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"mapping" : {
+			"versionDimensionName": "Version",
+			"allowInit" : true,
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+					
+				},
+				"cubes": {
+					"diet_food": {
+						"name": "diet_food",
+						"propertyDimensionName": "diet_food_properties"
+					},
+					"diet_nutrients": {
+						"name": "diet_nutrients",
+						"propertyDimensionName": "diet_food_properties"
+					},
+					"diet_food_nutrients": {
+						"name": "diet_food_nutrients",
+						"propertyDimensionName": "diet_nutrient"
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+				
+					"kpis": {
+						"name" : "kpis",
+						"adddummy" : true
+					},
+					"solution": {
+						"name" : "solution",
+						"adddummy" : true
+					}
+				},
+				"prefix": "diet_"
+			}
+		}
+	},
+	"ws": {
+        "type": "cloud",
+        "url": "https://dataplatform.cloud.ibm.com",
+        "apiurl": "https://api.dataplatform.cloud.ibm.com",
+        "apikey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "projectName": "PA3"
+    },   
+
+	"do": {
+		"type" : "desktop",		
+		"model" : "model.py",
+		"action": {
+			"text": "RUN"
+		}
+	},
+	"ui" : {
+		"title": "Diet"
+	}	
+}
