@@ -31,21 +31,20 @@
 			"output": {
 				"version": "Baseline",
 				"cubes": {
-					"production": {
+					"_ucpproduction": {
 						"name": "production"
 					},
-					"started": {
+					"_ucpstarted": {
 						"name": "started"
 					},
-					"used": {
+					"_ucpused": {
 						"name": "used"
 					},
-					"kpis": {
+					"_ucpkpis": {
 						"name" : "kpis",
 						"adddummy" : true
 					}
-				},
-				"prefix": "_ucp"
+				}
 			}
 		}
 	},
@@ -83,21 +82,20 @@
 			"output": {
 				"version": "Baseline",
 				"cubes": {
-					"production": {
+					"_ucpproduction": {
 						"name": "production"
 					},
-					"started": {
+					"_ucpstarted": {
 						"name": "started"
 					},
-					"used": {
+					"_ucpused": {
 						"name": "used"
 					},
-					"kpis": {
+					"_ucpkpis": {
 						"name" : "kpis",
 						"adddummy" : true
 					}
-				},
-				"prefix": "_ucp"
+				}
 			}
 		}
 	},

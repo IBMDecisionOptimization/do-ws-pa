@@ -34,18 +34,17 @@
 			},
 			"output": {
 				"version": "Baseline",
-				"cubes": {
-				
-					"kpis": {
+				"cubes": {				
+					"diet_kpis": {
 						"name" : "kpis",
+						"valueColumnName" : "VALUE",
 						"adddummy" : true
 					},
-					"solution": {
+					"diet_solution": {
 						"name" : "solution",
 						"adddummy" : true
 					}
-				},
-				"prefix": "diet_"
+				}
 			}
 		}
 	},

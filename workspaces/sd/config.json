@@ -61,20 +61,19 @@
 			"output": {
 				"version": "Baseline",
 				"cubes": {
-					"production": {
+					"_sdproduction": {
 						"name": "production"
 					},	
-					"executed_sales": {
-						"name": "executed_saled"
+					"_sdexecuted_sales": {
+						"name": "executed_sales"
 					},	
-					"markets_inventory": {
+					"_sdmarkets_inventory": {
 						"name": "markets_inventory"
 					},
-					"markets_allocation": {
+					"_sdmarkets_allocation": {
 						"name": "markets_allocation"
 					}
-				},
-				"prefix": "_sd"
+				}
 			}
 		}
 	},
