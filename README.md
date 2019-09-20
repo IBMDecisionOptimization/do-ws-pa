@@ -1,4 +1,6 @@
-A sample application showing what can be done with the do-ws-js library. A prototype of application and service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML), so that you can easily set up an application using Decision Optimization (DO) or Machine Learning (ML) and/or to integrate with Planning Analytics.
+A sample application showing what can be done with the do-ws-js library. 
+* prototype Line of Business application  using Decision Optimization (DO) or Machine Learning (ML)
+* easily integrate IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML)
 
 
 ## Table of contents
