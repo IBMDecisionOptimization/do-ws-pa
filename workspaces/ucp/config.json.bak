@@ -130,7 +130,6 @@
 		}
 	},
 	"ui" : {
-        "title": "Unit Commitment",
-        "gridjs" : "grid.js"
-    }
+		"title": "Unit Commitment"
+	}	
 }

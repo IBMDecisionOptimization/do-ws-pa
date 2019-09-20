@@ -1,0 +1,610 @@
+Plants,Months,Products,value
+Houston,200S,Jan-07,231.0
+Houston,200S,Feb-07,230.0
+Houston,200S,Mar-07,231.0
+Houston,300S,Jan-07,101.0
+Houston,300S,Feb-07,102.0
+Houston,300S,Mar-07,101.0
+Houston,600S,Jan-07,62.0
+Houston,600S,Feb-07,74.0
+Houston,600S,Mar-07,78.0
+Houston,626S,Jan-07,0.0
+Houston,626S,Feb-07,0.0
+Houston,626S,Mar-07,0.0
+Houston,676S,Jan-07,133.0
+Houston,676S,Feb-07,172.0
+Houston,676S,Mar-07,161.0
+Houston,676RS,Jan-07,224.0
+Houston,676RS,Feb-07,224.0
+Houston,676RS,Mar-07,225.0
+Houston,900S,Jan-07,0.0
+Houston,900S,Feb-07,0.0
+Houston,900S,Mar-07,0.0
+Houston,929S,Jan-07,0.0
+Houston,929S,Feb-07,0.0
+Houston,929S,Mar-07,0.0
+Houston,996S,Jan-07,27.0
+Houston,996S,Feb-07,31.0
+Houston,996S,Mar-07,71.0
+Houston,996RS,Jan-07,0.0
+Houston,996RS,Feb-07,0.0
+Houston,996RS,Mar-07,1.0
+Houston,RoadStar,Jan-07,205.0
+Houston,RoadStar,Feb-07,205.0
+Houston,RoadStar,Mar-07,204.0
+Houston,RoadLiner,Jan-07,197.0
+Houston,RoadLiner,Feb-07,197.0
+Houston,RoadLiner,Mar-07,198.0
+Houston,Victory,Jan-07,0.0
+Houston,Victory,Feb-07,0.0
+Houston,Victory,Mar-07,0.0
+Houston,Boulevard,Jan-07,0.0
+Houston,Boulevard,Feb-07,0.0
+Houston,Boulevard,Mar-07,1.0
+Houston,KingTwin,Jan-07,141.0
+Houston,KingTwin,Feb-07,139.0
+Houston,KingTwin,Mar-07,126.0
+Houston,MegaTwin,Jan-07,130.0
+Houston,MegaTwin,Feb-07,130.0
+Houston,MegaTwin,Mar-07,130.0
+Houston,ST900,Jan-07,0.0
+Houston,ST900,Feb-07,0.0
+Houston,ST900,Mar-07,0.0
+Houston,ST1200,Jan-07,103.0
+Houston,ST1200,Feb-07,46.0
+Houston,ST1200,Mar-07,38.0
+Houston,ST1200R,Jan-07,0.0
+Houston,ST1200R,Feb-07,1.0
+Houston,ST1200R,Mar-07,1.0
+Houston,Bandit 900,Jan-07,1.0
+Houston,Bandit 900,Feb-07,0.0
+Houston,Bandit 900,Mar-07,0.0
+Houston,Bandit 1200,Jan-07,117.0
+Houston,Bandit 1200,Feb-07,117.0
+Houston,Bandit 1200,Mar-07,117.0
+Houston,Bandit 1200S,Jan-07,0.0
+Houston,Bandit 1200S,Feb-07,0.0
+Houston,Bandit 1200S,Mar-07,1.0
+Houston,Enduro 350,Jan-07,0.0
+Houston,Enduro 350,Feb-07,0.0
+Houston,Enduro 350,Mar-07,0.0
+Houston,Enduro 450,Jan-07,2.0
+Houston,Enduro 450,Feb-07,0.0
+Houston,Enduro 450,Mar-07,0.0
+Houston,Enduro 550,Jan-07,0.0
+Houston,Enduro 550,Feb-07,0.0
+Houston,Enduro 550,Mar-07,1.0
+Houston,CRX500,Jan-07,0.0
+Houston,CRX500,Feb-07,0.0
+Houston,CRX500,Mar-07,0.0
+Houston,CRS550,Jan-07,96.0
+Houston,CRS550,Feb-07,96.0
+Houston,CRS550,Mar-07,96.0
+Houston,CRX600,Jan-07,0.0
+Houston,CRX600,Feb-07,0.0
+Houston,CRX600,Mar-07,0.0
+Houston,CRX650,Jan-07,105.0
+Houston,CRX650,Feb-07,96.0
+Houston,CRX650,Mar-07,49.0
+Dallas,200S,Jan-07,76.0
+Dallas,200S,Feb-07,76.0
+Dallas,200S,Mar-07,76.0
+Dallas,300S,Jan-07,0.0
+Dallas,300S,Feb-07,0.0
+Dallas,300S,Mar-07,0.0
+Dallas,600S,Jan-07,0.0
+Dallas,600S,Feb-07,0.0
+Dallas,600S,Mar-07,0.0
+Dallas,626S,Jan-07,0.0
+Dallas,626S,Feb-07,0.0
+Dallas,626S,Mar-07,0.0
+Dallas,676S,Jan-07,244.0
+Dallas,676S,Feb-07,244.0
+Dallas,676S,Mar-07,244.0
+Dallas,676RS,Jan-07,36.0
+Dallas,676RS,Feb-07,36.0
+Dallas,676RS,Mar-07,36.0
+Dallas,900S,Jan-07,0.0
+Dallas,900S,Feb-07,0.0
+Dallas,900S,Mar-07,0.0
+Dallas,929S,Jan-07,0.0
+Dallas,929S,Feb-07,0.0
+Dallas,929S,Mar-07,0.0
+Dallas,996S,Jan-07,172.0
+Dallas,996S,Feb-07,172.0
+Dallas,996S,Mar-07,172.0
+Dallas,996RS,Jan-07,0.0
+Dallas,996RS,Feb-07,0.0
+Dallas,996RS,Mar-07,0.0
+Dallas,RoadStar,Jan-07,262.0
+Dallas,RoadStar,Feb-07,262.0
+Dallas,RoadStar,Mar-07,262.0
+Dallas,RoadLiner,Jan-07,105.0
+Dallas,RoadLiner,Feb-07,57.0
+Dallas,RoadLiner,Mar-07,104.0
+Dallas,Victory,Jan-07,0.0
+Dallas,Victory,Feb-07,0.0
+Dallas,Victory,Mar-07,0.0
+Dallas,Boulevard,Jan-07,197.0
+Dallas,Boulevard,Feb-07,197.0
+Dallas,Boulevard,Mar-07,197.0
+Dallas,KingTwin,Jan-07,41.0
+Dallas,KingTwin,Feb-07,41.0
+Dallas,KingTwin,Mar-07,41.0
+Dallas,MegaTwin,Jan-07,0.0
+Dallas,MegaTwin,Feb-07,0.0
+Dallas,MegaTwin,Mar-07,0.0
+Dallas,ST900,Jan-07,0.0
+Dallas,ST900,Feb-07,0.0
+Dallas,ST900,Mar-07,0.0
+Dallas,ST1200,Jan-07,10.0
+Dallas,ST1200,Feb-07,82.0
+Dallas,ST1200,Mar-07,82.0
+Dallas,ST1200R,Jan-07,45.0
+Dallas,ST1200R,Feb-07,97.0
+Dallas,ST1200R,Mar-07,0.0
+Dallas,Bandit 900,Jan-07,146.0
+Dallas,Bandit 900,Feb-07,125.0
+Dallas,Bandit 900,Mar-07,105.0
+Dallas,Bandit 1200,Jan-07,117.0
+Dallas,Bandit 1200,Feb-07,117.0
+Dallas,Bandit 1200,Mar-07,117.0
+Dallas,Bandit 1200S,Jan-07,98.0
+Dallas,Bandit 1200S,Feb-07,39.0
+Dallas,Bandit 1200S,Mar-07,101.0
+Dallas,Enduro 350,Jan-07,0.0
+Dallas,Enduro 350,Feb-07,0.0
+Dallas,Enduro 350,Mar-07,0.0
+Dallas,Enduro 450,Jan-07,160.0
+Dallas,Enduro 450,Feb-07,160.0
+Dallas,Enduro 450,Mar-07,160.0
+Dallas,Enduro 550,Jan-07,104.0
+Dallas,Enduro 550,Feb-07,104.0
+Dallas,Enduro 550,Mar-07,104.0
+Dallas,CRX500,Jan-07,0.0
+Dallas,CRX500,Feb-07,0.0
+Dallas,CRX500,Mar-07,0.0
+Dallas,CRS550,Jan-07,86.0
+Dallas,CRS550,Feb-07,86.0
+Dallas,CRS550,Mar-07,86.0
+Dallas,CRX600,Jan-07,3.0
+Dallas,CRX600,Feb-07,12.0
+Dallas,CRX600,Mar-07,0.0
+Dallas,CRX650,Jan-07,0.0
+Dallas,CRX650,Feb-07,0.0
+Dallas,CRX650,Mar-07,0.0
+Los Angeles,200S,Jan-07,89.0
+Los Angeles,200S,Feb-07,89.0
+Los Angeles,200S,Mar-07,89.0
+Los Angeles,300S,Jan-07,61.0
+Los Angeles,300S,Feb-07,61.0
+Los Angeles,300S,Mar-07,61.0
+Los Angeles,600S,Jan-07,0.0
+Los Angeles,600S,Feb-07,0.0
+Los Angeles,600S,Mar-07,0.0
+Los Angeles,626S,Jan-07,213.0
+Los Angeles,626S,Feb-07,213.0
+Los Angeles,626S,Mar-07,213.0
+Los Angeles,676S,Jan-07,0.0
+Los Angeles,676S,Feb-07,0.0
+Los Angeles,676S,Mar-07,48.0
+Los Angeles,676RS,Jan-07,0.0
+Los Angeles,676RS,Feb-07,0.0
+Los Angeles,676RS,Mar-07,0.0
+Los Angeles,900S,Jan-07,156.0
+Los Angeles,900S,Feb-07,130.0
+Los Angeles,900S,Mar-07,156.0
+Los Angeles,929S,Jan-07,111.0
+Los Angeles,929S,Feb-07,111.0
+Los Angeles,929S,Mar-07,111.0
+Los Angeles,996S,Jan-07,204.0
+Los Angeles,996S,Feb-07,204.0
+Los Angeles,996S,Mar-07,204.0
+Los Angeles,996RS,Jan-07,36.0
+Los Angeles,996RS,Feb-07,36.0
+Los Angeles,996RS,Mar-07,36.0
+Los Angeles,RoadStar,Jan-07,8.0
+Los Angeles,RoadStar,Feb-07,0.0
+Los Angeles,RoadStar,Mar-07,0.0
+Los Angeles,RoadLiner,Jan-07,8.0
+Los Angeles,RoadLiner,Feb-07,57.0
+Los Angeles,RoadLiner,Mar-07,0.0
+Los Angeles,Victory,Jan-07,0.0
+Los Angeles,Victory,Feb-07,0.0
+Los Angeles,Victory,Mar-07,0.0
+Los Angeles,Boulevard,Jan-07,0.0
+Los Angeles,Boulevard,Feb-07,0.0
+Los Angeles,Boulevard,Mar-07,0.0
+Los Angeles,KingTwin,Jan-07,0.0
+Los Angeles,KingTwin,Feb-07,0.0
+Los Angeles,KingTwin,Mar-07,0.0
+Los Angeles,MegaTwin,Jan-07,0.0
+Los Angeles,MegaTwin,Feb-07,0.0
+Los Angeles,MegaTwin,Mar-07,0.0
+Los Angeles,ST900,Jan-07,64.0
+Los Angeles,ST900,Feb-07,25.0
+Los Angeles,ST900,Mar-07,0.0
+Los Angeles,ST1200,Jan-07,56.0
+Los Angeles,ST1200,Feb-07,56.0
+Los Angeles,ST1200,Mar-07,56.0
+Los Angeles,ST1200R,Jan-07,175.0
+Los Angeles,ST1200R,Feb-07,175.0
+Los Angeles,ST1200R,Mar-07,175.0
+Los Angeles,Bandit 900,Jan-07,0.0
+Los Angeles,Bandit 900,Feb-07,0.0
+Los Angeles,Bandit 900,Mar-07,0.0
+Los Angeles,Bandit 1200,Jan-07,16.0
+Los Angeles,Bandit 1200,Feb-07,31.0
+Los Angeles,Bandit 1200,Mar-07,0.0
+Los Angeles,Bandit 1200S,Jan-07,88.0
+Los Angeles,Bandit 1200S,Feb-07,88.0
+Los Angeles,Bandit 1200S,Mar-07,88.0
+Los Angeles,Enduro 350,Jan-07,0.0
+Los Angeles,Enduro 350,Feb-07,0.0
+Los Angeles,Enduro 350,Mar-07,0.0
+Los Angeles,Enduro 450,Jan-07,3.0
+Los Angeles,Enduro 450,Feb-07,0.0
+Los Angeles,Enduro 450,Mar-07,0.0
+Los Angeles,Enduro 550,Jan-07,37.0
+Los Angeles,Enduro 550,Feb-07,37.0
+Los Angeles,Enduro 550,Mar-07,37.0
+Los Angeles,CRX500,Jan-07,0.0
+Los Angeles,CRX500,Feb-07,0.0
+Los Angeles,CRX500,Mar-07,0.0
+Los Angeles,CRS550,Jan-07,147.0
+Los Angeles,CRS550,Feb-07,147.0
+Los Angeles,CRS550,Mar-07,147.0
+Los Angeles,CRX600,Jan-07,126.0
+Los Angeles,CRX600,Feb-07,126.0
+Los Angeles,CRX600,Mar-07,126.0
+Los Angeles,CRX650,Jan-07,274.0
+Los Angeles,CRX650,Feb-07,274.0
+Los Angeles,CRX650,Mar-07,274.0
+Mexico,200S,Jan-07,53.0
+Mexico,200S,Feb-07,31.0
+Mexico,200S,Mar-07,1.0
+Mexico,300S,Jan-07,0.0
+Mexico,300S,Feb-07,0.0
+Mexico,300S,Mar-07,0.0
+Mexico,600S,Jan-07,0.0
+Mexico,600S,Feb-07,0.0
+Mexico,600S,Mar-07,0.0
+Mexico,626S,Jan-07,269.0
+Mexico,626S,Feb-07,270.0
+Mexico,626S,Mar-07,268.0
+Mexico,676S,Jan-07,0.0
+Mexico,676S,Feb-07,0.0
+Mexico,676S,Mar-07,0.0
+Mexico,676RS,Jan-07,33.0
+Mexico,676RS,Feb-07,33.0
+Mexico,676RS,Mar-07,33.0
+Mexico,900S,Jan-07,0.0
+Mexico,900S,Feb-07,0.0
+Mexico,900S,Mar-07,0.0
+Mexico,929S,Jan-07,21.0
+Mexico,929S,Feb-07,21.0
+Mexico,929S,Mar-07,22.0
+Mexico,996S,Jan-07,61.0
+Mexico,996S,Feb-07,61.0
+Mexico,996S,Mar-07,61.0
+Mexico,996RS,Jan-07,258.0
+Mexico,996RS,Feb-07,258.0
+Mexico,996RS,Mar-07,258.0
+Mexico,RoadStar,Jan-07,163.0
+Mexico,RoadStar,Feb-07,129.0
+Mexico,RoadStar,Mar-07,127.0
+Mexico,RoadLiner,Jan-07,226.0
+Mexico,RoadLiner,Feb-07,226.0
+Mexico,RoadLiner,Mar-07,226.0
+Mexico,Victory,Jan-07,0.0
+Mexico,Victory,Feb-07,0.0
+Mexico,Victory,Mar-07,0.0
+Mexico,Boulevard,Jan-07,0.0
+Mexico,Boulevard,Feb-07,0.0
+Mexico,Boulevard,Mar-07,0.0
+Mexico,KingTwin,Jan-07,0.0
+Mexico,KingTwin,Feb-07,0.0
+Mexico,KingTwin,Mar-07,0.0
+Mexico,MegaTwin,Jan-07,0.0
+Mexico,MegaTwin,Feb-07,0.0
+Mexico,MegaTwin,Mar-07,0.0
+Mexico,ST900,Jan-07,0.0
+Mexico,ST900,Feb-07,0.0
+Mexico,ST900,Mar-07,0.0
+Mexico,ST1200,Jan-07,164.0
+Mexico,ST1200,Feb-07,164.0
+Mexico,ST1200,Mar-07,164.0
+Mexico,ST1200R,Jan-07,1.0
+Mexico,ST1200R,Feb-07,0.0
+Mexico,ST1200R,Mar-07,124.0
+Mexico,Bandit 900,Jan-07,0.0
+Mexico,Bandit 900,Feb-07,0.0
+Mexico,Bandit 900,Mar-07,0.0
+Mexico,Bandit 1200,Jan-07,0.0
+Mexico,Bandit 1200,Feb-07,0.0
+Mexico,Bandit 1200,Mar-07,0.0
+Mexico,Bandit 1200S,Jan-07,23.0
+Mexico,Bandit 1200S,Feb-07,96.0
+Mexico,Bandit 1200S,Mar-07,44.0
+Mexico,Enduro 350,Jan-07,0.0
+Mexico,Enduro 350,Feb-07,0.0
+Mexico,Enduro 350,Mar-07,0.0
+Mexico,Enduro 450,Jan-07,122.0
+Mexico,Enduro 450,Feb-07,120.0
+Mexico,Enduro 450,Mar-07,91.0
+Mexico,Enduro 550,Jan-07,0.0
+Mexico,Enduro 550,Feb-07,0.0
+Mexico,Enduro 550,Mar-07,2.0
+Mexico,CRX500,Jan-07,0.0
+Mexico,CRX500,Feb-07,0.0
+Mexico,CRX500,Mar-07,0.0
+Mexico,CRS550,Jan-07,187.0
+Mexico,CRS550,Feb-07,187.0
+Mexico,CRS550,Mar-07,187.0
+Mexico,CRX600,Jan-07,0.0
+Mexico,CRX600,Feb-07,0.0
+Mexico,CRX600,Mar-07,0.0
+Mexico,CRX650,Jan-07,111.0
+Mexico,CRX650,Feb-07,111.0
+Mexico,CRX650,Mar-07,111.0
+Toledo,200S,Jan-07,42.0
+Toledo,200S,Feb-07,0.0
+Toledo,200S,Mar-07,0.0
+Toledo,300S,Jan-07,108.0
+Toledo,300S,Feb-07,113.0
+Toledo,300S,Mar-07,99.0
+Toledo,600S,Jan-07,242.0
+Toledo,600S,Feb-07,241.0
+Toledo,600S,Mar-07,242.0
+Toledo,626S,Jan-07,0.0
+Toledo,626S,Feb-07,0.0
+Toledo,626S,Mar-07,0.0
+Toledo,676S,Jan-07,0.0
+Toledo,676S,Feb-07,0.0
+Toledo,676S,Mar-07,0.0
+Toledo,676RS,Jan-07,39.0
+Toledo,676RS,Feb-07,57.0
+Toledo,676RS,Mar-07,63.0
+Toledo,900S,Jan-07,68.0
+Toledo,900S,Feb-07,68.0
+Toledo,900S,Mar-07,68.0
+Toledo,929S,Jan-07,0.0
+Toledo,929S,Feb-07,0.0
+Toledo,929S,Mar-07,0.0
+Toledo,996S,Jan-07,57.0
+Toledo,996S,Feb-07,57.0
+Toledo,996S,Mar-07,57.0
+Toledo,996RS,Jan-07,0.0
+Toledo,996RS,Feb-07,0.0
+Toledo,996RS,Mar-07,0.0
+Toledo,RoadStar,Jan-07,0.0
+Toledo,RoadStar,Feb-07,0.0
+Toledo,RoadStar,Mar-07,0.0
+Toledo,RoadLiner,Jan-07,0.0
+Toledo,RoadLiner,Feb-07,0.0
+Toledo,RoadLiner,Mar-07,0.0
+Toledo,Victory,Jan-07,0.0
+Toledo,Victory,Feb-07,0.0
+Toledo,Victory,Mar-07,0.0
+Toledo,Boulevard,Jan-07,25.0
+Toledo,Boulevard,Feb-07,13.0
+Toledo,Boulevard,Mar-07,98.0
+Toledo,KingTwin,Jan-07,216.0
+Toledo,KingTwin,Feb-07,263.0
+Toledo,KingTwin,Mar-07,263.0
+Toledo,MegaTwin,Jan-07,130.0
+Toledo,MegaTwin,Feb-07,173.0
+Toledo,MegaTwin,Mar-07,175.0
+Toledo,ST900,Jan-07,179.0
+Toledo,ST900,Feb-07,179.0
+Toledo,ST900,Mar-07,159.0
+Toledo,ST1200,Jan-07,95.0
+Toledo,ST1200,Feb-07,95.0
+Toledo,ST1200,Mar-07,95.0
+Toledo,ST1200R,Jan-07,216.0
+Toledo,ST1200R,Feb-07,167.0
+Toledo,ST1200R,Mar-07,163.0
+Toledo,Bandit 900,Jan-07,0.0
+Toledo,Bandit 900,Feb-07,0.0
+Toledo,Bandit 900,Mar-07,0.0
+Toledo,Bandit 1200,Jan-07,112.0
+Toledo,Bandit 1200,Feb-07,112.0
+Toledo,Bandit 1200,Mar-07,112.0
+Toledo,Bandit 1200S,Jan-07,112.0
+Toledo,Bandit 1200S,Feb-07,112.0
+Toledo,Bandit 1200S,Mar-07,112.0
+Toledo,Enduro 350,Jan-07,155.0
+Toledo,Enduro 350,Feb-07,138.0
+Toledo,Enduro 350,Mar-07,118.0
+Toledo,Enduro 450,Jan-07,0.0
+Toledo,Enduro 450,Feb-07,0.0
+Toledo,Enduro 450,Mar-07,0.0
+Toledo,Enduro 550,Jan-07,178.0
+Toledo,Enduro 550,Feb-07,200.0
+Toledo,Enduro 550,Mar-07,222.0
+Toledo,CRX500,Jan-07,79.0
+Toledo,CRX500,Feb-07,72.0
+Toledo,CRX500,Mar-07,25.0
+Toledo,CRS550,Jan-07,0.0
+Toledo,CRS550,Feb-07,0.0
+Toledo,CRS550,Mar-07,0.0
+Toledo,CRX600,Jan-07,0.0
+Toledo,CRX600,Feb-07,0.0
+Toledo,CRX600,Mar-07,0.0
+Toledo,CRX650,Jan-07,104.0
+Toledo,CRX650,Feb-07,104.0
+Toledo,CRX650,Mar-07,104.0
+Bucarest,200S,Jan-07,210.0
+Bucarest,200S,Feb-07,210.0
+Bucarest,200S,Mar-07,210.0
+Bucarest,300S,Jan-07,84.0
+Bucarest,300S,Feb-07,84.0
+Bucarest,300S,Mar-07,84.0
+Bucarest,600S,Jan-07,251.0
+Bucarest,600S,Feb-07,251.0
+Bucarest,600S,Mar-07,251.0
+Bucarest,626S,Jan-07,0.0
+Bucarest,626S,Feb-07,0.0
+Bucarest,626S,Mar-07,0.0
+Bucarest,676S,Jan-07,0.0
+Bucarest,676S,Feb-07,0.0
+Bucarest,676S,Mar-07,0.0
+Bucarest,676RS,Jan-07,152.0
+Bucarest,676RS,Feb-07,152.0
+Bucarest,676RS,Mar-07,152.0
+Bucarest,900S,Jan-07,12.0
+Bucarest,900S,Feb-07,18.0
+Bucarest,900S,Mar-07,3.0
+Bucarest,929S,Jan-07,267.0
+Bucarest,929S,Feb-07,267.0
+Bucarest,929S,Mar-07,267.0
+Bucarest,996S,Jan-07,44.0
+Bucarest,996S,Feb-07,44.0
+Bucarest,996S,Mar-07,44.0
+Bucarest,996RS,Jan-07,53.0
+Bucarest,996RS,Feb-07,77.0
+Bucarest,996RS,Mar-07,70.0
+Bucarest,RoadStar,Jan-07,0.0
+Bucarest,RoadStar,Feb-07,2.0
+Bucarest,RoadStar,Mar-07,0.0
+Bucarest,RoadLiner,Jan-07,0.0
+Bucarest,RoadLiner,Feb-07,0.0
+Bucarest,RoadLiner,Mar-07,0.0
+Bucarest,Victory,Jan-07,262.0
+Bucarest,Victory,Feb-07,217.0
+Bucarest,Victory,Mar-07,147.0
+Bucarest,Boulevard,Jan-07,172.0
+Bucarest,Boulevard,Feb-07,173.0
+Bucarest,Boulevard,Mar-07,173.0
+Bucarest,KingTwin,Jan-07,190.0
+Bucarest,KingTwin,Feb-07,190.0
+Bucarest,KingTwin,Mar-07,190.0
+Bucarest,MegaTwin,Jan-07,163.0
+Bucarest,MegaTwin,Feb-07,163.0
+Bucarest,MegaTwin,Mar-07,163.0
+Bucarest,ST900,Jan-07,0.0
+Bucarest,ST900,Feb-07,0.0
+Bucarest,ST900,Mar-07,0.0
+Bucarest,ST1200,Jan-07,204.0
+Bucarest,ST1200,Feb-07,204.0
+Bucarest,ST1200,Mar-07,204.0
+Bucarest,ST1200R,Jan-07,0.0
+Bucarest,ST1200R,Feb-07,0.0
+Bucarest,ST1200R,Mar-07,0.0
+Bucarest,Bandit 900,Jan-07,0.0
+Bucarest,Bandit 900,Feb-07,0.0
+Bucarest,Bandit 900,Mar-07,0.0
+Bucarest,Bandit 1200,Jan-07,201.0
+Bucarest,Bandit 1200,Feb-07,201.0
+Bucarest,Bandit 1200,Mar-07,200.0
+Bucarest,Bandit 1200S,Jan-07,40.0
+Bucarest,Bandit 1200S,Feb-07,40.0
+Bucarest,Bandit 1200S,Mar-07,29.0
+Bucarest,Enduro 350,Jan-07,221.0
+Bucarest,Enduro 350,Feb-07,221.0
+Bucarest,Enduro 350,Mar-07,221.0
+Bucarest,Enduro 450,Jan-07,1.0
+Bucarest,Enduro 450,Feb-07,0.0
+Bucarest,Enduro 450,Mar-07,0.0
+Bucarest,Enduro 550,Jan-07,193.0
+Bucarest,Enduro 550,Feb-07,193.0
+Bucarest,Enduro 550,Mar-07,191.0
+Bucarest,CRX500,Jan-07,0.0
+Bucarest,CRX500,Feb-07,0.0
+Bucarest,CRX500,Mar-07,0.0
+Bucarest,CRS550,Jan-07,66.0
+Bucarest,CRS550,Feb-07,66.0
+Bucarest,CRS550,Mar-07,66.0
+Bucarest,CRX600,Jan-07,241.0
+Bucarest,CRX600,Feb-07,241.0
+Bucarest,CRX600,Mar-07,241.0
+Bucarest,CRX650,Jan-07,0.0
+Bucarest,CRX650,Feb-07,28.0
+Bucarest,CRX650,Mar-07,97.0
+Shanghai,200S,Jan-07,129.0
+Shanghai,200S,Feb-07,129.0
+Shanghai,200S,Mar-07,129.0
+Shanghai,300S,Jan-07,0.0
+Shanghai,300S,Feb-07,0.0
+Shanghai,300S,Mar-07,0.0
+Shanghai,600S,Jan-07,113.0
+Shanghai,600S,Feb-07,113.0
+Shanghai,600S,Mar-07,113.0
+Shanghai,626S,Jan-07,0.0
+Shanghai,626S,Feb-07,0.0
+Shanghai,626S,Mar-07,0.0
+Shanghai,676S,Jan-07,196.0
+Shanghai,676S,Feb-07,196.0
+Shanghai,676S,Mar-07,196.0
+Shanghai,676RS,Jan-07,36.0
+Shanghai,676RS,Feb-07,36.0
+Shanghai,676RS,Mar-07,36.0
+Shanghai,900S,Jan-07,227.0
+Shanghai,900S,Feb-07,227.0
+Shanghai,900S,Mar-07,227.0
+Shanghai,929S,Jan-07,118.0
+Shanghai,929S,Feb-07,118.0
+Shanghai,929S,Mar-07,118.0
+Shanghai,996S,Jan-07,31.0
+Shanghai,996S,Feb-07,31.0
+Shanghai,996S,Mar-07,31.0
+Shanghai,996RS,Jan-07,114.0
+Shanghai,996RS,Feb-07,114.0
+Shanghai,996RS,Mar-07,114.0
+Shanghai,RoadStar,Jan-07,69.0
+Shanghai,RoadStar,Feb-07,69.0
+Shanghai,RoadStar,Mar-07,69.0
+Shanghai,RoadLiner,Jan-07,31.0
+Shanghai,RoadLiner,Feb-07,31.0
+Shanghai,RoadLiner,Mar-07,31.0
+Shanghai,Victory,Jan-07,157.0
+Shanghai,Victory,Feb-07,161.0
+Shanghai,Victory,Mar-07,211.0
+Shanghai,Boulevard,Jan-07,147.0
+Shanghai,Boulevard,Feb-07,168.0
+Shanghai,Boulevard,Mar-07,100.0
+Shanghai,KingTwin,Jan-07,0.0
+Shanghai,KingTwin,Feb-07,0.0
+Shanghai,KingTwin,Mar-07,0.0
+Shanghai,MegaTwin,Jan-07,102.0
+Shanghai,MegaTwin,Feb-07,102.0
+Shanghai,MegaTwin,Mar-07,102.0
+Shanghai,ST900,Jan-07,2.0
+Shanghai,ST900,Feb-07,0.0
+Shanghai,ST900,Mar-07,0.0
+Shanghai,ST1200,Jan-07,58.0
+Shanghai,ST1200,Feb-07,58.0
+Shanghai,ST1200,Mar-07,58.0
+Shanghai,ST1200R,Jan-07,103.0
+Shanghai,ST1200R,Feb-07,105.0
+Shanghai,ST1200R,Mar-07,105.0
+Shanghai,Bandit 900,Jan-07,188.0
+Shanghai,Bandit 900,Feb-07,188.0
+Shanghai,Bandit 900,Mar-07,188.0
+Shanghai,Bandit 1200,Jan-07,0.0
+Shanghai,Bandit 1200,Feb-07,0.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,240.0
+Shanghai,Bandit 1200S,Feb-07,240.0
+Shanghai,Bandit 1200S,Mar-07,240.0
+Shanghai,Enduro 350,Jan-07,0.0
+Shanghai,Enduro 350,Feb-07,0.0
+Shanghai,Enduro 350,Mar-07,0.0
+Shanghai,Enduro 450,Jan-07,0.0
+Shanghai,Enduro 450,Feb-07,0.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,154.0
+Shanghai,Enduro 550,Feb-07,154.0
+Shanghai,Enduro 550,Mar-07,154.0
+Shanghai,CRX500,Jan-07,0.0
+Shanghai,CRX500,Feb-07,0.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,119.0
+Shanghai,CRS550,Feb-07,103.0
+Shanghai,CRS550,Mar-07,109.0
+Shanghai,CRX600,Jan-07,117.0
+Shanghai,CRX600,Feb-07,117.0
+Shanghai,CRX600,Mar-07,117.0
+Shanghai,CRX650,Jan-07,72.0
+Shanghai,CRX650,Feb-07,72.0
+Shanghai,CRX650,Mar-07,72.0

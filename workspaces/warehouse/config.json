@@ -1,0 +1,20 @@
+{
+    "name": "Warehouse",
+    "description" :"Plan the replenishment of retailer warehouses in order to optimaly balance order and stock costs.",
+    "scenario" : {        
+        "config" : {
+           
+        }
+    },
+    
+    "do" : {  
+        "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+        "key": "api_xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "model": "model.py"
+    },
+    "ui" : {
+        "title": "Warehouse",
+        "gridjs" : "grid.js"
+    }
+
+}

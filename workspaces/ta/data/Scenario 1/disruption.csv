@@ -1,0 +1,401 @@
+state,salesrep,value
+Alabama,John,1
+Alabama,Jack,1
+Alabama,Paul,1
+Alabama,Mark,1
+Alabama,Eric,0
+Alabama,Steve,1
+Alabama,Bill,1
+Alabama,Joe,1
+Alaska,John,1
+Alaska,Jack,1
+Alaska,Paul,1
+Alaska,Mark,0
+Alaska,Eric,1
+Alaska,Steve,1
+Alaska,Bill,1
+Alaska,Joe,1
+Arizona,John,1
+Arizona,Jack,1
+Arizona,Paul,0
+Arizona,Mark,1
+Arizona,Eric,1
+Arizona,Steve,1
+Arizona,Bill,1
+Arizona,Joe,1
+Arkansas,John,0
+Arkansas,Jack,1
+Arkansas,Paul,1
+Arkansas,Mark,1
+Arkansas,Eric,1
+Arkansas,Steve,1
+Arkansas,Bill,1
+Arkansas,Joe,1
+California,John,0
+California,Jack,1
+California,Paul,1
+California,Mark,1
+California,Eric,1
+California,Steve,1
+California,Bill,1
+California,Joe,1
+Colorado,John,1
+Colorado,Jack,1
+Colorado,Paul,1
+Colorado,Mark,1
+Colorado,Eric,1
+Colorado,Steve,1
+Colorado,Bill,1
+Colorado,Joe,0
+Connecticut,John,1
+Connecticut,Jack,0
+Connecticut,Paul,1
+Connecticut,Mark,1
+Connecticut,Eric,1
+Connecticut,Steve,1
+Connecticut,Bill,1
+Connecticut,Joe,1
+Delaware,John,1
+Delaware,Jack,0
+Delaware,Paul,1
+Delaware,Mark,1
+Delaware,Eric,1
+Delaware,Steve,1
+Delaware,Bill,1
+Delaware,Joe,1
+Florida,John,1
+Florida,Jack,1
+Florida,Paul,1
+Florida,Mark,0
+Florida,Eric,1
+Florida,Steve,1
+Florida,Bill,1
+Florida,Joe,1
+Georgia,John,1
+Georgia,Jack,1
+Georgia,Paul,1
+Georgia,Mark,0
+Georgia,Eric,1
+Georgia,Steve,1
+Georgia,Bill,1
+Georgia,Joe,1
+Hawaii,John,0
+Hawaii,Jack,1
+Hawaii,Paul,1
+Hawaii,Mark,1
+Hawaii,Eric,1
+Hawaii,Steve,1
+Hawaii,Bill,1
+Hawaii,Joe,1
+Idaho,John,1
+Idaho,Jack,1
+Idaho,Paul,1
+Idaho,Mark,1
+Idaho,Eric,1
+Idaho,Steve,1
+Idaho,Bill,1
+Idaho,Joe,0
+Illinois,John,1
+Illinois,Jack,1
+Illinois,Paul,1
+Illinois,Mark,1
+Illinois,Eric,0
+Illinois,Steve,1
+Illinois,Bill,1
+Illinois,Joe,1
+Indiana,John,1
+Indiana,Jack,1
+Indiana,Paul,1
+Indiana,Mark,1
+Indiana,Eric,1
+Indiana,Steve,1
+Indiana,Bill,1
+Indiana,Joe,0
+Iowa,John,1
+Iowa,Jack,1
+Iowa,Paul,0
+Iowa,Mark,1
+Iowa,Eric,1
+Iowa,Steve,1
+Iowa,Bill,1
+Iowa,Joe,1
+Kansas,John,1
+Kansas,Jack,1
+Kansas,Paul,0
+Kansas,Mark,1
+Kansas,Eric,1
+Kansas,Steve,1
+Kansas,Bill,1
+Kansas,Joe,1
+Kentucky,John,1
+Kentucky,Jack,1
+Kentucky,Paul,1
+Kentucky,Mark,1
+Kentucky,Eric,1
+Kentucky,Steve,1
+Kentucky,Bill,0
+Kentucky,Joe,1
+Louisiana,John,1
+Louisiana,Jack,1
+Louisiana,Paul,1
+Louisiana,Mark,1
+Louisiana,Eric,1
+Louisiana,Steve,0
+Louisiana,Bill,1
+Louisiana,Joe,1
+Maine,John,1
+Maine,Jack,0
+Maine,Paul,1
+Maine,Mark,1
+Maine,Eric,1
+Maine,Steve,1
+Maine,Bill,1
+Maine,Joe,1
+Maryland,John,1
+Maryland,Jack,0
+Maryland,Paul,1
+Maryland,Mark,1
+Maryland,Eric,1
+Maryland,Steve,1
+Maryland,Bill,1
+Maryland,Joe,1
+Massachusetts,John,1
+Massachusetts,Jack,0
+Massachusetts,Paul,1
+Massachusetts,Mark,1
+Massachusetts,Eric,1
+Massachusetts,Steve,1
+Massachusetts,Bill,1
+Massachusetts,Joe,1
+Michigan,John,1
+Michigan,Jack,1
+Michigan,Paul,1
+Michigan,Mark,1
+Michigan,Eric,1
+Michigan,Steve,1
+Michigan,Bill,0
+Michigan,Joe,1
+Minnesota,John,1
+Minnesota,Jack,1
+Minnesota,Paul,1
+Minnesota,Mark,1
+Minnesota,Eric,1
+Minnesota,Steve,1
+Minnesota,Bill,1
+Minnesota,Joe,0
+Mississippi,John,1
+Mississippi,Jack,1
+Mississippi,Paul,0
+Mississippi,Mark,1
+Mississippi,Eric,1
+Mississippi,Steve,1
+Mississippi,Bill,1
+Mississippi,Joe,1
+Missouri,John,1
+Missouri,Jack,1
+Missouri,Paul,1
+Missouri,Mark,1
+Missouri,Eric,1
+Missouri,Steve,0
+Missouri,Bill,1
+Missouri,Joe,1
+Montana,John,1
+Montana,Jack,1
+Montana,Paul,1
+Montana,Mark,1
+Montana,Eric,0
+Montana,Steve,1
+Montana,Bill,1
+Montana,Joe,1
+Nebraska,John,1
+Nebraska,Jack,1
+Nebraska,Paul,1
+Nebraska,Mark,0
+Nebraska,Eric,1
+Nebraska,Steve,1
+Nebraska,Bill,1
+Nebraska,Joe,1
+Nevada,John,1
+Nevada,Jack,1
+Nevada,Paul,1
+Nevada,Mark,1
+Nevada,Eric,1
+Nevada,Steve,1
+Nevada,Bill,1
+Nevada,Joe,0
+New Hampshire,John,1
+New Hampshire,Jack,1
+New Hampshire,Paul,1
+New Hampshire,Mark,1
+New Hampshire,Eric,1
+New Hampshire,Steve,1
+New Hampshire,Bill,1
+New Hampshire,Joe,0
+New Jersey,John,1
+New Jersey,Jack,0
+New Jersey,Paul,1
+New Jersey,Mark,1
+New Jersey,Eric,1
+New Jersey,Steve,1
+New Jersey,Bill,1
+New Jersey,Joe,1
+New Mexico,John,1
+New Mexico,Jack,0
+New Mexico,Paul,1
+New Mexico,Mark,1
+New Mexico,Eric,1
+New Mexico,Steve,1
+New Mexico,Bill,1
+New Mexico,Joe,1
+New York,John,1
+New York,Jack,1
+New York,Paul,1
+New York,Mark,1
+New York,Eric,1
+New York,Steve,1
+New York,Bill,1
+New York,Joe,0
+North Carolina,John,0
+North Carolina,Jack,1
+North Carolina,Paul,1
+North Carolina,Mark,1
+North Carolina,Eric,1
+North Carolina,Steve,1
+North Carolina,Bill,1
+North Carolina,Joe,1
+North Dakota,John,1
+North Dakota,Jack,1
+North Dakota,Paul,1
+North Dakota,Mark,1
+North Dakota,Eric,1
+North Dakota,Steve,1
+North Dakota,Bill,0
+North Dakota,Joe,1
+Ohio,John,1
+Ohio,Jack,1
+Ohio,Paul,1
+Ohio,Mark,1
+Ohio,Eric,1
+Ohio,Steve,1
+Ohio,Bill,0
+Ohio,Joe,1
+Oklahoma,John,1
+Oklahoma,Jack,1
+Oklahoma,Paul,0
+Oklahoma,Mark,1
+Oklahoma,Eric,1
+Oklahoma,Steve,1
+Oklahoma,Bill,1
+Oklahoma,Joe,1
+Oregon,John,1
+Oregon,Jack,1
+Oregon,Paul,1
+Oregon,Mark,1
+Oregon,Eric,0
+Oregon,Steve,1
+Oregon,Bill,1
+Oregon,Joe,1
+Pennsylvania,John,1
+Pennsylvania,Jack,1
+Pennsylvania,Paul,1
+Pennsylvania,Mark,0
+Pennsylvania,Eric,1
+Pennsylvania,Steve,1
+Pennsylvania,Bill,1
+Pennsylvania,Joe,1
+Rhode Island,John,1
+Rhode Island,Jack,0
+Rhode Island,Paul,1
+Rhode Island,Mark,1
+Rhode Island,Eric,1
+Rhode Island,Steve,1
+Rhode Island,Bill,1
+Rhode Island,Joe,1
+South Carolina,John,1
+South Carolina,Jack,1
+South Carolina,Paul,1
+South Carolina,Mark,0
+South Carolina,Eric,1
+South Carolina,Steve,1
+South Carolina,Bill,1
+South Carolina,Joe,1
+South Dakota,John,1
+South Dakota,Jack,1
+South Dakota,Paul,1
+South Dakota,Mark,1
+South Dakota,Eric,1
+South Dakota,Steve,1
+South Dakota,Bill,1
+South Dakota,Joe,0
+Tennessee,John,1
+Tennessee,Jack,1
+Tennessee,Paul,0
+Tennessee,Mark,1
+Tennessee,Eric,1
+Tennessee,Steve,1
+Tennessee,Bill,1
+Tennessee,Joe,1
+Texas,John,1
+Texas,Jack,1
+Texas,Paul,1
+Texas,Mark,1
+Texas,Eric,1
+Texas,Steve,1
+Texas,Bill,1
+Texas,Joe,0
+Utah,John,1
+Utah,Jack,1
+Utah,Paul,1
+Utah,Mark,1
+Utah,Eric,0
+Utah,Steve,1
+Utah,Bill,1
+Utah,Joe,1
+Vermont,John,1
+Vermont,Jack,1
+Vermont,Paul,1
+Vermont,Mark,1
+Vermont,Eric,1
+Vermont,Steve,1
+Vermont,Bill,0
+Vermont,Joe,1
+Virginia,John,1
+Virginia,Jack,0
+Virginia,Paul,1
+Virginia,Mark,1
+Virginia,Eric,1
+Virginia,Steve,1
+Virginia,Bill,1
+Virginia,Joe,1
+Washington,John,1
+Washington,Jack,1
+Washington,Paul,1
+Washington,Mark,1
+Washington,Eric,0
+Washington,Steve,1
+Washington,Bill,1
+Washington,Joe,1
+West Virginia,John,1
+West Virginia,Jack,1
+West Virginia,Paul,1
+West Virginia,Mark,1
+West Virginia,Eric,1
+West Virginia,Steve,1
+West Virginia,Bill,0
+West Virginia,Joe,1
+Wisconsin,John,1
+Wisconsin,Jack,0
+Wisconsin,Paul,1
+Wisconsin,Mark,1
+Wisconsin,Eric,1
+Wisconsin,Steve,1
+Wisconsin,Bill,1
+Wisconsin,Joe,1
+Wyoming,John,1
+Wyoming,Jack,1
+Wyoming,Paul,1
+Wyoming,Mark,1
+Wyoming,Eric,0
+Wyoming,Steve,1
+Wyoming,Bill,1
+Wyoming,Joe,1

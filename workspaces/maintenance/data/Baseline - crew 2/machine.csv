@@ -1,0 +1,6 @@
+id,capacity,remaining life,cost of maintenance,maintenance loss,cost of repair,repair loss,loss per life day,production value unit
+M-01,100,14,50,50,100,100,20,10
+M-02,120,12,50,50,100,100,20,10
+M-03,140,12,50,50,100,100,20,10
+M-04,140,9,50,50,100,100,20,10
+M-05,90,10,50,50,100,100,20,10

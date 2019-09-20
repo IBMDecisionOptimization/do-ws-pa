@@ -1,0 +1,31 @@
+Id,Description,Earliest Start Date,Inactive,Latest End Date,Long Name,Setup Cost,Setup Time,Tardiness Cost,Parent Module,Project
+Plane1_03,Plane1_03,11/16/2017 23:00,,11/22/2017 23:00,Plane1_03,,,1,Plane1,Plane1
+Plane1,Plane1,,,,Plane1,,,,,Plane1
+Plane1_04,Plane1_04,11/22/2017 23:00,,11/28/2017 23:00,Plane1_04,,,1,Plane1,Plane1
+Plane1_05,Plane1_05,11/28/2017 23:00,,12/04/2017 23:00,Plane1_05,,,1,Plane1,Plane1
+Plane1_01,Plane1_01,11/06/2017 23:00,,11/12/2017 23:00,Plane1_01,,,1,Plane1,Plane1
+Plane1_02,Plane1_02,11/12/2017 23:00,,11/16/2017 23:00,Plane1_02,,,1,Plane1,Plane1
+Plane2_03,Plane2_03,11/22/2017 23:00,,11/28/2017 23:00,Plane2_03,,,1,Plane2,Plane2
+Plane2,Plane2,,,,Plane2,,,,,Plane2
+Plane2_04,Plane2_04,11/28/2017 23:00,,12/04/2017 23:00,Plane2_04,,,1,Plane2,Plane2
+Plane2_05,Plane2_05,12/04/2017 23:00,,12/10/2017 23:00,Plane2_05,,,1,Plane2,Plane2
+Plane2_01,Plane2_01,11/12/2017 23:00,,11/16/2017 23:00,Plane2_01,,,1,Plane2,Plane2
+Plane2_02,Plane2_02,11/16/2017 23:00,,11/22/2017 23:00,Plane2_02,,,1,Plane2,Plane2
+Plane3_03,Plane3_03,11/28/2017 23:00,,12/04/2017 23:00,Plane3_03,,,1,Plane3,Plane3
+Plane3,Plane3,,,,Plane3,,,,,Plane3
+Plane3_04,Plane3_04,12/04/2017 23:00,,12/10/2017 23:00,Plane3_04,,,1,Plane3,Plane3
+Plane3_05,Plane3_05,12/10/2017 23:00,,12/14/2017 23:00,Plane3_05,,,1,Plane3,Plane3
+Plane3_01,Plane3_01,11/16/2017 23:00,,11/22/2017 23:00,Plane3_01,,,1,Plane3,Plane3
+Plane3_02,Plane3_02,11/22/2017 23:00,,11/28/2017 23:00,Plane3_02,,,1,Plane3,Plane3
+Plane4_03,Plane4_03,12/04/2017 23:00,,12/10/2017 23:00,Plane4_03,,,1,Plane4,Plane4
+Plane4,Plane4,,,,Plane4,,,,,Plane4
+Plane4_04,Plane4_04,12/10/2017 23:00,,12/14/2017 23:00,Plane4_04,,,1,Plane4,Plane4
+Plane4_05,Plane4_05,12/14/2017 23:00,,12/20/2017 23:00,Plane4_05,,,1,Plane4,Plane4
+Plane4_01,Plane4_01,11/22/2017 23:00,,11/28/2017 23:00,Plane4_01,,,1,Plane4,Plane4
+Plane4_02,Plane4_02,11/28/2017 23:00,,12/04/2017 23:00,Plane4_02,,,1,Plane4,Plane4
+Plane5_03,Plane5_03,12/10/2017 23:00,,12/14/2017 23:00,Plane5_03,,,1,Plane5,Plane5
+Plane5,Plane5,,,,Plane5,,,,,Plane5
+Plane5_04,Plane5_04,12/14/2017 23:00,,12/20/2017 23:00,Plane5_04,,,1,Plane5,Plane5
+Plane5_05,Plane5_05,12/20/2017 23:00,,12/26/2017 23:00,Plane5_05,,,1,Plane5,Plane5
+Plane5_01,Plane5_01,11/28/2017 23:00,,12/04/2017 23:00,Plane5_01,,,1,Plane5,Plane5
+Plane5_02,Plane5_02,12/04/2017 23:00,,12/10/2017 23:00,Plane5_02,,,1,Plane5,Plane5

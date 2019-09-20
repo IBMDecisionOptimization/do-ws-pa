@@ -1,0 +1,92 @@
+{
+    "name": "Supply Demand",
+    "description" :"Sales and Operations PLanning of a production,m distribution and sale supply chain. Decide what and where to build samong several prolants and products. Decide where and how much to stock. Decided where and ow to much to assign for different markets.",
+    "scenario" : {        
+        "config" : {
+        }
+    },
+	"pa": {	
+		"description": "PA Local on ibmdemos",
+		"loginurl": "http://ibmdemos/login",
+		"url": "http://ibmdemos/tm1/Decision%20Optimisation",
+		"username": "pm",
+		"password": "IBMDem0s",
+		"mapping" : {
+			"versionDimensionName": "Plan",
+			"input": {
+				"version": "Baseline",
+				"dimensions": {
+					"Products": {
+						"name": "Products"
+					},
+					"Plants": {
+						"name": "Plants"
+					},
+					"Markets": {
+						"name": "Markets"
+					},
+					"Months": {
+						"name": "Months"
+					}
+				},
+				"cubes": {
+					"Demand": {
+						"name": "Demand",
+						"readVersion" : false
+					},
+					"FirmSales": {
+						"name": "FirmSales",
+						"readVersion" : false
+					},
+					"MarginalProfit": {
+						"name": "MarginalProfit",
+						"readVersion" : false
+					},
+					"PlantMonthCapacity": {
+						"name": "PlantMonthCapacity",
+						"readVersion" : false
+					},
+					"PlantProductCapacity": {
+						"name": "PlantProductCapacity",
+						"readVersion" : false
+					},
+					"PlantProductCost": {
+						"name": "PlantProductCost",
+						"readVersion" : false
+					},
+					"InitialInventory": {
+						"name": "InitialInventory",
+						"readVersion" : false
+					}
+				}
+			},
+			"output": {
+				"version": "Baseline",
+				"cubes": {
+					"_sdproduction": {
+						"name": "production"
+					},	
+					"_sdexecuted_sales": {
+						"name": "executed_sales"
+					},	
+					"_sdmarkets_inventory": {
+						"name": "markets_inventory"
+					},
+					"_sdmarkets_allocation": {
+						"name": "markets_allocation"
+					}
+				}
+			}
+		}	
+	},
+    "do" : {  
+        "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+        "key": "api_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "model": "model.py"
+    },
+    "ui" : {
+        "title": "Supply Demand",
+        "gridjs" : "grid.js"
+    }
+
+}

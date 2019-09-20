@@ -1,0 +1,1 @@
+{"items":{"category":"input"},"parameters":{"category":"input"},"prices":{"category":"input"},"demands":{"category":"input"},"orders":{"category":"output"},"constraints":{"category":"input"},"do_order":{"category":"output"},"costs":{"category":"output"},"order":{"category":"output"},"kpis":{"category":"output"},"explanations":{"category":"output"},"stock":{"category":"output"}}

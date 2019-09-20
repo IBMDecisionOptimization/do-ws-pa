@@ -1,0 +1,5 @@
+param,value
+MaxNewStores,20
+MinimumROI,0.5
+MaximizeRevenue,True
+UseRevenueWithCompetition,False

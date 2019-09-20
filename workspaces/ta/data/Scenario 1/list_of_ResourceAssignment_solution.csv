@@ -1,0 +1,51 @@
+id_of_Salesrep,id_of_State,resourceAssignmentVar
+Bill,Illinois,1.0
+Bill,Indiana,1.0
+Bill,Iowa,1.0
+Bill,Kentucky,1.0
+Bill,Michigan,1.0
+Bill,Minnesota,1.0
+Bill,Wisconsin,1.0
+Eric,Delaware,1.0
+Eric,Maryland,1.0
+Eric,New Jersey,1.0
+Eric,North Carolina,1.0
+Eric,Ohio,1.0
+Eric,Pennsylvania,1.0
+Eric,Virginia,1.0
+Eric,West Virginia,1.0
+Jack,Connecticut,1.0
+Jack,Maine,1.0
+Jack,Massachusetts,1.0
+Jack,New Hampshire,1.0
+Jack,New York,1.0
+Jack,Rhode Island,1.0
+Jack,Vermont,1.0
+Joe,Colorado,1.0
+Joe,Idaho,1.0
+Joe,Montana,1.0
+Joe,New Mexico,1.0
+Joe,North Dakota,1.0
+Joe,South Dakota,1.0
+Joe,Utah,1.0
+Joe,Wyoming,1.0
+John,Alaska,1.0
+John,Arizona,1.0
+John,California,1.0
+John,Hawaii,1.0
+John,Nevada,1.0
+John,Oregon,1.0
+John,Washington,1.0
+Mark,Alabama,1.0
+Mark,Florida,1.0
+Mark,Georgia,1.0
+Mark,South Carolina,1.0
+Paul,Arkansas,1.0
+Paul,Kansas,1.0
+Paul,Louisiana,1.0
+Paul,Missouri,1.0
+Paul,Nebraska,1.0
+Paul,Oklahoma,1.0
+Paul,Tennessee,1.0
+Steve,Mississippi,1.0
+Steve,Texas,1.0

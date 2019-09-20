@@ -1,0 +1,24 @@
+id,originalId,nodeTypeName,nodeTypeId,penalty,inFlow,outFlow,name
+2001,1,Dam,2,24,0,27.16,Dam 1
+2002,2,Dam,2,23,65.1,16.44,Dam 2
+2003,3,Dam,2,24,218.1,15.48,Dam 3
+2004,4,Dam,2,0,0,4.8,Dam 4
+2005,5,Dam,2,0,4.792,60,Dam 5
+2006,6,Dam,2,0,0,72,Dam 6
+2007,7,Dam,2,0,4.584,60,Dam 7
+2008,8,Dam,2,23,47.51,11.47,Dam 8
+2009,9,Dam,2,24,0,148.6,Dam 9
+3001,1,Well,3,0,0,0,Well 1
+3002,2,Well,3,24,0,4.524,Well 2
+3003,3,Well,3,24,0,9.575,Well 3
+4001,1,Tank,4,0,14.39,8.316,Tank 1
+4002,2,Tank,4,0,15.48,13.85,Tank 2
+4003,3,Tank,4,0,4.584,2.4,Tank 3
+4004,4,Tank,4,1,10.61,9.333,Tank 4
+4005,5,Tank,4,0,10.58,6.036,Tank 5
+5001,1,Station,5,0,7.956,7.956,Station 1
+5002,2,Station,5,0,15.48,15.48,Station 2
+5003,3,Station,5,0,14.39,14.39,Station 3
+5004,4,Station,5,0,12.06,12.06,Station 4
+5005,5,Station,5,0,6.273,6.273,Station 5
+5006,6,Station,5,0,9.333,9.333,Station 6

@@ -1,0 +1,27 @@
+{
+    "name": "CPS",
+    "description" :"Schedule maintenance of a set of planes, including thousands of tasks organized into projects, taking into account the resources needs for different skills.",
+    "scenario" : {      
+        "config" : {  
+            "Task" : { "id":"Id", "title":"Tasks", "allowEdition":true},
+            "Individual_Resource" : { "id":"Id", "title":"Individual Resources", "allowEdition":true},
+            "Module" : {  "id":"Id", "title":"Modules"},
+            "Finite_Capacity_Resource" : { "id":"Id", "title":"Finite Capacity Resources"},
+            "FCResource_Request" : { "title":"Requests"},
+            "list_of_SchedulingAssignment_solution" : { "title":"Scheduling Assignment"},
+            "list_of_Task_solution" : { "title":"Task Solution"},
+            "kpis" : { "title":"KPI"}
+    
+        }
+    },
+   
+    "do" : {
+        "url" : "https://9.20.64.100/dsvc/v1/cps/domodel/optim/model/CPS_LM_saved",
+        "key" : "Bearer xxxxxxxxxxxxxxx"
+    },
+    "ui" : {
+        "title": "CPS",
+        "gridjs": "grid.js"
+    }
+
+}

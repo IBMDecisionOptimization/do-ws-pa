@@ -1,0 +1,26 @@
+Id,Capacity,Default Allocation Cost Of The Default Resource Skill,Description,Extra Resource Activation Cost,Extra Resource Activation Cost Incr,Long Name,Resource Activation Cost,Calendar,Default Skill
+Sta03_Struct,2,,Sta03_Struct,,,Sta03_Struct,,,SKILL
+Sta05_Elec,5,,Sta05_Elec,,,Sta05_Elec,,,SKILL
+Sta03_Plumb,6,,Sta03_Plumb,,,Sta03_Plumb,,,SKILL
+Sta02_Test,3,,Sta02_Test,,,Sta02_Test,,,SKILL
+Sta04_Elec,8,,Sta04_Elec,,,Sta04_Elec,,,SKILL
+Sta02_Plumb,8,,Sta02_Plumb,,,Sta02_Plumb,,,SKILL
+Sta05_Plumb,4,,Sta05_Plumb,,,Sta05_Plumb,,,SKILL
+Sta01_Elec,2,,Sta01_Elec,,,Sta01_Elec,,,SKILL
+Sta04_Test,1,,Sta04_Test,,,Sta04_Test,,,SKILL
+StaPD_STEM,4,,StaPD_STEM,,,StaPD_STEM,,,SKILL
+Sta03_Test,1,,Sta03_Test,,,Sta03_Test,,,SKILL
+Sta.,1,,Sta.,,,Sta.,,,SKILL
+Sta05_Test,1,,Sta05_Test,,,Sta05_Test,,,SKILL
+Sta04_Struct,2,,Sta04_Struct,,,Sta04_Struct,,,SKILL
+LFF,2,,LFF,,,LFF,,,SKILL
+StaPD_Struct,5,,StaPD_Struct,,,StaPD_Struct,,,SKILL
+Sta02_Struct,4,,Sta02_Struct,,,Sta02_Struct,,,SKILL
+Sta05_Struct,4,,Sta05_Struct,,,Sta05_Struct,,,SKILL
+Sta01_Struct,14,,Sta01_Struct,,,Sta01_Struct,,,SKILL
+Sta04_Plumb,6,,Sta04_Plumb,,,Sta04_Plumb,,,SKILL
+Sta02_Elec,3,,Sta02_Elec,,,Sta02_Elec,,,SKILL
+Sta03_Elec,8,,Sta03_Elec,,,Sta03_Elec,,,SKILL
+StaAD_STEM,5,,StaAD_STEM,,,StaAD_STEM,,,SKILL
+Sta01_Plumb,5,,Sta01_Plumb,,,Sta01_Plumb,,,SKILL
+Sta01_STEM,5,,Sta01_STEM,,,Sta01_STEM,,,SKILL

@@ -1,0 +1,34 @@
+{
+    "name": "Predictive Maintenance",
+    "description" :"Use ML to predict future possible failures of some production machines, and then use DO to create an optimal maintenance plan.",
+    "scenario" : {        
+        "config" : {
+          "day" : {"id":"id"},
+          "machine" : {"id":"id", "title":"Machines"},
+          "parameters" : {"id":"id", "title":"Parameters", "allowEdition" : true}
+        }
+    },
+    "ml": {
+		"url": "https://us-south.ml.cloud.ibm.com/v3/wml_instances/8a69e5fe-b112-4b92-adfd-0dbce326332b/deployments/6e29df09-dba1-4cb3-8de0-731aad46ad8d/online",
+        "apikey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "preprocess" : "preml.js",
+        "postprocess" : "postml.js",
+		"input": "inputml",
+        "output": "predictions",
+        "nbOutputs" : 1,
+		"action": {
+			"text": "PREDICT",
+			"alertErrors": true
+		}
+	},
+    "do" : {  
+        "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+        "key": "api_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "model": "model.py"
+    },      
+    "ui" : {
+        "title": "Predictive Maintenance",
+        "gridjs": "grid.js"
+    }
+
+}

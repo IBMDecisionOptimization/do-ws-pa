@@ -1,0 +1,19 @@
+{
+    "name": "Nurses",
+    "description" :"Plan Nurses at Hospital",
+    "scenario" : {        
+        "config" : {
+           
+        }
+    },  
+    "do" : {  
+        "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+        "key": "api_xxxxxxxxxxxxxxxxx",
+        "model": "model.py"
+    },
+    "ui" : {
+        "title": "Nurses",
+        "gridjs" : "grid.js"
+    }
+
+}

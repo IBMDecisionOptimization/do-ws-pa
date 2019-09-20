@@ -1,0 +1,16 @@
+NAME,VALUE
+KPI.kpi_canalElecticityProduction,0
+KPI.kpi_infeasTanks,0
+KPI.kpi_infeasCanals,0
+KPI.kpi_damReservePenalty,0
+KPI.kpi_DamPosAlarmPenalty,12590
+KPI.kpi_DamNegWarningPenalty,206.1
+KPI.kpi_pipeOperationCost,220000
+KPI.kpi_infeasStations,0
+KPI.kpi_pipeElecticityProduction,0
+KPI.kpi_wellTargetDeviation,60570
+KPI.kpi_canalOperationCost,28500
+KPI.kpi_damTargetDeviation,258500
+KPI.kpi_DamNegAlarmPenalty,0
+KPI.kpi_DamPosWarningPenalty,4875
+KPI.kpi_pipeElecticityConsumption,0

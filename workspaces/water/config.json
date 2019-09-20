@@ -1,0 +1,28 @@
+{
+    "name": "Water",
+    "description" : "Plan operation of a water network according to the predicted demand on different consumption nodes and the availability in dams and tanks, and taking into consideration operational constraints for pipes and canals.",
+    "scenario" : {        
+        "config" : {
+            "Canals" : { "id":"id", "title":"Canals", "allowEdition":true},
+            "Pipes" : { "id":"id", "title":"Pipes", "allowEdition":true},
+            "Stations" : { "id":"id", "title":"Stations", "allowEdition":true},
+            "Dams" : { "id":"id", "title":"Dams", "allowEdition":true},
+            "Tanks" : { "id":"id", "title":"Tanks", "allowEdition":true},
+            "Wells" : { "id":"id", "title":"Wells", "allowEdition":true},
+    
+            "Nodes" : { "id":"id", "title":"Nodes"},
+            "Links" : { "title":"Links"}, 
+    
+            "kpis" : { }
+        }
+    },
+    "do" : {  
+        "url": "https://9.20.64.100/dsvc/v1/water/domodel/optim2/model/WaterOptimSaved2",
+        "key": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "ui" : {
+        "title": "Water",
+        "gridjs" : "grid.js"
+    }
+
+}

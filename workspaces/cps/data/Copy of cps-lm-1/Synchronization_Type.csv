@@ -1,0 +1,13 @@
+Id,Internal Data,Is On Origin Start,Is On Target Start
+StartsAtStart,,TRUE,TRUE
+StartsBeforeEnd,,FALSE,TRUE
+StartsBeforeStart,,TRUE,TRUE
+EndsBeforeEnd,,FALSE,FALSE
+StartsAfterEnd,,TRUE,FALSE
+StartsAtEnd,,TRUE,FALSE
+StartsAfterStart,,TRUE,TRUE
+EndsBeforeStart,,FALSE,TRUE
+EndsAtEnd,,FALSE,FALSE
+EndsAfterEnd,,FALSE,FALSE
+EndsAfterStart,,FALSE,TRUE
+EndsAtStart,,FALSE,TRUE

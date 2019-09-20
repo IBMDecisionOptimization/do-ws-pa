@@ -1,0 +1,20 @@
+{
+    "name": "Territory Assignment",
+    "description" :"Assign Sales person to territoties to cover some predicted customers and reduce travels",
+    "scenario" : {        
+        "config" : {
+           
+        }
+    },
+    
+    "do" : {  
+        "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+        "key": "api_xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "model": "model.py"
+    },
+    "ui" : {
+        "title": "Territory Assignment",
+        "gridjs" : "grid.js"
+    }
+
+}

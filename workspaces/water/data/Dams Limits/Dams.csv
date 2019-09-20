@@ -1,0 +1,10 @@
+id,targetFlow,useTargetIndicator,name,initialVolume
+1,0.22,1,Dam 1,250000
+2,2.5,1,Dam 2,78500
+3,1.1,1,Dam 3,122300
+4,0.2,1,Dam 4,21350
+5,2.5,1,Dam 5,56290
+6,3,1,Dam 6,83400
+7,2.5,1,Dam 7,222000
+8,1.2,1,Dam 8,105850
+9,1,1,Dam 9,123540

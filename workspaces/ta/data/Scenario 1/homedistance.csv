@@ -1,0 +1,401 @@
+salesrep,state,value
+John,Alabama,3024.0
+John,Alaska,3620.0
+John,Arizona,798.0
+John,Arkansas,2467.0
+John,California,0.0
+John,Colorado,1307.0
+John,Connecticut,4060.0
+John,Delaware,3864.0
+John,Florida,3679.0
+John,Georgia,3299.0
+John,Hawaii,4020.0
+John,Idaho,1005.0
+John,Illinois,2709.0
+John,Indiana,2942.0
+John,Iowa,2368.0
+John,Kansas,2043.0
+John,Kentucky,3101.0
+John,Louisiana,2624.0
+John,Maine,4295.0
+John,Maryland,3759.0
+John,Massachusetts,4151.0
+John,Michigan,3087.0
+John,Minnesota,2401.0
+John,Mississippi,2767.0
+John,Missouri,2429.0
+John,Montana,1424.0
+John,Nebraska,1937.0
+John,Nevada,337.0
+John,New Hampshire,4134.0
+John,New Jersey,3932.0
+John,New Mexico,1224.0
+John,New York,3872.0
+John,North Carolina,3569.0
+John,North Dakota,2071.0
+John,Ohio,3236.0
+John,Oklahoma,2048.0
+John,Oregon,962.0
+John,Pennsylvania,3702.0
+John,Rhode Island,4161.0
+John,South Carolina,3516.0
+John,South Dakota,1938.0
+John,Tennessee,2957.0
+John,Texas,2120.0
+John,Utah,818.0
+John,Vermont,4037.0
+John,Virginia,3665.0
+John,Washington,1264.0
+John,West Virginia,3411.0
+John,Wisconsin,2693.0
+John,Wyoming,1293.0
+Jack,Alabama,1472.0
+Jack,Alaska,5363.0
+Jack,Arizona,3307.0
+Jack,Arkansas,1709.0
+Jack,California,3872.0
+Jack,Colorado,2573.0
+Jack,Connecticut,192.0
+Jack,Delaware,320.0
+Jack,Florida,1714.0
+Jack,Georgia,1270.0
+Jack,Hawaii,7859.0
+Jack,Idaho,3182.0
+Jack,Illinois,1190.0
+Jack,Indiana,983.0
+Jack,Iowa,1505.0
+Jack,Kansas,1885.0
+Jack,Kentucky,968.0
+Jack,Louisiana,1937.0
+Jack,Maine,530.0
+Jack,Maryland,379.0
+Jack,Massachusetts,282.0
+Jack,Michigan,793.0
+Jack,Minnesota,1564.0
+Jack,Mississippi,1666.0
+Jack,Missouri,1524.0
+Jack,Montana,2839.0
+Jack,Nebraska,1936.0
+Jack,Nevada,3564.0
+Jack,New Hampshire,311.0
+Jack,New Jersey,211.0
+Jack,New Mexico,2826.0
+Jack,New York,0.0
+Jack,North Carolina,839.0
+Jack,North Dakota,2037.0
+Jack,Ohio,682.0
+Jack,Oklahoma,2033.0
+Jack,Oregon,3766.0
+Jack,Pennsylvania,258.0
+Jack,Rhode Island,289.0
+Jack,South Carolina,1062.0
+Jack,South Dakota,1991.0
+Jack,Tennessee,1240.0
+Jack,Texas,2356.0
+Jack,Utah,3075.0
+Jack,Vermont,277.0
+Jack,Virginia,561.0
+Jack,Washington,3664.0
+Jack,West Virginia,653.0
+Jack,Wisconsin,1210.0
+Jack,Wyoming,2639.0
+Paul,Alabama,981.0
+Paul,Alaska,4782.0
+Paul,Arizona,1341.0
+Paul,Arkansas,419.0
+Paul,California,2048.0
+Paul,Colorado,837.0
+Paul,Connecticut,2198.0
+Paul,Delaware,1932.0
+Paul,Florida,1681.0
+Paul,Georgia,1252.0
+Paul,Hawaii,6050.0
+Paul,Idaho,1776.0
+Paul,Illinois,876.0
+Paul,Indiana,1052.0
+Paul,Iowa,786.0
+Paul,Kansas,330.0
+Paul,Kentucky,1118.0
+Paul,Louisiana,678.0
+Paul,Maine,2537.0
+Paul,Maryland,1818.0
+Paul,Massachusetts,2310.0
+Paul,Michigan,1368.0
+Paul,Minnesota,1155.0
+Paul,Mississippi,737.0
+Paul,Missouri,523.0
+Paul,Montana,1691.0
+Paul,Nebraska,629.0
+Paul,Nevada,1811.0
+Paul,New Hampshire,2335.0
+Paul,New Jersey,2029.0
+Paul,New Mexico,851.0
+Paul,New York,2033.0
+Paul,North Carolina,1547.0
+Paul,North Dakota,1352.0
+Paul,Ohio,1351.0
+Paul,Oklahoma,0.0
+Paul,Oregon,2350.0
+Paul,Pennsylvania,1810.0
+Paul,Rhode Island,2301.0
+Paul,South Carolina,1472.0
+Paul,South Dakota,995.0
+Paul,Tennessee,925.0
+Paul,Texas,505.0
+Paul,Utah,1405.0
+Paul,Vermont,2263.0
+Paul,Virginia,1689.0
+Paul,Washington,2417.0
+Paul,West Virginia,1453.0
+Paul,Wisconsin,1151.0
+Paul,Wyoming,1198.0
+Mark,Alabama,745.0
+Mark,Alaska,6308.0
+Mark,Arizona,2909.0
+Mark,Arkansas,1292.0
+Mark,California,3679.0
+Mark,Colorado,2516.0
+Mark,Connecticut,1740.0
+Mark,Delaware,1406.0
+Mark,Florida,0.0
+Mark,Georgia,616.0
+Mark,Hawaii,7595.0
+Mark,Idaho,3439.0
+Mark,Illinois,1551.0
+Mark,Indiana,1408.0
+Mark,Iowa,1898.0
+Mark,Kansas,1838.0
+Mark,Kentucky,1136.0
+Mark,Louisiana,1056.0
+Mark,Maine,2177.0
+Mark,Maryland,1335.0
+Mark,Massachusetts,1853.0
+Mark,Michigan,1750.0
+Mark,Minnesota,2266.0
+Mark,Mississippi,946.0
+Mark,Missouri,1543.0
+Mark,Montana,3285.0
+Mark,Nebraska,2119.0
+Mark,Nevada,3475.0
+Mark,New Hampshire,1967.0
+Mark,New Jersey,1541.0
+Mark,New Mexico,2456.0
+Mark,New York,1714.0
+Mark,North Carolina,893.0
+Mark,North Dakota,2701.0
+Mark,Ohio,1407.0
+Mark,Oklahoma,1681.0
+Mark,Oregon,4025.0
+Mark,Pennsylvania,1484.0
+Mark,Rhode Island,1803.0
+Mark,South Carolina,681.0
+Mark,South Dakota,2425.0
+Mark,Tennessee,1006.0
+Mark,Texas,1580.0
+Mark,Utah,3085.0
+Mark,Vermont,1980.0
+Mark,Virginia,1160.0
+Mark,Washington,4069.0
+Mark,West Virginia,1195.0
+Mark,Wisconsin,1967.0
+Mark,Wyoming,2843.0
+Eric,Alabama,1215.0
+Eric,Alaska,5382.0
+Eric,Arizona,3107.0
+Eric,Arkansas,1470.0
+Eric,California,3702.0
+Eric,Colorado,2396.0
+Eric,Connecticut,390.0
+Eric,Delaware,203.0
+Eric,Florida,1484.0
+Eric,Georgia,1016.0
+Eric,Hawaii,7707.0
+Eric,Idaho,3061.0
+Eric,Illinois,996.0
+Eric,Indiana,773.0
+Eric,Iowa,1344.0
+Eric,Kansas,1686.0
+Eric,Kentucky,721.0
+Eric,Louisiana,1682.0
+Eric,Maine,786.0
+Eric,Maryland,173.0
+Eric,Massachusetts,508.0
+Eric,Michigan,678.0
+Eric,Minnesota,1465.0
+Eric,Mississippi,1412.0
+Eric,Missouri,1314.0
+Eric,Montana,2740.0
+Eric,Nebraska,1768.0
+Eric,Nevada,3402.0
+Eric,New Hampshire,565.0
+Eric,New Jersey,230.0
+Eric,New Mexico,2621.0
+Eric,New York,258.0
+Eric,North Carolina,597.0
+Eric,North Dakota,1953.0
+Eric,Ohio,470.0
+Eric,Oklahoma,1810.0
+Eric,Oregon,3654.0
+Eric,Pennsylvania,0.0
+Eric,Rhode Island,492.0
+Eric,South Carolina,819.0
+Eric,South Dakota,1864.0
+Eric,Tennessee,988.0
+Eric,Texas,2112.0
+Eric,Utah,2918.0
+Eric,Vermont,533.0
+Eric,Virginia,325.0
+Eric,Washington,3573.0
+Eric,West Virginia,397.0
+Eric,Wisconsin,1096.0
+Eric,Wyoming,2498.0
+Steve,Alabama,1035.0
+Steve,Alaska,5165.0
+Steve,Arizona,1335.0
+Steve,Arkansas,651.0
+Steve,California,2120.0
+Steve,Colorado,1135.0
+Steve,Connecticut,2501.0
+Steve,Delaware,2198.0
+Steve,Florida,1580.0
+Steve,Georgia,1330.0
+Steve,Hawaii,6020.0
+Steve,Idaho,2083.0
+Steve,Illinois,1291.0
+Steve,Indiana,1414.0
+Steve,Iowa,1279.0
+Steve,Kansas,835.0
+Steve,Kentucky,1392.0
+Steve,Louisiana,542.0
+Steve,Maine,2880.0
+Steve,Maryland,2083.0
+Steve,Massachusetts,2620.0
+Steve,Michigan,1783.0
+Steve,Minnesota,1659.0
+Steve,Mississippi,768.0
+Steve,Missouri,954.0
+Steve,Montana,2081.0
+Steve,Nebraska,1122.0
+Steve,Nevada,1952.0
+Steve,New Hampshire,2666.0
+Steve,New Jersey,2313.0
+Steve,New Mexico,913.0
+Steve,New York,2356.0
+Steve,North Carolina,1724.0
+Steve,North Dakota,1842.0
+Steve,Ohio,1688.0
+Steve,Oklahoma,505.0
+Steve,Oregon,2610.0
+Steve,Pennsylvania,2112.0
+Steve,Rhode Island,2601.0
+Steve,South Carolina,1589.0
+Steve,South Dakota,1482.0
+Steve,Tennessee,1135.0
+Steve,Texas,0.0
+Steve,Utah,1638.0
+Steve,Vermont,2609.0
+Steve,Virginia,1925.0
+Steve,Washington,2728.0
+Steve,West Virginia,1724.0
+Steve,Wisconsin,1626.0
+Steve,Wyoming,1561.0
+Bill,Alabama,862.0
+Bill,Alaska,4780.0
+Bill,Arizona,2117.0
+Bill,Arkansas,668.0
+Bill,California,2709.0
+Bill,Colorado,1402.0
+Bill,Connecticut,1368.0
+Bill,Delaware,1156.0
+Bill,Florida,1551.0
+Bill,Georgia,942.0
+Bill,Hawaii,6722.0
+Bill,Idaho,2132.0
+Bill,Illinois,0.0
+Bill,Indiana,239.0
+Bill,Iowa,399.0
+Bill,Kansas,695.0
+Bill,Kentucky,478.0
+Bill,Louisiana,1054.0
+Bill,Maine,1673.0
+Bill,Maryland,1052.0
+Bill,Massachusetts,1471.0
+Bill,Michigan,495.0
+Bill,Minnesota,716.0
+Bill,Mississippi,848.0
+Bill,Missouri,353.0
+Bill,Montana,1869.0
+Bill,Nebraska,787.0
+Bill,Nevada,2415.0
+Bill,New Hampshire,1480.0
+Bill,New Jersey,1225.0
+Bill,New Mexico,1637.0
+Bill,New York,1190.0
+Bill,North Carolina,960.0
+Bill,North Dakota,1175.0
+Bill,Ohio,527.0
+Bill,Oklahoma,876.0
+Bill,Oregon,2736.0
+Bill,Pennsylvania,996.0
+Bill,Rhode Island,1471.0
+Bill,South Carolina,1014.0
+Bill,South Dakota,964.0
+Bill,Tennessee,550.0
+Bill,Texas,1291.0
+Bill,Utah,1937.0
+Bill,Vermont,1400.0
+Bill,Virginia,977.0
+Bill,Washington,2699.0
+Bill,West Virginia,720.0
+Bill,Wisconsin,439.0
+Bill,Wyoming,1545.0
+Joe,Alabama,1803.0
+Joe,Alaska,4033.0
+Joe,Arizona,807.0
+Joe,Arkansas,1234.0
+Joe,California,1307.0
+Joe,Colorado,0.0
+Joe,Connecticut,2759.0
+Joe,Delaware,2558.0
+Joe,Florida,2516.0
+Joe,Georgia,2054.0
+Joe,Hawaii,5324.0
+Joe,Idaho,954.0
+Joe,Illinois,1402.0
+Joe,Indiana,1636.0
+Joe,Iowa,1073.0
+Joe,Kansas,746.0
+Joe,Kentucky,1803.0
+Joe,Louisiana,1503.0
+Joe,Maine,3015.0
+Joe,Maryland,2452.0
+Joe,Massachusetts,2854.0
+Joe,Michigan,1797.0
+Joe,Minnesota,1191.0
+Joe,Mississippi,1571.0
+Joe,Missouri,1131.0
+Joe,Montana,969.0
+Joe,Nebraska,642.0
+Joe,Nevada,1022.0
+Joe,New Hampshire,2844.0
+Joe,New Jersey,2626.0
+Joe,New Mexico,477.0
+Joe,New York,2573.0
+Joe,North Carolina,2280.0
+Joe,North Dakota,1042.0
+Joe,Ohio,1929.0
+Joe,Oklahoma,837.0
+Joe,Oregon,1515.0
+Joe,Pennsylvania,2396.0
+Joe,Rhode Island,2861.0
+Joe,South Carolina,2248.0
+Joe,South Dakota,760.0
+Joe,Tennessee,1683.0
+Joe,Texas,1135.0
+Joe,Utah,574.0
+Joe,Vermont,2751.0
+Joe,Virginia,2361.0
+Joe,Washington,1601.0
+Joe,West Virginia,2107.0
+Joe,Wisconsin,1424.0
+Joe,Wyoming,444.0

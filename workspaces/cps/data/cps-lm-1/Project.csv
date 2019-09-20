@@ -1,0 +1,6 @@
+Id,Description,Earliest Start Date,Internal Data,Latest End Date,Long Name,Tardiness Cost
+Plane1,Plane1,2016/09/19 03:00:00,Plane1,2018/04/13 03:00:00,Plane1,1
+Plane2,Plane2,2016/09/19 03:00:00,Plane2,2018/04/19 03:00:00,Plane2,1
+Plane3,Plane3,2016/09/19 03:00:00,Plane3,2018/04/25 03:00:00,Plane3,1
+Plane4,Plane4,2016/09/19 03:00:00,Plane4,2018/04/27 03:00:00,Plane4,1
+Plane5,Plane5,2016/09/19 03:00:00,Plane5,2018/05/10 03:00:00,Plane5,1

@@ -1,0 +1,59 @@
+{
+  "CUSTOMER_NAMES": {
+    "category": "input"
+  },
+  "PLANT_NAMES": {
+    "category": "input"
+  },
+  "PARAMETERS": {
+    "category": "input"
+  },
+  "OUTBOUND_DATA": {
+    "category": "input"
+  },
+  "INBOUND_DATA": {
+    "category": "input"
+  },
+  "DCNAMES": {
+    "category": "input"
+  },
+  "MILE_MARKERS": {
+    "category": "input"
+  },
+  "CUSTOMERS": {
+    "category": "input"
+  },
+  "DEMAND": {
+    "category": "input"
+  },
+  "STORAGE_DATA": {
+    "category": "input"
+  },
+  "PRODUCTS": {
+    "category": "input"
+  },
+  "PLANTS": {
+    "category": "input"
+  },
+  "DISTRIBUTION_CENTERS": {
+    "category": "input"
+  },
+  "PRODUCTION_DATA": {
+    "category": "input"
+  },
+  "dcCosts": {
+    "category": "output"
+  },
+  "kpis": {
+    "category": "output"
+  },
+  "shipPlantToDC": {
+    "category": "output"
+  },
+  "openDC": {
+    "category": "output"
+  },
+  "shipDCToCustomer": {
+    "category": "output"
+  }
+}

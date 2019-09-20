@@ -1,0 +1,51 @@
+state,expected revenue,customers,initial_salesrep,map id
+Alabama,200000,10,Eric,1
+Alaska,100000,12,Mark,2
+Arizona,150000,15,Paul,4
+Arkansas,150000,8,John,5
+California,250000,6,John,6
+Colorado,80000,2,Joe,8
+Connecticut,50000,9,Jack,9
+Delaware,100000,4,Jack,10
+Florida,250000,5,Mark,12
+Georgia,150000,10,Mark,13
+Hawaii,100000,8,John,15
+Idaho,250000,12,Joe,16
+Illinois,200000,7,Eric,17
+Indiana,150000,13,Joe,18
+Iowa,150000,16,Paul,19
+Kansas,80000,10,Paul,20
+Kentucky,50000,8,Bill,21
+Louisiana,100000,15,Steve,22
+Maine,100000,9,Jack,23
+Maryland,150000,2,Jack,24
+Massachusetts,250000,6,Jack,25
+Michigan,200000,4,Bill,26
+Minnesota,150000,5,Joe,27
+Mississippi,250000,8,Paul,28
+Missouri,150000,10,Steve,29
+Montana,80000,7,Eric,30
+Nebraska,150000,6,Mark,31
+Nevada,150000,2,Joe,32
+New Hampshire,50000,13,Joe,33
+New Jersey,250000,12,Jack,34
+New Mexico,150000,10,Jack,35
+New York,100000,8,Joe,36
+North Carolina,100000,16,John,37
+North Dakota,200000,15,Bill,38
+Ohio,250000,9,Bill,39
+Oklahoma,80000,4,Paul,40
+Oregon,50000,5,Eric,41
+Pennsylvania,100000,10,Mark,42
+Rhode Island,250000,8,Jack,44
+South Carolina,150000,7,Mark,45
+South Dakota,100000,13,Joe,46
+Tennessee,200000,16,Paul,47
+Texas,150000,12,Joe,48
+Utah,150000,10,Eric,49
+Vermont,80000,15,Bill,50
+Virginia,250000,8,Jack,51
+Washington,50000,6,Eric,53
+West Virginia,250000,9,Bill,54
+Wisconsin,100000,2,Jack,55
+Wyoming,150000,4,Eric,56

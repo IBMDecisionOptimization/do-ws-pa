@@ -1,0 +1,26 @@
+{
+    "name": "Ambulances",
+    "description": "Based on the clustered predicted set of accidents, optimally place the ambulances so that emergency can be managed as fast as possible.",
+    "scenario" : {      
+        "config" : {  
+            "parameters" : { "title":"name", "title":"Parameters", "allowEdition":true},
+            "predicted-accidents" : { "id":"id", "title":"Predicted Accidents", "allowEdition":true},
+
+            "ambulances" : { "title":"Ambulances"},
+            "links" : { "title":"Links"}
+        }
+    },    
+    "do" : {  
+        "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+        "key": "api_xxxxxxxxxxxxxxxxxxxxxxxx",
+        "model": "model.py",
+        "action": {
+            "text": "PLAN"
+        }
+    },
+    "ui" : {
+        "title": "Ambulances",
+        "gridjs": "grid.js"
+    }
+
+}

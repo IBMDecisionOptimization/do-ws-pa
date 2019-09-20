@@ -1,0 +1,26 @@
+{
+	"alldistance": {
+		"category": "input"
+	},
+	"disruption": {
+		"category": "input"
+	},
+	"homedistance": {
+		"category": "input"
+	},
+	"salesrep": {
+		"category": "input"
+	},
+	"state": {
+		"category": "input"
+	},
+	"kpis": {
+		"category": "output"
+	},
+	"list_of_ResourceAssignment_solution": {
+		"category": "output"
+	},
+	"salesrep_to_state_assignment_report": {
+		"category": "output"
+	}
+}

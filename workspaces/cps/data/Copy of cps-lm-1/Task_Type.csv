@@ -1,0 +1,2 @@
+Base Allocation Cost,Id,Is Optional,Long Name,Tardiness Cost,Unperformed Penalty Cost,Breaks Calendar
+,JOB,FALSE,JOB,1,1000,

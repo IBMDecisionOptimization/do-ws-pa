@@ -1,0 +1,958 @@
+Markets,Months,Products,value
+Shanghai,200S,Jan-07,27.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,9.0
+Shanghai,300S,Feb-07,6.0
+Shanghai,300S,Mar-07,3.0
+Shanghai,600S,Jan-07,2.0
+Shanghai,600S,Feb-07,1.0
+Shanghai,600S,Mar-07,1.0
+Shanghai,626S,Jan-07,24.0
+Shanghai,626S,Feb-07,16.0
+Shanghai,626S,Mar-07,8.0
+Shanghai,676S,Jan-07,16.0
+Shanghai,676S,Feb-07,11.0
+Shanghai,676S,Mar-07,6.0
+Shanghai,676RS,Jan-07,34.0
+Shanghai,676RS,Feb-07,23.0
+Shanghai,676RS,Mar-07,12.0
+Shanghai,900S,Jan-07,3.0
+Shanghai,900S,Feb-07,2.0
+Shanghai,900S,Mar-07,1.0
+Shanghai,929S,Jan-07,36.0
+Shanghai,929S,Feb-07,24.0
+Shanghai,929S,Mar-07,12.0
+Shanghai,996S,Jan-07,23.0
+Shanghai,996S,Feb-07,16.0
+Shanghai,996S,Mar-07,8.0
+Shanghai,996RS,Jan-07,5.0
+Shanghai,996RS,Feb-07,3.0
+Shanghai,996RS,Mar-07,2.0
+Shanghai,RoadStar,Jan-07,29.0
+Shanghai,RoadStar,Feb-07,42.0
+Shanghai,RoadStar,Mar-07,21.0
+Shanghai,RoadLiner,Jan-07,5.0
+Shanghai,RoadLiner,Feb-07,3.0
+Shanghai,RoadLiner,Mar-07,2.0
+Shanghai,Victory,Jan-07,32.0
+Shanghai,Victory,Feb-07,0.0
+Shanghai,Victory,Mar-07,35.0
+Shanghai,Boulevard,Jan-07,28.0
+Shanghai,Boulevard,Feb-07,19.0
+Shanghai,Boulevard,Mar-07,9.0
+Shanghai,KingTwin,Jan-07,12.0
+Shanghai,KingTwin,Feb-07,0.0
+Shanghai,KingTwin,Mar-07,0.0
+Shanghai,MegaTwin,Jan-07,22.0
+Shanghai,MegaTwin,Feb-07,14.0
+Shanghai,MegaTwin,Mar-07,7.0
+Shanghai,ST900,Jan-07,14.0
+Shanghai,ST900,Feb-07,0.0
+Shanghai,ST900,Mar-07,2.0
+Shanghai,ST1200,Jan-07,19.0
+Shanghai,ST1200,Feb-07,13.0
+Shanghai,ST1200,Mar-07,7.0
+Shanghai,ST1200R,Jan-07,25.0
+Shanghai,ST1200R,Feb-07,16.0
+Shanghai,ST1200R,Mar-07,8.0
+Shanghai,Bandit 900,Jan-07,18.0
+Shanghai,Bandit 900,Feb-07,4.0
+Shanghai,Bandit 900,Mar-07,0.0
+Shanghai,Bandit 1200,Jan-07,32.0
+Shanghai,Bandit 1200,Feb-07,10.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,20.0
+Shanghai,Bandit 1200S,Feb-07,13.0
+Shanghai,Bandit 1200S,Mar-07,7.0
+Shanghai,Enduro 350,Jan-07,21.0
+Shanghai,Enduro 350,Feb-07,0.0
+Shanghai,Enduro 350,Mar-07,27.0
+Shanghai,Enduro 450,Jan-07,19.0
+Shanghai,Enduro 450,Feb-07,16.0
+Shanghai,Enduro 450,Mar-07,37.0
+Shanghai,Enduro 550,Jan-07,30.0
+Shanghai,Enduro 550,Feb-07,20.0
+Shanghai,Enduro 550,Mar-07,10.0
+Shanghai,CRX500,Jan-07,20.0
+Shanghai,CRX500,Feb-07,0.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,32.0
+Shanghai,CRS550,Feb-07,21.0
+Shanghai,CRS550,Mar-07,11.0
+Shanghai,CRX600,Jan-07,22.0
+Shanghai,CRX600,Feb-07,14.0
+Shanghai,CRX600,Mar-07,7.0
+Shanghai,CRX650,Jan-07,14.0
+Shanghai,CRX650,Feb-07,9.0
+Shanghai,CRX650,Mar-07,5.0
+Shanghai,200S,Jan-07,31.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,7.0
+Shanghai,300S,Feb-07,5.0
+Shanghai,300S,Mar-07,3.0
+Shanghai,600S,Jan-07,25.0
+Shanghai,600S,Feb-07,17.0
+Shanghai,600S,Mar-07,9.0
+Shanghai,626S,Jan-07,17.0
+Shanghai,626S,Feb-07,11.0
+Shanghai,626S,Mar-07,6.0
+Shanghai,676S,Jan-07,7.0
+Shanghai,676S,Feb-07,5.0
+Shanghai,676S,Mar-07,3.0
+Shanghai,676RS,Jan-07,5.0
+Shanghai,676RS,Feb-07,3.0
+Shanghai,676RS,Mar-07,2.0
+Shanghai,900S,Jan-07,35.0
+Shanghai,900S,Feb-07,24.0
+Shanghai,900S,Mar-07,12.0
+Shanghai,929S,Jan-07,14.0
+Shanghai,929S,Feb-07,10.0
+Shanghai,929S,Mar-07,5.0
+Shanghai,996S,Jan-07,29.0
+Shanghai,996S,Feb-07,19.0
+Shanghai,996S,Mar-07,10.0
+Shanghai,996RS,Jan-07,24.0
+Shanghai,996RS,Feb-07,16.0
+Shanghai,996RS,Mar-07,8.0
+Shanghai,RoadStar,Jan-07,34.0
+Shanghai,RoadStar,Feb-07,19.0
+Shanghai,RoadStar,Mar-07,16.0
+Shanghai,RoadLiner,Jan-07,28.0
+Shanghai,RoadLiner,Feb-07,19.0
+Shanghai,RoadLiner,Mar-07,10.0
+Shanghai,Victory,Jan-07,29.0
+Shanghai,Victory,Feb-07,21.0
+Shanghai,Victory,Mar-07,0.0
+Shanghai,Boulevard,Jan-07,17.0
+Shanghai,Boulevard,Feb-07,11.0
+Shanghai,Boulevard,Mar-07,6.0
+Shanghai,KingTwin,Jan-07,17.0
+Shanghai,KingTwin,Feb-07,2.0
+Shanghai,KingTwin,Mar-07,0.0
+Shanghai,MegaTwin,Jan-07,9.0
+Shanghai,MegaTwin,Feb-07,6.0
+Shanghai,MegaTwin,Mar-07,3.0
+Shanghai,ST900,Jan-07,3.0
+Shanghai,ST900,Feb-07,1.0
+Shanghai,ST900,Mar-07,0.0
+Shanghai,ST1200,Jan-07,4.0
+Shanghai,ST1200,Feb-07,3.0
+Shanghai,ST1200,Mar-07,2.0
+Shanghai,ST1200R,Jan-07,22.0
+Shanghai,ST1200R,Feb-07,15.0
+Shanghai,ST1200R,Mar-07,8.0
+Shanghai,Bandit 900,Jan-07,20.0
+Shanghai,Bandit 900,Feb-07,10.0
+Shanghai,Bandit 900,Mar-07,17.0
+Shanghai,Bandit 1200,Jan-07,21.0
+Shanghai,Bandit 1200,Feb-07,10.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,21.0
+Shanghai,Bandit 1200S,Feb-07,14.0
+Shanghai,Bandit 1200S,Mar-07,7.0
+Shanghai,Enduro 350,Jan-07,1.0
+Shanghai,Enduro 350,Feb-07,0.0
+Shanghai,Enduro 350,Mar-07,0.0
+Shanghai,Enduro 450,Jan-07,9.0
+Shanghai,Enduro 450,Feb-07,1.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,21.0
+Shanghai,Enduro 550,Feb-07,14.0
+Shanghai,Enduro 550,Mar-07,7.0
+Shanghai,CRX500,Jan-07,9.0
+Shanghai,CRX500,Feb-07,0.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,26.0
+Shanghai,CRS550,Feb-07,17.0
+Shanghai,CRS550,Mar-07,9.0
+Shanghai,CRX600,Jan-07,3.0
+Shanghai,CRX600,Feb-07,0.0
+Shanghai,CRX600,Mar-07,0.0
+Shanghai,CRX650,Jan-07,21.0
+Shanghai,CRX650,Feb-07,14.0
+Shanghai,CRX650,Mar-07,7.0
+Shanghai,200S,Jan-07,30.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,1.0
+Shanghai,300S,Jan-07,21.0
+Shanghai,300S,Feb-07,14.0
+Shanghai,300S,Mar-07,7.0
+Shanghai,600S,Jan-07,24.0
+Shanghai,600S,Feb-07,16.0
+Shanghai,600S,Mar-07,8.0
+Shanghai,626S,Jan-07,9.0
+Shanghai,626S,Feb-07,6.0
+Shanghai,626S,Mar-07,3.0
+Shanghai,676S,Jan-07,3.0
+Shanghai,676S,Feb-07,2.0
+Shanghai,676S,Mar-07,1.0
+Shanghai,676RS,Jan-07,19.0
+Shanghai,676RS,Feb-07,13.0
+Shanghai,676RS,Mar-07,6.0
+Shanghai,900S,Jan-07,12.0
+Shanghai,900S,Feb-07,8.0
+Shanghai,900S,Mar-07,4.0
+Shanghai,929S,Jan-07,5.0
+Shanghai,929S,Feb-07,3.0
+Shanghai,929S,Mar-07,2.0
+Shanghai,996S,Jan-07,3.0
+Shanghai,996S,Feb-07,2.0
+Shanghai,996S,Mar-07,1.0
+Shanghai,996RS,Jan-07,32.0
+Shanghai,996RS,Feb-07,22.0
+Shanghai,996RS,Mar-07,11.0
+Shanghai,RoadStar,Jan-07,27.0
+Shanghai,RoadStar,Feb-07,14.0
+Shanghai,RoadStar,Mar-07,0.0
+Shanghai,RoadLiner,Jan-07,35.0
+Shanghai,RoadLiner,Feb-07,23.0
+Shanghai,RoadLiner,Mar-07,12.0
+Shanghai,Victory,Jan-07,24.0
+Shanghai,Victory,Feb-07,0.0
+Shanghai,Victory,Mar-07,23.0
+Shanghai,Boulevard,Jan-07,3.0
+Shanghai,Boulevard,Feb-07,2.0
+Shanghai,Boulevard,Mar-07,1.0
+Shanghai,KingTwin,Jan-07,7.0
+Shanghai,KingTwin,Feb-07,6.0
+Shanghai,KingTwin,Mar-07,15.0
+Shanghai,MegaTwin,Jan-07,27.0
+Shanghai,MegaTwin,Feb-07,18.0
+Shanghai,MegaTwin,Mar-07,9.0
+Shanghai,ST900,Jan-07,6.0
+Shanghai,ST900,Feb-07,1.0
+Shanghai,ST900,Mar-07,0.0
+Shanghai,ST1200,Jan-07,19.0
+Shanghai,ST1200,Feb-07,13.0
+Shanghai,ST1200,Mar-07,7.0
+Shanghai,ST1200R,Jan-07,5.0
+Shanghai,ST1200R,Feb-07,3.0
+Shanghai,ST1200R,Mar-07,2.0
+Shanghai,Bandit 900,Jan-07,35.0
+Shanghai,Bandit 900,Feb-07,0.0
+Shanghai,Bandit 900,Mar-07,50.0
+Shanghai,Bandit 1200,Jan-07,22.0
+Shanghai,Bandit 1200,Feb-07,22.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,10.0
+Shanghai,Bandit 1200S,Feb-07,7.0
+Shanghai,Bandit 1200S,Mar-07,3.0
+Shanghai,Enduro 350,Jan-07,9.0
+Shanghai,Enduro 350,Feb-07,0.0
+Shanghai,Enduro 350,Mar-07,13.0
+Shanghai,Enduro 450,Jan-07,22.0
+Shanghai,Enduro 450,Feb-07,0.0
+Shanghai,Enduro 450,Mar-07,31.0
+Shanghai,Enduro 550,Jan-07,8.0
+Shanghai,Enduro 550,Feb-07,5.0
+Shanghai,Enduro 550,Mar-07,3.0
+Shanghai,CRX500,Jan-07,24.0
+Shanghai,CRX500,Feb-07,2.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,36.0
+Shanghai,CRS550,Feb-07,24.0
+Shanghai,CRS550,Mar-07,12.0
+Shanghai,CRX600,Jan-07,35.0
+Shanghai,CRX600,Feb-07,23.0
+Shanghai,CRX600,Mar-07,11.0
+Shanghai,CRX650,Jan-07,33.0
+Shanghai,CRX650,Feb-07,22.0
+Shanghai,CRX650,Mar-07,11.0
+Shanghai,200S,Jan-07,21.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,15.0
+Shanghai,300S,Feb-07,10.0
+Shanghai,300S,Mar-07,5.0
+Shanghai,600S,Jan-07,25.0
+Shanghai,600S,Feb-07,17.0
+Shanghai,600S,Mar-07,9.0
+Shanghai,626S,Jan-07,37.0
+Shanghai,626S,Feb-07,25.0
+Shanghai,626S,Mar-07,12.0
+Shanghai,676S,Jan-07,30.0
+Shanghai,676S,Feb-07,20.0
+Shanghai,676S,Mar-07,10.0
+Shanghai,676RS,Jan-07,28.0
+Shanghai,676RS,Feb-07,19.0
+Shanghai,676RS,Mar-07,9.0
+Shanghai,900S,Jan-07,12.0
+Shanghai,900S,Feb-07,8.0
+Shanghai,900S,Mar-07,4.0
+Shanghai,929S,Jan-07,4.0
+Shanghai,929S,Feb-07,3.0
+Shanghai,929S,Mar-07,2.0
+Shanghai,996S,Jan-07,32.0
+Shanghai,996S,Feb-07,22.0
+Shanghai,996S,Mar-07,11.0
+Shanghai,996RS,Jan-07,16.0
+Shanghai,996RS,Feb-07,11.0
+Shanghai,996RS,Mar-07,6.0
+Shanghai,RoadStar,Jan-07,35.0
+Shanghai,RoadStar,Feb-07,45.0
+Shanghai,RoadStar,Mar-07,23.0
+Shanghai,RoadLiner,Jan-07,21.0
+Shanghai,RoadLiner,Feb-07,14.0
+Shanghai,RoadLiner,Mar-07,7.0
+Shanghai,Victory,Jan-07,10.0
+Shanghai,Victory,Feb-07,8.0
+Shanghai,Victory,Mar-07,8.0
+Shanghai,Boulevard,Jan-07,12.0
+Shanghai,Boulevard,Feb-07,8.0
+Shanghai,Boulevard,Mar-07,4.0
+Shanghai,KingTwin,Jan-07,28.0
+Shanghai,KingTwin,Feb-07,24.0
+Shanghai,KingTwin,Mar-07,12.0
+Shanghai,MegaTwin,Jan-07,29.0
+Shanghai,MegaTwin,Feb-07,19.0
+Shanghai,MegaTwin,Mar-07,10.0
+Shanghai,ST900,Jan-07,25.0
+Shanghai,ST900,Feb-07,0.0
+Shanghai,ST900,Mar-07,25.0
+Shanghai,ST1200,Jan-07,29.0
+Shanghai,ST1200,Feb-07,19.0
+Shanghai,ST1200,Mar-07,10.0
+Shanghai,ST1200R,Jan-07,16.0
+Shanghai,ST1200R,Feb-07,11.0
+Shanghai,ST1200R,Mar-07,5.0
+Shanghai,Bandit 900,Jan-07,22.0
+Shanghai,Bandit 900,Feb-07,24.0
+Shanghai,Bandit 900,Mar-07,0.0
+Shanghai,Bandit 1200,Jan-07,28.0
+Shanghai,Bandit 1200,Feb-07,52.0
+Shanghai,Bandit 1200,Mar-07,26.0
+Shanghai,Bandit 1200S,Jan-07,30.0
+Shanghai,Bandit 1200S,Feb-07,20.0
+Shanghai,Bandit 1200S,Mar-07,10.0
+Shanghai,Enduro 350,Jan-07,26.0
+Shanghai,Enduro 350,Feb-07,4.0
+Shanghai,Enduro 350,Mar-07,22.0
+Shanghai,Enduro 450,Jan-07,6.0
+Shanghai,Enduro 450,Feb-07,1.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,19.0
+Shanghai,Enduro 550,Feb-07,12.0
+Shanghai,Enduro 550,Mar-07,6.0
+Shanghai,CRX500,Jan-07,29.0
+Shanghai,CRX500,Feb-07,3.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,37.0
+Shanghai,CRS550,Feb-07,24.0
+Shanghai,CRS550,Mar-07,12.0
+Shanghai,CRX600,Jan-07,16.0
+Shanghai,CRX600,Feb-07,0.0
+Shanghai,CRX600,Mar-07,16.0
+Shanghai,CRX650,Jan-07,21.0
+Shanghai,CRX650,Feb-07,14.0
+Shanghai,CRX650,Mar-07,7.0
+Shanghai,200S,Jan-07,24.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,9.0
+Shanghai,300S,Feb-07,6.0
+Shanghai,300S,Mar-07,3.0
+Shanghai,600S,Jan-07,9.0
+Shanghai,600S,Feb-07,6.0
+Shanghai,600S,Mar-07,3.0
+Shanghai,626S,Jan-07,10.0
+Shanghai,626S,Feb-07,7.0
+Shanghai,626S,Mar-07,4.0
+Shanghai,676S,Jan-07,9.0
+Shanghai,676S,Feb-07,6.0
+Shanghai,676S,Mar-07,3.0
+Shanghai,676RS,Jan-07,8.0
+Shanghai,676RS,Feb-07,5.0
+Shanghai,676RS,Mar-07,3.0
+Shanghai,900S,Jan-07,38.0
+Shanghai,900S,Feb-07,26.0
+Shanghai,900S,Mar-07,13.0
+Shanghai,929S,Jan-07,18.0
+Shanghai,929S,Feb-07,12.0
+Shanghai,929S,Mar-07,6.0
+Shanghai,996S,Jan-07,16.0
+Shanghai,996S,Feb-07,11.0
+Shanghai,996S,Mar-07,6.0
+Shanghai,996RS,Jan-07,18.0
+Shanghai,996RS,Feb-07,12.0
+Shanghai,996RS,Mar-07,6.0
+Shanghai,RoadStar,Jan-07,12.0
+Shanghai,RoadStar,Feb-07,0.0
+Shanghai,RoadStar,Mar-07,17.0
+Shanghai,RoadLiner,Jan-07,13.0
+Shanghai,RoadLiner,Feb-07,9.0
+Shanghai,RoadLiner,Mar-07,5.0
+Shanghai,Victory,Jan-07,12.0
+Shanghai,Victory,Feb-07,0.0
+Shanghai,Victory,Mar-07,0.0
+Shanghai,Boulevard,Jan-07,13.0
+Shanghai,Boulevard,Feb-07,8.0
+Shanghai,Boulevard,Mar-07,4.0
+Shanghai,KingTwin,Jan-07,27.0
+Shanghai,KingTwin,Feb-07,13.0
+Shanghai,KingTwin,Mar-07,0.0
+Shanghai,MegaTwin,Jan-07,11.0
+Shanghai,MegaTwin,Feb-07,7.0
+Shanghai,MegaTwin,Mar-07,4.0
+Shanghai,ST900,Jan-07,14.0
+Shanghai,ST900,Feb-07,7.0
+Shanghai,ST900,Mar-07,15.0
+Shanghai,ST1200,Jan-07,31.0
+Shanghai,ST1200,Feb-07,21.0
+Shanghai,ST1200,Mar-07,11.0
+Shanghai,ST1200R,Jan-07,36.0
+Shanghai,ST1200R,Feb-07,24.0
+Shanghai,ST1200R,Mar-07,12.0
+Shanghai,Bandit 900,Jan-07,36.0
+Shanghai,Bandit 900,Feb-07,3.0
+Shanghai,Bandit 900,Mar-07,52.0
+Shanghai,Bandit 1200,Jan-07,38.0
+Shanghai,Bandit 1200,Feb-07,19.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,23.0
+Shanghai,Bandit 1200S,Feb-07,15.0
+Shanghai,Bandit 1200S,Mar-07,8.0
+Shanghai,Enduro 350,Jan-07,3.0
+Shanghai,Enduro 350,Feb-07,0.0
+Shanghai,Enduro 350,Mar-07,0.0
+Shanghai,Enduro 450,Jan-07,20.0
+Shanghai,Enduro 450,Feb-07,28.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,17.0
+Shanghai,Enduro 550,Feb-07,11.0
+Shanghai,Enduro 550,Mar-07,6.0
+Shanghai,CRX500,Jan-07,27.0
+Shanghai,CRX500,Feb-07,2.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,37.0
+Shanghai,CRS550,Feb-07,25.0
+Shanghai,CRS550,Mar-07,12.0
+Shanghai,CRX600,Jan-07,13.0
+Shanghai,CRX600,Feb-07,2.0
+Shanghai,CRX600,Mar-07,10.0
+Shanghai,CRX650,Jan-07,34.0
+Shanghai,CRX650,Feb-07,23.0
+Shanghai,CRX650,Mar-07,12.0
+Shanghai,200S,Jan-07,28.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,36.0
+Shanghai,300S,Feb-07,24.0
+Shanghai,300S,Mar-07,12.0
+Shanghai,600S,Jan-07,39.0
+Shanghai,600S,Feb-07,26.0
+Shanghai,600S,Mar-07,14.0
+Shanghai,626S,Jan-07,7.0
+Shanghai,626S,Feb-07,5.0
+Shanghai,626S,Mar-07,3.0
+Shanghai,676S,Jan-07,28.0
+Shanghai,676S,Feb-07,19.0
+Shanghai,676S,Mar-07,10.0
+Shanghai,676RS,Jan-07,12.0
+Shanghai,676RS,Feb-07,8.0
+Shanghai,676RS,Mar-07,4.0
+Shanghai,900S,Jan-07,14.0
+Shanghai,900S,Feb-07,9.0
+Shanghai,900S,Mar-07,5.0
+Shanghai,929S,Jan-07,39.0
+Shanghai,929S,Feb-07,26.0
+Shanghai,929S,Mar-07,13.0
+Shanghai,996S,Jan-07,17.0
+Shanghai,996S,Feb-07,12.0
+Shanghai,996S,Mar-07,6.0
+Shanghai,996RS,Jan-07,8.0
+Shanghai,996RS,Feb-07,6.0
+Shanghai,996RS,Mar-07,3.0
+Shanghai,RoadStar,Jan-07,31.0
+Shanghai,RoadStar,Feb-07,46.0
+Shanghai,RoadStar,Mar-07,23.0
+Shanghai,RoadLiner,Jan-07,18.0
+Shanghai,RoadLiner,Feb-07,12.0
+Shanghai,RoadLiner,Mar-07,6.0
+Shanghai,Victory,Jan-07,16.0
+Shanghai,Victory,Feb-07,0.0
+Shanghai,Victory,Mar-07,22.0
+Shanghai,Boulevard,Jan-07,9.0
+Shanghai,Boulevard,Feb-07,6.0
+Shanghai,Boulevard,Mar-07,3.0
+Shanghai,KingTwin,Jan-07,32.0
+Shanghai,KingTwin,Feb-07,13.0
+Shanghai,KingTwin,Mar-07,20.0
+Shanghai,MegaTwin,Jan-07,30.0
+Shanghai,MegaTwin,Feb-07,20.0
+Shanghai,MegaTwin,Mar-07,10.0
+Shanghai,ST900,Jan-07,21.0
+Shanghai,ST900,Feb-07,31.0
+Shanghai,ST900,Mar-07,3.0
+Shanghai,ST1200,Jan-07,27.0
+Shanghai,ST1200,Feb-07,18.0
+Shanghai,ST1200,Mar-07,9.0
+Shanghai,ST1200R,Jan-07,23.0
+Shanghai,ST1200R,Feb-07,15.0
+Shanghai,ST1200R,Mar-07,8.0
+Shanghai,Bandit 900,Jan-07,34.0
+Shanghai,Bandit 900,Feb-07,48.0
+Shanghai,Bandit 900,Mar-07,0.0
+Shanghai,Bandit 1200,Jan-07,7.0
+Shanghai,Bandit 1200,Feb-07,0.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,33.0
+Shanghai,Bandit 1200S,Feb-07,22.0
+Shanghai,Bandit 1200S,Mar-07,11.0
+Shanghai,Enduro 350,Jan-07,36.0
+Shanghai,Enduro 350,Feb-07,5.0
+Shanghai,Enduro 350,Mar-07,31.0
+Shanghai,Enduro 450,Jan-07,24.0
+Shanghai,Enduro 450,Feb-07,30.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,13.0
+Shanghai,Enduro 550,Feb-07,9.0
+Shanghai,Enduro 550,Mar-07,4.0
+Shanghai,CRX500,Jan-07,21.0
+Shanghai,CRX500,Feb-07,1.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,22.0
+Shanghai,CRS550,Feb-07,15.0
+Shanghai,CRS550,Mar-07,7.0
+Shanghai,CRX600,Jan-07,18.0
+Shanghai,CRX600,Feb-07,11.0
+Shanghai,CRX600,Mar-07,5.0
+Shanghai,CRX650,Jan-07,17.0
+Shanghai,CRX650,Feb-07,11.0
+Shanghai,CRX650,Mar-07,6.0
+Shanghai,200S,Jan-07,7.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,12.0
+Shanghai,300S,Feb-07,8.0
+Shanghai,300S,Mar-07,4.0
+Shanghai,600S,Jan-07,36.0
+Shanghai,600S,Feb-07,24.0
+Shanghai,600S,Mar-07,12.0
+Shanghai,626S,Jan-07,7.0
+Shanghai,626S,Feb-07,5.0
+Shanghai,626S,Mar-07,3.0
+Shanghai,676S,Jan-07,37.0
+Shanghai,676S,Feb-07,25.0
+Shanghai,676S,Mar-07,13.0
+Shanghai,676RS,Jan-07,19.0
+Shanghai,676RS,Feb-07,13.0
+Shanghai,676RS,Mar-07,7.0
+Shanghai,900S,Jan-07,14.0
+Shanghai,900S,Feb-07,10.0
+Shanghai,900S,Mar-07,5.0
+Shanghai,929S,Jan-07,5.0
+Shanghai,929S,Feb-07,3.0
+Shanghai,929S,Mar-07,2.0
+Shanghai,996S,Jan-07,16.0
+Shanghai,996S,Feb-07,11.0
+Shanghai,996S,Mar-07,6.0
+Shanghai,996RS,Jan-07,11.0
+Shanghai,996RS,Feb-07,7.0
+Shanghai,996RS,Mar-07,4.0
+Shanghai,RoadStar,Jan-07,30.0
+Shanghai,RoadStar,Feb-07,36.0
+Shanghai,RoadStar,Mar-07,18.0
+Shanghai,RoadLiner,Jan-07,21.0
+Shanghai,RoadLiner,Feb-07,14.0
+Shanghai,RoadLiner,Mar-07,7.0
+Shanghai,Victory,Jan-07,25.0
+Shanghai,Victory,Feb-07,0.0
+Shanghai,Victory,Mar-07,28.0
+Shanghai,Boulevard,Jan-07,1.0
+Shanghai,Boulevard,Feb-07,1.0
+Shanghai,Boulevard,Mar-07,1.0
+Shanghai,KingTwin,Jan-07,39.0
+Shanghai,KingTwin,Feb-07,14.0
+Shanghai,KingTwin,Mar-07,26.0
+Shanghai,MegaTwin,Jan-07,12.0
+Shanghai,MegaTwin,Feb-07,8.0
+Shanghai,MegaTwin,Mar-07,4.0
+Shanghai,ST900,Jan-07,13.0
+Shanghai,ST900,Feb-07,0.0
+Shanghai,ST900,Mar-07,0.0
+Shanghai,ST1200,Jan-07,9.0
+Shanghai,ST1200,Feb-07,6.0
+Shanghai,ST1200,Mar-07,3.0
+Shanghai,ST1200R,Jan-07,11.0
+Shanghai,ST1200R,Feb-07,7.0
+Shanghai,ST1200R,Mar-07,4.0
+Shanghai,Bandit 900,Jan-07,9.0
+Shanghai,Bandit 900,Feb-07,0.0
+Shanghai,Bandit 900,Mar-07,0.0
+Shanghai,Bandit 1200,Jan-07,19.0
+Shanghai,Bandit 1200,Feb-07,4.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,19.0
+Shanghai,Bandit 1200S,Feb-07,13.0
+Shanghai,Bandit 1200S,Mar-07,6.0
+Shanghai,Enduro 350,Jan-07,3.0
+Shanghai,Enduro 350,Feb-07,0.0
+Shanghai,Enduro 350,Mar-07,0.0
+Shanghai,Enduro 450,Jan-07,34.0
+Shanghai,Enduro 450,Feb-07,57.0
+Shanghai,Enduro 450,Mar-07,38.0
+Shanghai,Enduro 550,Jan-07,30.0
+Shanghai,Enduro 550,Feb-07,20.0
+Shanghai,Enduro 550,Mar-07,10.0
+Shanghai,CRX500,Jan-07,20.0
+Shanghai,CRX500,Feb-07,2.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,20.0
+Shanghai,CRS550,Feb-07,13.0
+Shanghai,CRS550,Mar-07,7.0
+Shanghai,CRX600,Jan-07,6.0
+Shanghai,CRX600,Feb-07,3.0
+Shanghai,CRX600,Mar-07,0.0
+Shanghai,CRX650,Jan-07,12.0
+Shanghai,CRX650,Feb-07,8.0
+Shanghai,CRX650,Mar-07,4.0
+Shanghai,200S,Jan-07,23.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,7.0
+Shanghai,300S,Feb-07,5.0
+Shanghai,300S,Mar-07,3.0
+Shanghai,600S,Jan-07,23.0
+Shanghai,600S,Feb-07,16.0
+Shanghai,600S,Mar-07,8.0
+Shanghai,626S,Jan-07,6.0
+Shanghai,626S,Feb-07,4.0
+Shanghai,626S,Mar-07,2.0
+Shanghai,676S,Jan-07,15.0
+Shanghai,676S,Feb-07,10.0
+Shanghai,676S,Mar-07,5.0
+Shanghai,676RS,Jan-07,21.0
+Shanghai,676RS,Feb-07,14.0
+Shanghai,676RS,Mar-07,7.0
+Shanghai,900S,Jan-07,20.0
+Shanghai,900S,Feb-07,13.0
+Shanghai,900S,Mar-07,7.0
+Shanghai,929S,Jan-07,31.0
+Shanghai,929S,Feb-07,21.0
+Shanghai,929S,Mar-07,10.0
+Shanghai,996S,Jan-07,28.0
+Shanghai,996S,Feb-07,19.0
+Shanghai,996S,Mar-07,10.0
+Shanghai,996RS,Jan-07,24.0
+Shanghai,996RS,Feb-07,16.0
+Shanghai,996RS,Mar-07,8.0
+Shanghai,RoadStar,Jan-07,28.0
+Shanghai,RoadStar,Feb-07,44.0
+Shanghai,RoadStar,Mar-07,22.0
+Shanghai,RoadLiner,Jan-07,27.0
+Shanghai,RoadLiner,Feb-07,18.0
+Shanghai,RoadLiner,Mar-07,9.0
+Shanghai,Victory,Jan-07,13.0
+Shanghai,Victory,Feb-07,12.0
+Shanghai,Victory,Mar-07,24.0
+Shanghai,Boulevard,Jan-07,34.0
+Shanghai,Boulevard,Feb-07,23.0
+Shanghai,Boulevard,Mar-07,11.0
+Shanghai,KingTwin,Jan-07,29.0
+Shanghai,KingTwin,Feb-07,15.0
+Shanghai,KingTwin,Mar-07,1.0
+Shanghai,MegaTwin,Jan-07,9.0
+Shanghai,MegaTwin,Feb-07,6.0
+Shanghai,MegaTwin,Mar-07,3.0
+Shanghai,ST900,Jan-07,14.0
+Shanghai,ST900,Feb-07,13.0
+Shanghai,ST900,Mar-07,24.0
+Shanghai,ST1200,Jan-07,32.0
+Shanghai,ST1200,Feb-07,21.0
+Shanghai,ST1200,Mar-07,11.0
+Shanghai,ST1200R,Jan-07,16.0
+Shanghai,ST1200R,Feb-07,11.0
+Shanghai,ST1200R,Mar-07,6.0
+Shanghai,Bandit 900,Jan-07,16.0
+Shanghai,Bandit 900,Feb-07,0.0
+Shanghai,Bandit 900,Mar-07,0.0
+Shanghai,Bandit 1200,Jan-07,36.0
+Shanghai,Bandit 1200,Feb-07,56.0
+Shanghai,Bandit 1200,Mar-07,28.0
+Shanghai,Bandit 1200S,Jan-07,4.0
+Shanghai,Bandit 1200S,Feb-07,3.0
+Shanghai,Bandit 1200S,Mar-07,2.0
+Shanghai,Enduro 350,Jan-07,33.0
+Shanghai,Enduro 350,Feb-07,61.0
+Shanghai,Enduro 350,Mar-07,30.0
+Shanghai,Enduro 450,Jan-07,13.0
+Shanghai,Enduro 450,Feb-07,9.0
+Shanghai,Enduro 450,Mar-07,19.0
+Shanghai,Enduro 550,Jan-07,19.0
+Shanghai,Enduro 550,Feb-07,13.0
+Shanghai,Enduro 550,Mar-07,6.0
+Shanghai,CRX500,Jan-07,18.0
+Shanghai,CRX500,Feb-07,0.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,21.0
+Shanghai,CRS550,Feb-07,14.0
+Shanghai,CRS550,Mar-07,7.0
+Shanghai,CRX600,Jan-07,16.0
+Shanghai,CRX600,Feb-07,0.0
+Shanghai,CRX600,Mar-07,16.0
+Shanghai,CRX650,Jan-07,33.0
+Shanghai,CRX650,Feb-07,22.0
+Shanghai,CRX650,Mar-07,11.0
+Shanghai,200S,Jan-07,11.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,2.0
+Shanghai,300S,Feb-07,1.0
+Shanghai,300S,Mar-07,1.0
+Shanghai,600S,Jan-07,27.0
+Shanghai,600S,Feb-07,18.0
+Shanghai,600S,Mar-07,9.0
+Shanghai,626S,Jan-07,8.0
+Shanghai,626S,Feb-07,5.0
+Shanghai,626S,Mar-07,3.0
+Shanghai,676S,Jan-07,35.0
+Shanghai,676S,Feb-07,23.0
+Shanghai,676S,Mar-07,12.0
+Shanghai,676RS,Jan-07,12.0
+Shanghai,676RS,Feb-07,8.0
+Shanghai,676RS,Mar-07,4.0
+Shanghai,900S,Jan-07,7.0
+Shanghai,900S,Feb-07,5.0
+Shanghai,900S,Mar-07,3.0
+Shanghai,929S,Jan-07,13.0
+Shanghai,929S,Feb-07,8.0
+Shanghai,929S,Mar-07,4.0
+Shanghai,996S,Jan-07,8.0
+Shanghai,996S,Feb-07,5.0
+Shanghai,996S,Mar-07,3.0
+Shanghai,996RS,Jan-07,24.0
+Shanghai,996RS,Feb-07,16.0
+Shanghai,996RS,Mar-07,8.0
+Shanghai,RoadStar,Jan-07,37.0
+Shanghai,RoadStar,Feb-07,18.0
+Shanghai,RoadStar,Mar-07,19.0
+Shanghai,RoadLiner,Jan-07,14.0
+Shanghai,RoadLiner,Feb-07,10.0
+Shanghai,RoadLiner,Mar-07,5.0
+Shanghai,Victory,Jan-07,29.0
+Shanghai,Victory,Feb-07,54.0
+Shanghai,Victory,Mar-07,27.0
+Shanghai,Boulevard,Jan-07,26.0
+Shanghai,Boulevard,Feb-07,17.0
+Shanghai,Boulevard,Mar-07,9.0
+Shanghai,KingTwin,Jan-07,22.0
+Shanghai,KingTwin,Feb-07,41.0
+Shanghai,KingTwin,Mar-07,20.0
+Shanghai,MegaTwin,Jan-07,29.0
+Shanghai,MegaTwin,Feb-07,19.0
+Shanghai,MegaTwin,Mar-07,10.0
+Shanghai,ST900,Jan-07,18.0
+Shanghai,ST900,Feb-07,25.0
+Shanghai,ST900,Mar-07,0.0
+Shanghai,ST1200,Jan-07,22.0
+Shanghai,ST1200,Feb-07,15.0
+Shanghai,ST1200,Mar-07,8.0
+Shanghai,ST1200R,Jan-07,3.0
+Shanghai,ST1200R,Feb-07,2.0
+Shanghai,ST1200R,Mar-07,1.0
+Shanghai,Bandit 900,Jan-07,36.0
+Shanghai,Bandit 900,Feb-07,0.0
+Shanghai,Bandit 900,Mar-07,44.0
+Shanghai,Bandit 1200,Jan-07,12.0
+Shanghai,Bandit 1200,Feb-07,0.0
+Shanghai,Bandit 1200,Mar-07,16.0
+Shanghai,Bandit 1200S,Jan-07,9.0
+Shanghai,Bandit 1200S,Feb-07,6.0
+Shanghai,Bandit 1200S,Mar-07,3.0
+Shanghai,Enduro 350,Jan-07,1.0
+Shanghai,Enduro 350,Feb-07,0.0
+Shanghai,Enduro 350,Mar-07,2.0
+Shanghai,Enduro 450,Jan-07,12.0
+Shanghai,Enduro 450,Feb-07,0.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,32.0
+Shanghai,Enduro 550,Feb-07,21.0
+Shanghai,Enduro 550,Mar-07,11.0
+Shanghai,CRX500,Jan-07,35.0
+Shanghai,CRX500,Feb-07,12.0
+Shanghai,CRX500,Mar-07,23.0
+Shanghai,CRS550,Jan-07,23.0
+Shanghai,CRS550,Feb-07,11.0
+Shanghai,CRS550,Mar-07,12.0
+Shanghai,CRX600,Jan-07,23.0
+Shanghai,CRX600,Feb-07,32.0
+Shanghai,CRX600,Mar-07,15.0
+Shanghai,CRX650,Jan-07,23.0
+Shanghai,CRX650,Feb-07,15.0
+Shanghai,CRX650,Mar-07,8.0
+Shanghai,200S,Jan-07,29.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,11.0
+Shanghai,300S,Feb-07,7.0
+Shanghai,300S,Mar-07,4.0
+Shanghai,600S,Jan-07,33.0
+Shanghai,600S,Feb-07,22.0
+Shanghai,600S,Mar-07,12.0
+Shanghai,626S,Jan-07,26.0
+Shanghai,626S,Feb-07,17.0
+Shanghai,626S,Mar-07,9.0
+Shanghai,676S,Jan-07,19.0
+Shanghai,676S,Feb-07,13.0
+Shanghai,676S,Mar-07,7.0
+Shanghai,676RS,Jan-07,12.0
+Shanghai,676RS,Feb-07,8.0
+Shanghai,676RS,Mar-07,4.0
+Shanghai,900S,Jan-07,4.0
+Shanghai,900S,Feb-07,3.0
+Shanghai,900S,Mar-07,2.0
+Shanghai,929S,Jan-07,22.0
+Shanghai,929S,Feb-07,15.0
+Shanghai,929S,Mar-07,7.0
+Shanghai,996S,Jan-07,33.0
+Shanghai,996S,Feb-07,22.0
+Shanghai,996S,Mar-07,11.0
+Shanghai,996RS,Jan-07,2.0
+Shanghai,996RS,Feb-07,2.0
+Shanghai,996RS,Mar-07,1.0
+Shanghai,RoadStar,Jan-07,11.0
+Shanghai,RoadStar,Feb-07,0.0
+Shanghai,RoadStar,Mar-07,2.0
+Shanghai,RoadLiner,Jan-07,21.0
+Shanghai,RoadLiner,Feb-07,14.0
+Shanghai,RoadLiner,Mar-07,7.0
+Shanghai,Victory,Jan-07,27.0
+Shanghai,Victory,Feb-07,51.0
+Shanghai,Victory,Mar-07,26.0
+Shanghai,Boulevard,Jan-07,33.0
+Shanghai,Boulevard,Feb-07,22.0
+Shanghai,Boulevard,Mar-07,11.0
+Shanghai,KingTwin,Jan-07,26.0
+Shanghai,KingTwin,Feb-07,14.0
+Shanghai,KingTwin,Mar-07,0.0
+Shanghai,MegaTwin,Jan-07,0.0
+Shanghai,MegaTwin,Feb-07,0.0
+Shanghai,MegaTwin,Mar-07,0.0
+Shanghai,ST900,Jan-07,18.0
+Shanghai,ST900,Feb-07,0.0
+Shanghai,ST900,Mar-07,0.0
+Shanghai,ST1200,Jan-07,33.0
+Shanghai,ST1200,Feb-07,22.0
+Shanghai,ST1200,Mar-07,11.0
+Shanghai,ST1200R,Jan-07,29.0
+Shanghai,ST1200R,Feb-07,19.0
+Shanghai,ST1200R,Mar-07,10.0
+Shanghai,Bandit 900,Jan-07,18.0
+Shanghai,Bandit 900,Feb-07,0.0
+Shanghai,Bandit 900,Mar-07,0.0
+Shanghai,Bandit 1200,Jan-07,34.0
+Shanghai,Bandit 1200,Feb-07,8.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,27.0
+Shanghai,Bandit 1200S,Feb-07,18.0
+Shanghai,Bandit 1200S,Mar-07,9.0
+Shanghai,Enduro 350,Jan-07,31.0
+Shanghai,Enduro 350,Feb-07,58.0
+Shanghai,Enduro 350,Mar-07,29.0
+Shanghai,Enduro 450,Jan-07,17.0
+Shanghai,Enduro 450,Feb-07,0.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,34.0
+Shanghai,Enduro 550,Feb-07,22.0
+Shanghai,Enduro 550,Mar-07,11.0
+Shanghai,CRX500,Jan-07,17.0
+Shanghai,CRX500,Feb-07,4.0
+Shanghai,CRX500,Mar-07,0.0
+Shanghai,CRS550,Jan-07,8.0
+Shanghai,CRS550,Feb-07,0.0
+Shanghai,CRS550,Mar-07,10.0
+Shanghai,CRX600,Jan-07,24.0
+Shanghai,CRX600,Feb-07,15.0
+Shanghai,CRX600,Mar-07,7.0
+Shanghai,CRX650,Jan-07,14.0
+Shanghai,CRX650,Feb-07,9.0
+Shanghai,CRX650,Mar-07,5.0
+Shanghai,200S,Jan-07,21.0
+Shanghai,200S,Feb-07,0.0
+Shanghai,200S,Mar-07,0.0
+Shanghai,300S,Jan-07,4.0
+Shanghai,300S,Feb-07,3.0
+Shanghai,300S,Mar-07,2.0
+Shanghai,600S,Jan-07,7.0
+Shanghai,600S,Feb-07,5.0
+Shanghai,600S,Mar-07,3.0
+Shanghai,626S,Jan-07,28.0
+Shanghai,626S,Feb-07,19.0
+Shanghai,626S,Mar-07,10.0
+Shanghai,676S,Jan-07,16.0
+Shanghai,676S,Feb-07,11.0
+Shanghai,676S,Mar-07,6.0
+Shanghai,676RS,Jan-07,24.0
+Shanghai,676RS,Feb-07,16.0
+Shanghai,676RS,Mar-07,8.0
+Shanghai,900S,Jan-07,13.0
+Shanghai,900S,Feb-07,9.0
+Shanghai,900S,Mar-07,5.0
+Shanghai,929S,Jan-07,7.0
+Shanghai,929S,Feb-07,5.0
+Shanghai,929S,Mar-07,3.0
+Shanghai,996S,Jan-07,17.0
+Shanghai,996S,Feb-07,12.0
+Shanghai,996S,Mar-07,6.0
+Shanghai,996RS,Jan-07,8.0
+Shanghai,996RS,Feb-07,6.0
+Shanghai,996RS,Mar-07,3.0
+Shanghai,RoadStar,Jan-07,25.0
+Shanghai,RoadStar,Feb-07,13.0
+Shanghai,RoadStar,Mar-07,0.0
+Shanghai,RoadLiner,Jan-07,9.0
+Shanghai,RoadLiner,Feb-07,6.0
+Shanghai,RoadLiner,Mar-07,4.0
+Shanghai,Victory,Jan-07,4.0
+Shanghai,Victory,Feb-07,1.0
+Shanghai,Victory,Mar-07,0.0
+Shanghai,Boulevard,Jan-07,27.0
+Shanghai,Boulevard,Feb-07,18.0
+Shanghai,Boulevard,Mar-07,9.0
+Shanghai,KingTwin,Jan-07,15.0
+Shanghai,KingTwin,Feb-07,13.0
+Shanghai,KingTwin,Mar-07,0.0
+Shanghai,MegaTwin,Jan-07,19.0
+Shanghai,MegaTwin,Feb-07,13.0
+Shanghai,MegaTwin,Mar-07,7.0
+Shanghai,ST900,Jan-07,15.0
+Shanghai,ST900,Feb-07,0.0
+Shanghai,ST900,Mar-07,19.0
+Shanghai,ST1200,Jan-07,33.0
+Shanghai,ST1200,Feb-07,22.0
+Shanghai,ST1200,Mar-07,11.0
+Shanghai,ST1200R,Jan-07,18.0
+Shanghai,ST1200R,Feb-07,12.0
+Shanghai,ST1200R,Mar-07,6.0
+Shanghai,Bandit 900,Jan-07,17.0
+Shanghai,Bandit 900,Feb-07,5.0
+Shanghai,Bandit 900,Mar-07,18.0
+Shanghai,Bandit 1200,Jan-07,11.0
+Shanghai,Bandit 1200,Feb-07,15.0
+Shanghai,Bandit 1200,Mar-07,0.0
+Shanghai,Bandit 1200S,Jan-07,30.0
+Shanghai,Bandit 1200S,Feb-07,20.0
+Shanghai,Bandit 1200S,Mar-07,10.0
+Shanghai,Enduro 350,Jan-07,26.0
+Shanghai,Enduro 350,Feb-07,48.0
+Shanghai,Enduro 350,Mar-07,23.0
+Shanghai,Enduro 450,Jan-07,25.0
+Shanghai,Enduro 450,Feb-07,0.0
+Shanghai,Enduro 450,Mar-07,0.0
+Shanghai,Enduro 550,Jan-07,28.0
+Shanghai,Enduro 550,Feb-07,18.0
+Shanghai,Enduro 550,Mar-07,9.0
+Shanghai,CRX500,Jan-07,29.0
+Shanghai,CRX500,Feb-07,2.0
+Shanghai,CRX500,Mar-07,2.0
+Shanghai,CRS550,Jan-07,7.0
+Shanghai,CRS550,Feb-07,10.0
+Shanghai,CRS550,Mar-07,0.0
+Shanghai,CRX600,Jan-07,25.0
+Shanghai,CRX600,Feb-07,9.0
+Shanghai,CRX600,Mar-07,15.0
+Shanghai,CRX650,Jan-07,28.0
+Shanghai,CRX650,Feb-07,19.0
+Shanghai,CRX650,Mar-07,10.0

@@ -1,0 +1,51 @@
+salesrep,state,state map id,salesrep capacity,salesrep index,salesrep quota,state customers,state expected revenue,salesrep home state,state initial_salesrep,alldistance value,alldistance cAssignmentValueConcept.value,disruption value,distance value,homedistance value
+Mark,Alabama,1,50,4,800000,10,200000,Florida,Eric,0,0,1,0,745
+John,Alaska,2,70,1,1000000,12,100000,California,Mark,0,0,1,0,3620
+John,Arizona,4,70,1,1000000,15,150000,California,Paul,0,0,1,0,798
+Paul,Arkansas,5,70,3,600000,8,150000,Oklahoma,John,0,0,1,0,419
+John,California,6,70,1,1000000,6,250000,California,John,0,0,0,0,0
+Joe,Colorado,8,80,8,1300000,2,80000,Colorado,Joe,0,0,0,0,0
+Jack,Connecticut,9,70,2,1200000,9,50000,New York,Jack,0,0,0,0,192
+Eric,Delaware,10,80,5,1400000,4,100000,Pennsylvania,Jack,0,0,1,0,203
+Mark,Florida,12,50,4,800000,5,250000,Florida,Mark,0,0,0,0,0
+Mark,Georgia,13,50,4,800000,10,150000,Florida,Mark,0,0,0,0,616
+John,Hawaii,15,70,1,1000000,8,100000,California,John,0,0,0,0,4020
+Joe,Idaho,16,80,8,1300000,12,250000,Colorado,Joe,0,0,0,0,954
+Bill,Illinois,17,60,7,1200000,7,200000,Illinois,Eric,0,0,1,0,0
+Bill,Indiana,18,60,7,1200000,13,150000,Illinois,Joe,0,0,1,0,239
+Bill,Iowa,19,60,7,1200000,16,150000,Illinois,Paul,0,0,1,0,399
+Paul,Kansas,20,70,3,600000,10,80000,Oklahoma,Paul,0,0,0,0,330
+Bill,Kentucky,21,60,7,1200000,8,50000,Illinois,Bill,0,0,0,0,478
+Paul,Louisiana,22,70,3,600000,15,100000,Oklahoma,Steve,0,0,1,0,678
+Jack,Maine,23,70,2,1200000,9,100000,New York,Jack,0,0,0,0,530
+Eric,Maryland,24,80,5,1400000,2,150000,Pennsylvania,Jack,0,0,1,0,173
+Jack,Massachusetts,25,70,2,1200000,6,250000,New York,Jack,0,0,0,0,282
+Bill,Michigan,26,60,7,1200000,4,200000,Illinois,Bill,0,0,0,0,495
+Bill,Minnesota,27,60,7,1200000,5,150000,Illinois,Joe,0,0,1,0,716
+Steve,Mississippi,28,25,6,100000,8,250000,Texas,Paul,0,0,1,0,768
+Paul,Missouri,29,70,3,600000,10,150000,Oklahoma,Steve,0,0,1,0,523
+Joe,Montana,30,80,8,1300000,7,80000,Colorado,Eric,0,0,1,0,969
+Paul,Nebraska,31,70,3,600000,6,150000,Oklahoma,Mark,0,0,1,0,629
+John,Nevada,32,70,1,1000000,2,150000,California,Joe,0,0,1,0,337
+Jack,New Hampshire,33,70,2,1200000,13,50000,New York,Joe,0,0,1,0,311
+Eric,New Jersey,34,80,5,1400000,12,250000,Pennsylvania,Jack,0,0,1,0,230
+Joe,New Mexico,35,80,8,1300000,10,150000,Colorado,Jack,0,0,1,0,477
+Jack,New York,36,70,2,1200000,8,100000,New York,Joe,0,0,1,0,0
+Eric,North Carolina,37,80,5,1400000,16,100000,Pennsylvania,John,0,0,1,0,597
+Joe,North Dakota,38,80,8,1300000,15,200000,Colorado,Bill,0,0,1,0,1042
+Eric,Ohio,39,80,5,1400000,9,250000,Pennsylvania,Bill,0,0,1,0,470
+Paul,Oklahoma,40,70,3,600000,4,80000,Oklahoma,Paul,0,0,0,0,0
+John,Oregon,41,70,1,1000000,5,50000,California,Eric,0,0,1,0,962
+Eric,Pennsylvania,42,80,5,1400000,10,100000,Pennsylvania,Mark,0,0,1,0,0
+Jack,Rhode Island,44,70,2,1200000,8,250000,New York,Jack,0,0,0,0,289
+Mark,South Carolina,45,50,4,800000,7,150000,Florida,Mark,0,0,0,0,681
+Joe,South Dakota,46,80,8,1300000,13,100000,Colorado,Joe,0,0,0,0,760
+Paul,Tennessee,47,70,3,600000,16,200000,Oklahoma,Paul,0,0,0,0,925
+Steve,Texas,48,25,6,100000,12,150000,Texas,Joe,0,0,1,0,0
+Joe,Utah,49,80,8,1300000,10,150000,Colorado,Eric,0,0,1,0,574
+Jack,Vermont,50,70,2,1200000,15,80000,New York,Bill,0,0,1,0,277
+Eric,Virginia,51,80,5,1400000,8,250000,Pennsylvania,Jack,0,0,1,0,325
+John,Washington,53,70,1,1000000,6,50000,California,Eric,0,0,1,0,1264
+Eric,West Virginia,54,80,5,1400000,9,250000,Pennsylvania,Bill,0,0,1,0,397
+Bill,Wisconsin,55,60,7,1200000,2,100000,Illinois,Jack,0,0,1,0,439
+Joe,Wyoming,56,80,8,1300000,4,150000,Colorado,Eric,0,0,1,0,444

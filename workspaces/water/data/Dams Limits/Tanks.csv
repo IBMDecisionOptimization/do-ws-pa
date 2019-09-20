@@ -1,0 +1,6 @@
+id,maximumCapacity,alarmLevelDown,alarmLevelUp,warningLevelDown,warningLevelHigh,nbHoursInputRequired,initialVolume,warningLevelInputPenalty,alarmLevelInputPenalty,minReserveHoursPenalty,name
+1,37000,2000,33300,5000,32000,0,15121,1,2,0,Tank 1
+2,18400,1840,18200,3680,18000,0,12500,1,2,0,Tank 2
+3,40000,2000,38000,5000,32000,0,7250,1,2,0,Tank 3
+4,10000,500,9000,1000,8000,0,3400,1,2,0,Tank 4
+5,22000,1800,21200,4000,20000,0,5640,1,2,0,Tank 5

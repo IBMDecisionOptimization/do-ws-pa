@@ -1,0 +1,82 @@
+{
+    "name": "NetworkDesign",
+    "description": "Based on SupplyChain demo from DOC. Use Decision Optimization to design a network, deciding where to locate new distribution centers (DCs)",
+    "scenario": {
+      "config": {
+        "PARAMETERS": {
+          "id": "name",
+          "allowEdition": true,
+          "sortAscending": true,
+          "sortColumn": 0,
+          "showRowNumber": false,
+          "width": "100%",
+          "height": "100%",
+          "idIndex": 0,
+          "allowHtml": true
+        },
+        "$parameters": {
+          "tableId": "PARAMETERS"
+        },
+        "$scenario": {},
+        "CUSTOMER_NAMES": {
+          "id": "idcity"
+        },
+        "PRODUCTION_DATA": {},
+        "DISTRIBUTION_CENTERS": {
+          "id": "id"
+        },
+        "dcCosts": {
+          "id": "dcId"
+        },
+        "openDC": {
+          "id": "dcId"
+        },
+        "kpis": {
+          "id": "NAME"
+        },
+        "shipPlantToDC": {},
+        "DCNAMES": {
+          "id": "idcity"
+        },
+        "CUSTOMERS": {
+          "id": "id"
+        },
+        "DEMAND": {},
+        "INBOUND_DATA": {},
+        "MILE_MARKERS": {
+          "id": "mile"
+        },
+        "PLANT_NAMES": {
+          "id": "idcity"
+        },
+        "PLANTS": {
+          "id": "id"
+        },
+        "PRODUCTS": {
+          "id": "id"
+        },
+        "STORAGE_DATA": {},
+        "OUTBOUND_DATA": {},
+        "shipDCToCustomer": {}
+      }
+    },
+    "ws": {
+      "type": "cloud",
+      "url": "https://dataplatform.cloud.ibm.com",
+      "apiurl": "https://api.dataplatform.cloud.ibm.com",
+      "apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+      "projectName": "PA3"
+    },
+    "do": {
+      "type": "desktop",
+      "model": "model.py",
+      "action": {
+        "text": "DESIGN"
+      }
+    },
+    "ui": {
+      "title": "NetworkDesign",
+      "gridjs": "grid.js"
+       
+    }
+  }
