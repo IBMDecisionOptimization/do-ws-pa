@@ -2,6 +2,7 @@ A sample application showing what can be done with the do-ws-js library.
 * prototype Line of Business application  using Decision Optimization (DO) or Machine Learning (ML)
 * easily integrate IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML)
 
+It uses the shared npm package with goodies for DO for WS/WML and PA: https://www.npmjs.com/package/do-ws-js
 
 ## Table of contents
 
@@ -43,7 +44,6 @@ Look at a video showing what it does: https://ibm.box.com/s/v42tfs9m3w8mbni21xlw
 
 See some slides with some more details: https://fr.slideshare.net/AlainChabrier/do-for-ws-pa-external-v1
 
-This aplication is using the shared npm package with goodies for DO for WS and PA: https://www.npmjs.com/package/do-ws-js
 
 ## How it works
 
