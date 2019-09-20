@@ -16,7 +16,6 @@ var cfenv = require('cfenv');
 var app = express();
 
 // serve the files out of ./public as our main files
-app.use('/', express.static(__dirname + '/public'));
 app.use('/dev/', express.static(__dirname + '/public'));
 app.use('/deploy/', express.static(__dirname + '/public'));
 
@@ -36,21 +35,20 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 var dowsjs = require('do-ws-js/dowsjs');
 
+dowsjs.routeConfig(router);
+
+dowsjs.routePA(router);
+
+dowsjs.routeWS(router);
+
 dowsjs.routeScenario(router);
 
 dowsjs.routeSolve(router);
 
 dowsjs.routeScore(router);
 
-dowsjs.routeConfig(router);
-
-dowsjs.routeWS(router);
-
-dowsjs.routePA(router);
-
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
-app.use('/api', router);
 app.use('/dev/api', router);
 app.use('/deploy/api', router);
 
@@ -64,7 +62,6 @@ app.use('/deploy/api', router);
 // });
 
 
-// start server with credentials for https, etc
 var fs = require('fs');
 var http = require('http');
 var https = require('https');
@@ -74,9 +71,7 @@ var certificate = fs.readFileSync('sslcert/server.crt', 'utf8');
 var credentials = {key: privateKey, cert: certificate};
 
 
-
 // your express configuration here
 
-var httpServer = http.createServer(app).listen(6004);
 var httpServer = http.createServer(app).listen(8080);
 var httpsServer = https.createServer(credentials, app).listen(8443);

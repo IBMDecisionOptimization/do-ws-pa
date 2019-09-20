@@ -2,7 +2,6 @@ launchConfigurations/
 node_modules/
 .DS_Store
 public/do-ws-js/
-workspaces/usmc
 workspaces/*/do/desktop*
 workspaces/*/do/job*
 package-lock.json

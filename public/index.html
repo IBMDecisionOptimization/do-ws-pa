@@ -1,111 +1,162 @@
 <!DOCTYPE html>
 <html>
-<title>DOWS - PA integration Dashboard</title>
+<title>Unit Commitment Planning</title>
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <head>
+
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDO1TryfK7CwkOrThBiMC2IFO2A6egWV_s">    </script>
+
+        <link href="/dist/dd_gantt_analytics.css" rel="stylesheet" />
+        <script src="/dist/dd_gantt_analytics.js"></script>
+
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+        <script src="https://cdn.rawgit.com/novus/nvd3/v1.8.1/build/nv.d3.min.js"></script>
+        <script src="./dist/axios.min.js"></script>
+
+        <link href="https://cdn.rawgit.com/novus/nvd3/v1.8.1/build/nv.d3.css" rel="stylesheet" />
+        <link href="./do-ws-js/stylesheets/style.css" rel="stylesheet" />
+        <link href="./do-ws-js/stylesheets/scenario-d3.css" rel="stylesheet" />
+        <link href="./stylesheets/style.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
+    
+
+        <script src="https://cdn.jsdelivr.net/npm/vega@4.4.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.0.0-rc12"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.29.1"></script>
+
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"> -->
+        <link rel="stylesheet" href="./dist/gridstack.css"/>
+        <link href="./do-ws-js/stylesheets/scenario-grid.css" rel="stylesheet" />
+
+    
         
-  <script src="./dist/axios.min.js"></script>
-  <link href="./do-ws-js/stylesheets/style.css" rel="stylesheet" />
-  <link href="./do-ws-js/stylesheets/scenario-d3.css" rel="stylesheet" />
-  <link href="./stylesheets/style.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+      
 
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.0/jquery-ui.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.5.0/lodash.min.js"></script>
+        <script src="./dist/gridstack.js"></script>
+        <script src="./dist/gridstack.jQueryUI.js"></script>
 
-  <link href="./dist/vs/editor/editor.main.css" rel="stylesheet" />
+        
+         
+        <style type="text/css">
+          
+        </style>
+     
+     <link href="./dist/vs/editor/editor.main.css" rel="stylesheet" />
 </head>
-<body onload="load()">
+<body onload="load()"
+        style=" height: 100%; ">
+                
 
   
-    <script>var require = { paths: { 'vs': './dist/vs' } };</script>
-    <script type="text/javascript" src="./dist/vs/loader.js"></script>
-    <script type="text/javascript" src="./dist/vs/editor/editor.main.nls.js"></script>
-    <script type="text/javascript" src="./dist/vs/editor/editor.main.js"></script>
-
-<div id="devMode_div" class="container-fluid">
-  <div id="pa_dev_title" class="alert alert-primary" role="alert">
-      <h2>PA - DO for WS (Development Mode):</h2>
-    </div>
- 
-      <div class="row">
-        <div class="col-md-auto">
-          
-              <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="INITPA">0. INIT PA</button> 
-              &nbsp; &nbsp; &nbsp;
-              <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="GETFROMPA">1. GET FROM PA</button> 
-              &nbsp; &nbsp; &nbsp;
-              <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="PUSHTOWS">2. PUSH TO WS</button> 
-              &nbsp; &nbsp; &nbsp;
-              <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="OPENWS">3. OPEN WS</button>
-              &nbsp; &nbsp; &nbsp;
-              <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="SOLVE">4. SOLVE</button> 
-              &nbsp; &nbsp; &nbsp;
-              <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="DEV_SCORE">4. SCORE</button> 
-              &nbsp; &nbsp; &nbsp;
-              <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="PUSHTOPA">5. PUSH TO PA</button>
-
-        </div>
-        <div class="col">
-            <div class="btn-group" role="group" aria-label="Basic example">
-                <button type="button" class="btn btn-sm btn-secondary"  id="INPUTS_BTN">INPUTS</button>
-                <button type="button" class="btn btn-sm btn-secondary"  id="MA_BTN">MODEL</button>
-                <button type="button" class="btn btn-sm btn-secondary" id="OUTPUTS_BTN">OUTPUTS</button>
-                <button type="button" class="btn btn-sm btn-secondary" id="DEV_CONFIG_BTN">CONFIG</button>
-            </div>
-        </div>
+        <script>var require = { paths: { 'vs': './dist/vs' } };</script>
+        <script type="text/javascript" src="./dist/vs/loader.js"></script>
+        <script type="text/javascript" src="./dist/vs/editor/editor.main.nls.js"></script>
+        <script type="text/javascript" src="./dist/vs/editor/editor.main.js"></script>
         
-      </div>
+    <div id="scenario_grid_div" style="display:none"></div>
 
-  <div>
-  <div id="inputs_div"> </div>
-  <div id="ma_dev_div"></div>
-  <div id="solve_div"> </div>
-  <div id="outputs_div"> </div>
-  <div id="dev_config_div"  class="container-fluid" style="border-style: solid">
-      <div id="CONFIG_EDITOR" style="width:100%; height:600px"></div>
-  </div>
-  </div> 
-</div>
-
-<div id="deployMode_div" class="container-fluid">
-    <div id="pa_deploy_title" class="alert alert-primary" role="alert">
-        <h2>PA - DO for WS:</h2>
-      </div>
-
-  <button type="button" class="btn btn-primary" id="OPTIMIZE">OPTIMIZE</button>
-  <button type="button" class="btn btn-primary" id="DEPLOY_SCORE">SCORE</button>
-  <button type="button" class="btn btn-info" data-toggle="button" id="DEPLOY_CONFIG_BTN">CONFIG</button>
-  <div id="deploy_config_div" class="container-fluid"> 
-    <br>
-      <div class="input-group mb-3">
-          <div class="input-group-prepend">
-            <span class="input-group-text" id="CONFIG_PA_INPUT_VERSION_DEPLOY_TXT">Input Version:</span>
+    <div id="devMode_div" class="container-fluid" style="display:none">
+        <div id="pa_dev_title" class="alert alert-primary" role="alert">
+            <h2>PA - DO for WS (Development Mode):</h2>
           </div>
-          <input type="text" class="form-control" id="CONFIG_PA_INPUT_VERSION_DEPLOY" aria-describedby="CONFIG_PA_INPUT_VERSION_DEPLOY?TXT">
+       
+            <div class="row">
+              <div class="col-md-auto">
+                
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="INITPA">0. INIT PA</button> 
+                    &nbsp; &nbsp; &nbsp;
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="GETFROMPA">1. GET FROM PA</button> 
+                    &nbsp; &nbsp; &nbsp;
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="PUSHTOWS">2. PUSH TO WS</button> 
+                    &nbsp; &nbsp; &nbsp;
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="OPENWS">3. OPEN WS</button>
+                    &nbsp; &nbsp; &nbsp;
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="SOLVE">4. SOLVE</button> 
+                    &nbsp; &nbsp; &nbsp;
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="DEV_SCORE">4. SCORE</button> 
+                    &nbsp; &nbsp; &nbsp;
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="PUSHTOPA">5. PUSH TO PA</button>
+      
+              </div>
+              <div class="col">
+                  <div class="btn-group" role="group" aria-label="Basic example">
+                      <button type="button" class="btn btn-sm btn-secondary"  id="INPUTS_BTN">INPUTS</button>
+                      <button type="button" class="btn btn-sm btn-secondary"  id="MA_BTN">MODEL</button>
+                      <button type="button" class="btn btn-sm btn-secondary" id="OUTPUTS_BTN">OUTPUTS</button>
+                      <button type="button" class="btn btn-sm btn-secondary" id="DEV_CONFIG_BTN">CONFIG</button>
+                  </div>
+              </div>
+              
+            </div>
+      
+        <div>
+        <div id="inputs_div"> </div>
+        <div id="ma_dev_div"></div>
+        <div id="solve_div"> </div>
+        <div id="outputs_div"> </div>
+        <div id="dev_config_div"  class="container-fluid" style="border-style: solid">
+            <div id="CONFIG_EDITOR" style="width:100%; height:600px"></div>
         </div>
-
-    <!-- Input Version: <input type="text" id="CONFIG_PA_INPUT_VERSION_DEPLOY"/><br> -->
-
-    <div class="input-group mb-3">
-        <div class="input-group-prepend">
-          <span class="input-group-text" id="CONFIG_PA_OUTPUT_VERSION_DEPLOY_TXT">Output Version:</span>
-        </div>
-        <input type="text" class="form-control" id="CONFIG_PA_OUTPUT_VERSION_DEPLOY" aria-describedby="CONFIG_PA_OUTPUT_VERSION_DEPLOY?TXT">
+      </div> 
+    </div>
+    
+    <div id="deployMode_div" class="container-fluid" style="display:none">
+        <div id="pa_deploy_title" class="alert alert-primary" role="alert">
+            <h2>PA - DO for WS:</h2>
+          </div>
+    
+      <button type="button" class="btn btn-primary" id="OPTIMIZE">OPTIMIZE</button>
+      <button type="button" class="btn btn-primary" id="DEPLOY_SCORE">SCORE</button>
+      <button type="button" class="btn btn-info" data-toggle="button" id="DEPLOY_CONFIG_BTN">CONFIG</button>
+      <div id="deploy_config_div" class="container-fluid"> 
+        <br>
+          <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="CONFIG_PA_INPUT_VERSION_DEPLOY_TXT">Input Version:</span>
+              </div>
+              <input type="text" class="form-control" id="CONFIG_PA_INPUT_VERSION_DEPLOY" aria-describedby="CONFIG_PA_INPUT_VERSION_DEPLOY?TXT">
+            </div>
+    
+        <!-- Input Version: <input type="text" id="CONFIG_PA_INPUT_VERSION_DEPLOY"/><br> -->
+    
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="CONFIG_PA_OUTPUT_VERSION_DEPLOY_TXT">Output Version:</span>
+            </div>
+            <input type="text" class="form-control" id="CONFIG_PA_OUTPUT_VERSION_DEPLOY" aria-describedby="CONFIG_PA_OUTPUT_VERSION_DEPLOY?TXT">
+          </div>
+    
+        <!-- Output Version: <input type="text" id="CONFIG_PA_OUTPUT_VERSION_DEPLOY"/><br> -->
+    
+        <div id="ma_deploy_div"></div>
       </div>
-
-    <!-- Output Version: <input type="text" id="CONFIG_PA_OUTPUT_VERSION_DEPLOY"/><br> -->
-
-    <div id="ma_deploy_div"></div>
-  </div>
-</div>
-
+    </div>
 </body>
+
 <script type="text/javascript" src="./do-ws-js/scenario.js"></script>
 <script type="text/javascript" src="./do-ws-js/scenario-ma.js"></script>
+<script type="text/javascript" src="./do-ws-js/scenario-d3.js"></script>
+<script type="text/javascript" src="./do-ws-js/scenario-nvd3.js"></script>
 <script type="text/javascript" src="./do-ws-js/scenario-google.js"></script>
+<script type="text/javascript" src="./do-ws-js/scenario-gantt.js"></script>
+<script type="text/javascript" src="./do-ws-js/scenario-vega-lite.js"></script>
+<script type="text/javascript" src="./do-ws-js/scenario-grid.js"></script>
 <script type="text/javascript" src="./do-ws-js/configuration.js"></script>
+<script type="text/javascript" src="./do-ws-js/pa.js"></script>
 <script type="text/javascript" src="./main.js"></script>
+
 </html>
