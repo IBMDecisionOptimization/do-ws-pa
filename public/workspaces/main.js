@@ -1,6 +1,11 @@
 
 function load() {               
 
+        let PREVIEW = false;
+        let preview = location.search.split('preview=')[1]
+        if (preview != undefined && preview.toUpperCase() == 'TRUE')
+                PREVIEW = true;
+
         axios({
                 method:'get',
                 url:'../api/configs',
@@ -11,8 +16,6 @@ function load() {
 
                 console.log("Configs:");
                 console.log(configs);
-
-                let PREVIEW = false;
 
                 function makeDiv(what, color) {
                         let div = document.createElement("div");

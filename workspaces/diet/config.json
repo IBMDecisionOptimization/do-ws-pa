@@ -1,5 +1,6 @@
 {
 	"name" : "Diet",	
+	"description" : "Exmaple of prototype application buildoing with very basic typical Diet example.",
 	"pa": {
 		"description": "Diet example with cube initialization",
 		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",

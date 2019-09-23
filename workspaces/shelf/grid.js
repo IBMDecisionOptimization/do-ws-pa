@@ -35,7 +35,7 @@ let vegaconfig = {
     }
 }
 
-scenariogrid.addVegaWidget('shelfvega', 'Shelf', 'SKUOnShelfPlacement', vegaconfig, 2, 0, 10, 6);
+scenariogrid.addVegaWidget('shelfvega', 'Shelf', '', 'SKUOnShelfPlacement', vegaconfig, 2, 0, 10, 6);
 
 
 scenariogrid.addKPIsWidget(0, 6, 12, 5);

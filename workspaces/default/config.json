@@ -1,5 +1,10 @@
 {
 	"name": "Default",
+    "scenario" : {        
+        "config" : {    
+            "$parameters" : "parameters"      
+        }
+    },	
     "pa": {
 		"description": "This is the original ibmtraining public PA credentials",
 		"authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
@@ -14,26 +19,17 @@
 			"input": {
 				"version": "Baseline",
 				"dimensions": {
-					"Subsidiaries": {
-						"name": "Subsidiaries"
-					}
+				
 				},
 				"cubes": {
-					"Test": {
-						"name": "Test",
-						"propertyDimensionName": "TestProperty",
-						"readVersion": false
-					}
+				
 				}
 			},
 			"output": {
 				"version": "Baseline",
 				"cubes": {
-					"TestOutcome": {
-						"name": "TestOutcome"
-					}			
-				},
-				"prefix": ""
+				
+				}
 			}
 		}
 	},
@@ -48,24 +44,16 @@
 			"input": {
 				"version": "Baseline",
 				"dimensions": {
-					"Subsidiaries": {
-						"name": "Subsidiaries"
-					}
+				
 				},
 				"cubes": {
-					"Test": {
-						"name": "Test",
-						"propertyDimensionName": "TestProperty",
-						"readVersion": false
-					}
+				
 				}
 			},
 			"output": {
 				"version": "Baseline",
 				"cubes": {
-					"TestOutcome": {
-						"name": "TestOutcome"
-					}			
+				
 				}
 			}
 		}
@@ -89,7 +77,19 @@
 		"outputId": "Subsidiaries",
 		"nbOutputs" : 1
 	},
-	"ui" : {
-	}
+	"do": {
+        "type": "wml",
+        "apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+        "instance_id": "xxxxxxxxxxxxxxxxxxxxxx",
+        "url": "https://us-south.ml.cloud.ibm.com",
+        "model": "model.py",
+        "action": {
+            "text": "PLAN"
+        }
+    },    
+    "ui" : {
+        "title": "Default",
+        "gridjs" : "grid.js"
+    }
 
 }

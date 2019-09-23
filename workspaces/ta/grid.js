@@ -48,7 +48,7 @@ let cfg5 = {
     }
   }
 
-  scenariogrid.addVegaWidget('vega5', 'Customers per State', 'state', cfg5, 2, 0, 5, 5);
+  scenariogrid.addVegaWidget('vega5', 'Customers per State', '', 'state', cfg5, 2, 0, 5, 5);
 
 
   let cfg4 = {
@@ -95,7 +95,7 @@ let cfg5 = {
     }
   }
 
-  scenariogrid.addVegaWidget('vega4', 'Assignments', 'salesrep_to_state_assignment_report', cfg4, 7, 0, 5, 5);
+  scenariogrid.addVegaWidget('vega4', 'Assignments', '', 'salesrep_to_state_assignment_report', cfg4, 7, 0, 5, 5);
 
 
 
@@ -125,7 +125,7 @@ let cfg1 = {
     }
 
 }
-scenariogrid.addVegaWidget('vega1', 'Assignments', 'salesrep_to_state_assignment_report', cfg1, 0, 5, 12, 5);
+scenariogrid.addVegaWidget('vega1', 'Assignments', '', 'salesrep_to_state_assignment_report', cfg1, 0, 5, 12, 5);
 
 let cfg2 = {
     "mark": "bar",
@@ -159,7 +159,7 @@ let cfg2 = {
     "width": 500
   }
 
-scenariogrid.addVegaWidget('vega2', 'Assignments', 'salesrep_to_state_assignment_report', cfg2, 0, 10, 12, 5);
+scenariogrid.addVegaWidget('vega2', 'Assignments', '', 'salesrep_to_state_assignment_report', cfg2, 0, 10, 12, 5);
 
 let cfg3 = {
     "mark": "bar",
@@ -193,7 +193,7 @@ let cfg3 = {
     "height": 500
   }
 
-scenariogrid.addVegaWidget('vega3', 'Assignments', 'salesrep_to_state_assignment_report', cfg3, 0, 15, 12, 5);
+scenariogrid.addVegaWidget('vega3', 'Assignments', '', 'salesrep_to_state_assignment_report', cfg3, 0, 15, 12, 5);
 
   
 scenariogrid.addKPIsWidget(0, 20, 12, 5);

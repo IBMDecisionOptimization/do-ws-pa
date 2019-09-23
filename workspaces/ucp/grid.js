@@ -1,6 +1,23 @@
- // scenariogrid.addScenarioListWidget(onChangeScenario, 0, 0, 12, 4);
-// scenariogrid.addScenarioChartWidget(onChangeScenario, 0, 0, 12, 6);
 
+
+scenariogrid.addTextWidget('step1', 'Introduction', 
+        'This demo replicates older Unit Cmmitment Problemm (UCP) demo from Decision Optimization Center(DOC). <br>' +
+        'It prescibres how to generate electricity using different <b>Units</b> based on a predicted <b>load</b>.<br>' +
+        'The input is the set of <b>Units</b> with some <b>Maintenances</b> and a <b>demand</b>.',
+        0, 0, 12, 2,
+        {background: "#ccdefc"})
+
+scenariogrid.addTableWidget('Units', undefined, 0, 2, 4, 4);
+
+scenariogrid.addTableWidget('UnitMaintenances', undefined, 4, 2, 4, 4);
+
+scenariogrid.addTableWidget('Loads', undefined, 8, 2, 4, 4);
+
+scenariogrid.addTextWidget('step1b', 'Load', 
+        'The load can be representedusing a dedicated chart.<br>' +
+        '. <br>',
+        0, 6, 3, 2,
+        {background: "#ccdefc"})
 
 function nvd3cbdemand() {
     let scenario = scenariomgr.getSelectedScenario();
@@ -33,6 +50,44 @@ function nvd3cbdemand() {
     nvd3chart('demand_chart', data)
 
 }
+
+let demandcfg = { 
+        x: 3,
+        y: 6,
+        width: 9,
+        height: 5,
+        title: "Demand chart",
+        innerHTML: '<div id="demand_chart" style="width: 100%; height: calc(100% - 30px);"><svg></svg></div>',
+        cb: nvd3cbdemand
+}
+
+scenariogrid.addCustomWidget('demand_chart', demandcfg);
+
+scenariogrid.addTextWidget('step2', 'Optimization', 
+        'You can create different scenarios to optimize.<br>' +
+        'In the parameter view, you can set parameters such as the minimal and maximla number of distribution centers to open. <br>',
+        0, 11, 12, 2,
+        {background: "#ccdefc"})
+
+scenariogrid.addScenarioWidget(onChangeScenario, 0, 13, 2, 3);
+        
+scenariogrid.addSolveWidget(0, 16, 2, 3);
+
+scenariogrid.addTableWidget('Weights', undefined, 2, 13, 5, 6);
+
+scenariogrid.addTableWidget('kpis', undefined, 7, 13, 5, 6);
+
+
+
+
+scenariogrid.addTextWidget('step3', 'Solution', 
+        'You can see the solution in the following views.<br>' +
+        'Different customer views are used. <br>',
+        0, 19, 12, 2,
+        {background: "#ccdefc"})
+
+scenariogrid.addTablesWidget('Outputs', 'output', undefined, 0, 21, 3, 6);
+
 
 function nvd3cb() {
     let scenario = scenariomgr.getSelectedScenario();
@@ -74,6 +129,20 @@ function nvd3cb() {
 
 }
 
+
+let chartcfg = { 
+        x: 3,
+        y: 21,
+        width: 9,
+        height: 5,
+        title: "Production chart",
+        innerHTML: '<div id="chart" style="width: 100%; height: calc(100% - 30px);"><svg></svg></div>',
+        cb: nvd3cb
+}
+
+
+scenariogrid.addCustomWidget('chart', chartcfg);
+
 function vegacb() {
     let scenario = scenariomgr.getSelectedScenario();
 
@@ -112,6 +181,22 @@ function vegacb() {
     }
     vegalitechart("vega_div", scenario.tables['production'], vegaconfig)
 }
+
+
+
+let vegacfg = { 
+        x: 3,
+        y: 26,
+        width: 9,
+        height: 5,
+        title: "Vega lite test",
+        innerHTML: '<div style="width:100%; height: calc(100% - 30px);"> <div id="vega_div" ></div></div>',
+        cb: vegacb
+}
+
+scenariogrid.addCustomWidget('vega', vegacfg);
+
+
 
 function ganttcb() {
     let scenario = scenariomgr.getSelectedScenario();
@@ -187,71 +272,40 @@ function ganttcb() {
     for (o in assignments)
             assignments_data.push(assignments[o]);
 
-    showGantt('gantt_div', assignments_data, assignments_qty, config = {color:"unit-type", filters:["unit-type"]})        
+    showGantt('gantt_div', assignments_data, assignments_qty, {color:"unit-type", filters:["unit-type"]})        
 
 }
 
 
-scenariogrid.addScenarioWidget(onChangeScenario, 0, 0, 2, 2);
-
-scenariogrid.addKPIsWidget(0, 18, 12, 6);
-
-scenariogrid.addSolveWidget(0, 2);
-
-scenariogrid.addTableWidget('Weights', scenariocfg.Weights, 0, 5, 6, 3);
-
-scenariogrid.addTableWidget('kpis', scenariocfg.kpis, 6, 5, 6, 3);
-
-scenariogrid.addTablesWidget('Inputs', 'input', ['Units', 'Loads', 'UnitMaintenances'], 0, 8, 6, 4);
-
-scenariogrid.addTablesWidget('Outputs', 'output', ['production', 'started', 'used'], 6, 8, 6, 4);
-
-let demandcfg = { 
-        x: 0,
-        y: 12,
-        width: 12,
-        height: 6,
-        title: "Demand chart",
-        innerHTML: '<div id="demand_chart" style="width: 100%; height: calc(100% - 30px);"><svg></svg></div>',
-        cb: nvd3cbdemand
-}
-
-scenariogrid.addCustomWidget('demand_chart', demandcfg);
 
 
-let chartcfg = { 
-        x: 2,
-        y: 0,
-        width: 10,
-        height: 5,
-        title: "Production chart",
-        innerHTML: '<div id="chart" style="width: 100%; height: calc(100% - 30px);"><svg></svg></div>',
-        cb: nvd3cb
-}
-
-scenariogrid.addCustomWidget('chart', chartcfg);
-
-
-let vegacfg = { 
-        x: 0,
-        y: 24,
-        width: 12,
-        height: 6,
-        title: "Vega lite test",
-        innerHTML: '<div style="width:100%; height: calc(100% - 30px);"> <div id="vega_div" ></div></div>',
-        cb: vegacb
-}
-
-scenariogrid.addCustomWidget('vega', vegacfg);
 
 let ganttcfg = { 
-        x: 0,
-        y: 30,
-        width: 12,
-        height: 6,
+        x: 3,
+        y: 31,
+        width: 9,
+        height: 5,
         title: "Production Gantt chart",
         innerHTML: '<div id="gantt_div" style="width:100%; height: calc(100% - 30px);"></div>',
         cb: ganttcb
 }
 
 scenariogrid.addCustomWidget('gantt', ganttcfg);
+
+
+scenariogrid.addTextWidget('step4', 'Multiple Scenarios', 
+        'You can see also compare KPIs form the multiple scenarios.<br>',
+        0, 36, 12, 2,
+        {background: "#ccdefc"})
+
+scenariogrid.addKPIsWidget(0, 38, 12, 5);
+
+
+
+scenariogrid.addTextWidget('pa4', 'Planning Analytics', 
+        'You can then connect your prototype appliction to Planning Analytics.<br>',
+        0, 43, 12, 2,
+        {background: "#ccdefc"})
+
+scenariogrid.addPAWidget(0, 45, 12, 2);
+

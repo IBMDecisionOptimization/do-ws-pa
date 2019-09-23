@@ -23,6 +23,7 @@
 		"password": "IBMDem0s",
 		"mapping" : {
 			"versionDimensionName": "Version",
+            "allowEdit" : true,
 			"input": {
 				"version": "Baseline",
 				"dimensions": {
@@ -74,6 +75,7 @@
 		"password": "xxxxxxxxxxxxxxxxxxxxxx",
 		"mapping" : {
 			"versionDimensionName": "Version",
+            "allowEdit" : true,			
 			"input": {
 				"version": "Baseline",
 				"dimensions": {

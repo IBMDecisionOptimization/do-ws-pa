@@ -119,7 +119,7 @@ function paConfigCB(workspace) {
         // DEV
 
         let devTitle =  document.getElementById("pa_dev_title");
-        devTitle.innerHTML = '<h2>' + title + ' (Dev. mode)</h2>';
+        devTitle.innerHTML = '<h2>' + title + ' (Dev. mode)</h2> (<a href="../?workspace='+workspace+'">GO TO APP</a>)';
         if (devMode)
                 document.title = title + ' (Dev. mode)';     
 
