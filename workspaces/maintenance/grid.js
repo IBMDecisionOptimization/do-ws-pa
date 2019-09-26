@@ -130,7 +130,7 @@ let failurecfg = {
 
 scenariogrid.addCustomWidget('failure', failurecfg);
 
-scenariogrid.addScoreWidget(0, 16, 2, 2);
+scenariogrid.addScoreWidget({x:0, y:16});
 
 
 
