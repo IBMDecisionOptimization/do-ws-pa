@@ -27,7 +27,7 @@ scenariogrid.addTextWidget('step2', 'Optimization',
 
 scenariogrid.addScenarioWidget(onChangeScenario, 0, 11, 2, 3);
         
-scenariogrid.addSolveWidget(0, 14, 2, 3);
+scenariogrid.addSolveWidget({x:0, y:14});
 
 scenariogrid.addTablesWidget('Inputs', 'input', ['NurseVacations', 'SkillsRequirements', 'NurseSkills', 'NurseAssociations', 'NurseIncompatibilities'], 2, 11, 10, 6);
 

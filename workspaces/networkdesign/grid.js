@@ -21,7 +21,7 @@ scenariogrid.addTextWidget('step2', 'Optimization',
 
 scenariogrid.addScenarioWidget(onChangeScenario, 0, 8, 2, 3);
         
-scenariogrid.addSolveWidget(0, 11, 2, 3);
+scenariogrid.addSolveWidget({x:0, y:11});
 
 
 scenariogrid.addTableWidget('PARAMETERS', undefined, 2, 8, 4, 6);

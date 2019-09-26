@@ -71,7 +71,7 @@ scenariogrid.addTextWidget('step2', 'Optimization',
 
 scenariogrid.addScenarioWidget(onChangeScenario, 0, 13, 2, 3);
         
-scenariogrid.addSolveWidget(0, 16, 2, 3);
+scenariogrid.addSolveWidget({x:0, y:16});
 
 scenariogrid.addTableWidget('Weights', undefined, 2, 13, 5, 6);
 

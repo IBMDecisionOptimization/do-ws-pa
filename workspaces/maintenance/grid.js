@@ -147,7 +147,7 @@ scenariogrid.addTextWidget('step3', 'Optimizaing Maintenance Plan',
 
 scenariogrid.addTableWidget('parameters', undefined, 0, 20, 2, 3)
 
-scenariogrid.addSolveWidget(0, 23, 2, 2);
+scenariogrid.addSolveWidget({x:0, y:23});
 
 function heatmap3cb() {
     let scenario = scenariomgr.getSelectedScenario();

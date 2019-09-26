@@ -3,7 +3,7 @@
 
 scenariogrid.addScenarioWidget(onChangeScenario, 0, 0, 2, 2);
         
-scenariogrid.addSolveWidget(0, 2, 2, 2);
+scenariogrid.addSolveWidget({x:0, y:2});
 
 
 // node type

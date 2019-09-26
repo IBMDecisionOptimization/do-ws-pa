@@ -4,7 +4,7 @@ scenariogrid.addScenarioWidget(onChangeScenario, 0, 0, 2, 3);
 scenariogrid.addKPIsWidget(0, 6, 12, 5);
 
 
-scenariogrid.addSolveWidget(0, 3);
+scenariogrid.addSolveWidget({x:0, y:3});
 
 scenariogrid.addPAWidget(0, 5);
 
