@@ -3,6 +3,9 @@ config = undefined;
 scenariomgr = undefined;
 scenariogrid = undefined;
 scenariocfg = undefined;
+mlkey = undefined;
+dokey = undefined;
+flowkey = undefined;
 
 appMode = false;
 devMode = false;
@@ -42,7 +45,7 @@ function initGrid() {
                         axios({
                                 method:'get',
                                 url:url,
-                                responseType:'text/plain'
+                                responseType:'text'
                         })
                         .then(function (response) {
                                 let grid = response.data;
@@ -147,38 +150,46 @@ function paConfigCB(workspace) {
         configPAOutputVersionDeploy.value = config.pa.mapping.output.version;
         configPAOutputVersionDeploy.onchange  = function() { updateConfig("CONFIG_PA_OUTPUT_VERSION_DEPLOY", "pa.mapping.output.version", false); }               
 
-        if ('do' in config) {
+        if (dokey in config) {
 
-                if ( ('action' in config.do) && ('text' in config.do.action) ) {
-                        document.getElementById('SOLVE').innerText = config.do.action.text;
-                        document.getElementById('OPTIMIZE').innerText = config.do.action.text;
+                if ( ('action' in config[dokey]) && ('text' in config[dokey].action) ) {
+                        document.getElementById('SOLVE').innerText = config[dokey].action.text;
+                        document.getElementById('OPTIMIZE').innerText = config[dokey].action.text;
                 }
                 initOptim();
 
-                document.getElementById("SOLVE").onclick = function() {mysolve('SOLVE')};   
-                document.getElementById("OPTIMIZE").onclick = function() {myoptimize('OPTIMIZE')};   
+                document.getElementById("SOLVE").onclick = function() {mysolve(dokey, 'SOLVE')};   
+                document.getElementById("OPTIMIZE").onclick = function() {myoptimize(dokey, 'OPTIMIZE')};   
         } else {
                 disableButton('SOLVE');
                 hideButton('OPTIMIZE');
         }
 
+        if (flowkey in config) {
+                if ( ('action' in config[flowkey]) && ('text' in config[flowkey].action) ) {
+                        document.getElementById('FLOW').innerText = config[flowkey].action.text;
+                document.getElementById("FLOW").onclick = function() {myflow(flowkey, 'FLOW')};   
+                }
+        } else {
+                hideButton('FLOW');
+        }
 
         if ('allowInit' in config.pa.mapping && config.pa.mapping.allowInit) {
         } else {
                 hideButton('INITPA');  
         }
 
-        if ('ml' in config) {
-                if ( ('action' in config.ml) && ('text' in config.ml.action) ) {
-                        document.getElementById('DEV_SCORE').innerText = config.ml.action.text;
-                        document.getElementById('DEPLOY_SCORE').innerText = config.ml.action.text;
+        if (mlkey in config) {
+                if ( ('action' in config[mlkey]) && ('text' in config[mlkey].action) ) {
+                        document.getElementById('DEV_SCORE').innerText = config[mlkey].action.text;
+                        document.getElementById('DEPLOY_SCORE').innerText = config[mlkey].action.text;
                 }
 
                 enableButton('DEV_SCORE');
                 enableButton('DEPLOY_SCORE');
 
-                document.getElementById("DEV_SCORE").onclick = function() {mydevscore('DEV_SCORE')};   
-                document.getElementById("DEPLOY_SCORE").onclick = function() {mydeployscore('DEPLOY_SCORE')};   
+                document.getElementById("DEV_SCORE").onclick = function() {mydevscore(mlkey, 'DEV_SCORE')};   
+                document.getElementById("DEPLOY_SCORE").onclick = function() {mydeployscore(mlkey, 'DEPLOY_SCORE')};   
 
         } else {
                 disableButton('DEV_SCORE');
@@ -186,12 +197,36 @@ function paConfigCB(workspace) {
         }
 
 }
+
+function getQueryVariable(variable) {
+        var query = window.location.search.substring(1);
+        var vars = query.split('&');
+        for (var i = 0; i < vars.length; i++) {
+                var pair = vars[i].split('=');
+                if (decodeURIComponent(pair[0]) == variable) {
+                return decodeURIComponent(pair[1]);
+                }
+        }
+        return undefined;
+}
+
 function load() {               
 
-        workspace = location.search.split('workspace=')[1]
+        workspace = getQueryVariable('workspace')
         if (workspace == undefined)
                 workspace = "default";
         
+        dokey = getQueryVariable('dokey')
+        if ( (dokey == undefined) || (dokey == "") )
+                dokey = "do";
+
+        mlkey = getQueryVariable('mlkey')
+        if ( (mlkey == undefined) || (mlkey == "") )
+                mlkey = "ml";
+
+        flowkey = getQueryVariable('flowkey')
+        if ( (flowkey == undefined) || (flowkey == "") )
+                flowkey = "flow";
 
         let url_string = window.location.href;
         console.log(url_string);

@@ -1,0 +1,824 @@
+CustomerID,Gender,Affinity,Annual Spend,Loyalty Program Member,Response Channel,CLV
+C-10154,M,Women's Sportwear,427.123,NO,Direct Mail,42712.3
+C-10157,F,Women's Career,253.567,NO,Email,25356.7
+C-10160,M,Women's Shoes,206.176,NO,Email,20617.6
+C-10162,F,Men's Casual,236.883,NO,Mobile,23688.3
+C-10163,M,Women's Shoes,188.133,YES,Mobile,18813.3
+C-10164,F,Men's Sportswear,464.867,NO,Mobile,46486.7
+C-10165,F,Men's Career,140.467,YES,Email,14046.7
+C-10167,M,Home goods,222.034,YES,Email,22203.4
+C-10169,F,Women's Sportwear,229.75,NO,Direct Mail,22975
+C-10170,M,Women's Career,145.692,NO,Email,14569.2
+C-10171,F,Women's Shoes,103.282,NO,Email,10328.2
+C-10172,F,Men's Casual,137.796,YES,Email,13779.6
+C-10173,M,Women's Shoes,365.09,YES,Mobile,36509
+C-10175,F,Men's Sportswear,102.011,YES,Direct Mail,10201.1
+C-10176,F,Men's Career,103.736,NO,Email,10373.6
+C-10177,F,Home goods,348.222,YES,Direct Mail,34822.2
+C-10179,M,Women's Sportwear,422.48,YES,Mobile,42248
+C-10180,F,Women's Career,181.688,YES,Email,18168.8
+C-10181,F,Women's Shoes,107.53,YES,Email,10753
+C-10185,F,Men's Casual,323.184,YES,Mobile,32318.4
+C-10189,M,Women's Shoes,317.2,YES,Email,31720
+C-10191,F,Men's Sportswear,368.328,YES,Email,36832.8
+C-10192,F,Men's Career,311.787,YES,Direct Mail,31178.7
+C-10195,M,Home goods,216.813,YES,Email,21681.3
+C-10197,M,Women's Sportwear,298.536,YES,Email,29853.6
+C-10198,F,Women's Career,152.7,YES,Mobile,15270
+C-10202,F,Women's Shoes,322.318,NO,Direct Mail,32231.8
+C-10203,M,Men's Casual,425.669,YES,Mobile,42566.9
+C-10204,F,Women's Shoes,445.913,YES,Email,44591.3
+C-10205,M,Men's Sportswear,491.367,NO,Direct Mail,49136.7
+C-10206,M,Men's Career,403.398,NO,Email,40339.8
+C-10209,F,Home goods,389.995,YES,Email,38999.5
+C-10210,F,Women's Sportwear,137.623,YES,Mobile,13762.3
+C-10211,F,Women's Career,303.099,NO,Email,30309.9
+C-10212,M,Women's Shoes,103.719,YES,Mobile,10371.9
+C-10214,M,Men's Casual,291.748,YES,Direct Mail,29174.8
+C-10219,M,Women's Shoes,468.983,YES,Mobile,46898.3
+C-10220,F,Men's Sportswear,137.837,NO,Mobile,13783.7
+C-10221,F,Men's Career,330.618,YES,Direct Mail,33061.8
+C-10222,F,Home goods,385.113,YES,Direct Mail,38511.3
+C-10225,M,Women's Sportwear,374.844,NO,Mobile,37484.4
+C-10226,M,Women's Career,267.732,YES,Email,26773.2
+C-10227,M,Women's Shoes,282.755,NO,Mobile,28275.5
+C-10228,F,Men's Casual,416.178,NO,Mobile,41617.8
+C-10229,M,Women's Shoes,118.442,YES,Email,11844.2
+C-10235,M,Men's Sportswear,130.578,YES,Direct Mail,13057.8
+C-10239,M,Men's Career,195.369,NO,Email,19536.9
+C-10243,F,Home goods,388.062,YES,Mobile,38806.2
+C-10244,F,Women's Sportwear,321.216,NO,Email,32121.6
+C-10245,M,Women's Career,433.149,YES,Direct Mail,43314.9
+C-10248,M,Women's Shoes,416.457,NO,Mobile,41645.7
+C-10250,M,Men's Casual,392.378,NO,Email,39237.8
+C-10252,F,Women's Shoes,106.201,NO,Mobile,10620.1
+C-10253,M,Men's Sportswear,105.365,NO,Email,10536.5
+C-10254,F,Men's Career,491.775,NO,Email,49177.5
+C-10256,M,Home goods,484.029,YES,Mobile,48402.9
+C-10257,F,Women's Sportwear,157.157,YES,Mobile,15715.7
+C-10260,M,Women's Career,262.512,YES,Direct Mail,26251.2
+C-10263,F,Women's Shoes,457.963,YES,Mobile,45796.3
+C-10264,F,Men's Casual,247.919,NO,Mobile,24791.9
+C-10265,F,Women's Shoes,263.483,NO,Mobile,26348.3
+C-10266,M,Men's Sportswear,355.435,YES,Email,35543.5
+C-10267,M,Men's Career,304.26,NO,Mobile,30426
+C-10268,F,Home goods,427.131,NO,Email,42713.1
+C-10277,M,Women's Sportwear,285.341,NO,Email,28534.1
+C-10278,M,Women's Career,312.009,NO,Email,31200.9
+C-10281,M,Women's Shoes,462.7,YES,Mobile,46270
+C-10284,M,Men's Casual,178.948,YES,Direct Mail,17894.8
+C-10286,F,Women's Shoes,370.252,YES,Email,37025.2
+C-10289,F,Men's Sportswear,223.043,YES,Mobile,22304.3
+C-10290,F,Men's Career,359.38,YES,Email,35938
+C-10294,M,Home goods,243.263,NO,Email,24326.3
+C-10295,M,Women's Sportwear,449.991,YES,Mobile,44999.1
+C-10297,F,Women's Career,378.721,NO,Mobile,37872.1
+C-10299,M,Women's Shoes,192.134,YES,Mobile,19213.4
+C-10300,F,Men's Casual,379.016,NO,Email,37901.6
+C-10303,M,Women's Shoes,476.595,NO,Direct Mail,47659.5
+C-10311,M,Men's Sportswear,288.615,NO,Direct Mail,28861.5
+C-10313,F,Men's Career,246.707,NO,Email,24670.7
+C-10314,M,Home goods,280.024,YES,Direct Mail,28002.4
+C-10315,F,Women's Sportwear,486.794,NO,Direct Mail,48679.4
+C-10316,M,Women's Career,473.606,YES,Direct Mail,47360.6
+C-10317,F,Women's Shoes,171.818,NO,Email,17181.8
+C-10318,F,Men's Casual,254.945,NO,Direct Mail,25494.5
+C-10319,F,Women's Shoes,282.63,NO,Mobile,28263
+C-10321,M,Men's Sportswear,157.228,NO,Direct Mail,15722.8
+C-10322,F,Men's Career,336.065,YES,Direct Mail,33606.5
+C-10323,F,Home goods,135.32,YES,Direct Mail,13532
+C-10330,F,Women's Sportwear,163.704,YES,Mobile,16370.4
+C-10332,F,Women's Career,364.26,YES,Mobile,36426
+C-10333,M,Women's Shoes,353.706,NO,Direct Mail,35370.6
+C-10337,F,Men's Casual,250.55,YES,Email,25055
+C-10338,F,Women's Shoes,395.248,NO,Email,39524.8
+C-10339,F,Men's Sportswear,181.98,YES,Mobile,18198
+C-10342,F,Men's Career,318.923,YES,Mobile,31892.3
+C-10343,M,Home goods,352.808,YES,Email,35280.8
+C-10346,F,Women's Sportwear,163.51,YES,Email,16351
+C-10348,M,Women's Career,100.07,YES,Direct Mail,10007
+C-10349,M,Women's Shoes,430.066,NO,Email,43006.6
+C-10350,F,Men's Casual,126.214,NO,Direct Mail,12621.4
+C-10351,F,Women's Shoes,295.62,YES,Email,29562
+C-10359,M,Men's Sportswear,193.672,NO,Email,19367.2
+C-10363,M,Men's Career,228.535,NO,Direct Mail,22853.5
+C-10364,M,Home goods,320.161,YES,Mobile,32016.1
+C-10367,F,Women's Sportwear,225.684,YES,Direct Mail,22568.4
+C-10368,M,Women's Career,254.795,YES,Direct Mail,25479.5
+C-10369,F,Women's Shoes,230.214,YES,Mobile,23021.4
+C-10376,M,Men's Casual,385.314,NO,Email,38531.4
+C-10380,M,Women's Shoes,235.058,NO,Direct Mail,23505.8
+C-10381,F,Men's Sportswear,274.252,NO,Mobile,27425.2
+C-10383,F,Men's Career,250.338,YES,Direct Mail,25033.8
+C-10384,M,Home goods,189.589,YES,Email,18958.9
+C-10387,M,Women's Sportwear,371.385,NO,Email,37138.5
+C-10388,M,Women's Career,107.717,NO,Mobile,10771.7
+C-10389,F,Women's Shoes,101.074,YES,Mobile,10107.4
+C-10390,M,Men's Casual,201.004,YES,Email,20100.4
+C-10391,F,Women's Shoes,427.908,YES,Mobile,42790.8
+C-10398,F,Men's Sportswear,144.497,YES,Mobile,14449.7
+C-10401,M,Men's Career,182.937,YES,Email,18293.7
+C-10403,M,Home goods,248.16,YES,Mobile,24816
+C-10404,M,Women's Sportwear,391.701,NO,Direct Mail,39170.1
+C-10406,F,Women's Career,164.835,NO,Mobile,16483.5
+C-10407,F,Women's Shoes,424.343,NO,Email,42434.3
+C-10408,F,Men's Casual,134.218,YES,Mobile,13421.8
+C-10410,M,Women's Shoes,189.591,YES,Mobile,18959.1
+C-10411,M,Men's Sportswear,187.711,YES,Email,18771.1
+C-10412,F,Men's Career,146.823,NO,Mobile,14682.3
+C-10413,F,Home goods,100.455,NO,Mobile,10045.5
+C-10415,M,Women's Sportwear,396.497,NO,Email,39649.7
+C-10417,F,Women's Career,445.153,NO,Direct Mail,44515.3
+C-10423,F,Women's Shoes,136.361,NO,Email,13636.1
+C-10424,F,Men's Casual,121.84,NO,Mobile,12184
+C-10426,F,Women's Shoes,297.785,NO,Mobile,29778.5
+C-10427,F,Men's Sportswear,484.566,NO,Mobile,48456.6
+C-10428,M,Men's Career,388.491,YES,Email,38849.1
+C-10430,F,Home goods,139.176,NO,Direct Mail,13917.6
+C-10435,M,Women's Sportwear,317.001,YES,Direct Mail,31700.1
+C-10436,M,Women's Career,428.985,NO,Email,42898.5
+C-10438,M,Women's Shoes,142.814,NO,Mobile,14281.4
+C-10439,F,Men's Casual,269.282,YES,Mobile,26928.2
+C-10440,F,Women's Shoes,394.489,YES,Mobile,39448.9
+C-10442,F,Men's Sportswear,180.798,YES,Direct Mail,18079.8
+C-10444,M,Men's Career,482.751,YES,Email,48275.1
+C-10446,F,Home goods,208.812,YES,Mobile,20881.2
+C-10452,M,Women's Sportwear,317.275,NO,Email,31727.5
+C-10455,M,Women's Career,339.607,NO,Mobile,33960.7
+C-10457,M,Women's Shoes,303.916,YES,Email,30391.6
+C-10458,F,Men's Casual,274.881,YES,Email,27488.1
+C-10459,M,Women's Shoes,318.011,NO,Email,31801.1
+C-10460,M,Men's Sportswear,274.012,NO,Direct Mail,27401.2
+C-10466,M,Men's Career,262.061,NO,Email,26206.1
+C-10470,F,Home goods,183.878,YES,Mobile,18387.8
+C-10471,M,Women's Sportwear,313.192,YES,Mobile,31319.2
+C-10472,M,Women's Career,205.285,YES,Mobile,20528.5
+C-10474,F,Women's Shoes,430.394,NO,Mobile,43039.4
+C-10475,F,Men's Casual,266.378,YES,Mobile,26637.8
+C-10476,F,Women's Shoes,107.127,YES,Email,10712.7
+C-10477,M,Men's Sportswear,178.916,NO,Email,17891.6
+C-10478,M,Men's Career,237.441,YES,Direct Mail,23744.1
+C-10479,F,Home goods,113.005,YES,Mobile,11300.5
+C-10481,M,Women's Sportwear,412.711,NO,Email,41271.1
+C-10485,F,Women's Career,277.268,YES,Email,27726.8
+C-10486,M,Women's Shoes,146.112,YES,Mobile,14611.2
+C-10487,F,Men's Casual,134.513,YES,Email,13451.3
+C-10488,M,Women's Shoes,312.737,NO,Email,31273.7
+C-10490,F,Men's Sportswear,453.427,YES,Mobile,45342.7
+C-10492,M,Men's Career,276.974,YES,Mobile,27697.4
+C-10494,F,Home goods,409.303,YES,Mobile,40930.3
+C-10495,M,Women's Sportwear,222.591,YES,Email,22259.1
+C-10496,M,Women's Career,417.166,NO,Mobile,41716.6
+C-10499,F,Women's Shoes,294.585,NO,Email,29458.5
+C-10500,F,Men's Casual,223.157,NO,Email,22315.7
+C-10505,M,Women's Shoes,498.459,YES,Email,49845.9
+C-10506,F,Men's Sportswear,205.744,YES,Direct Mail,20574.4
+C-10507,F,Men's Career,319.368,NO,Email,31936.8
+C-10508,M,Home goods,431.964,NO,Email,43196.4
+C-10511,F,Women's Sportwear,345.366,YES,Mobile,34536.6
+C-10512,F,Women's Career,386.017,YES,Email,38601.7
+C-10513,F,Women's Shoes,400.773,NO,Mobile,40077.3
+C-10514,F,Men's Casual,375.233,NO,Email,37523.3
+C-10516,M,Women's Shoes,446.294,YES,Email,44629.4
+C-10517,F,Men's Sportswear,313.296,NO,Direct Mail,31329.6
+C-10518,F,Men's Career,317.774,YES,Direct Mail,31777.4
+C-10520,M,Home goods,360.631,NO,Mobile,36063.1
+C-10522,M,Women's Sportwear,457.417,NO,Direct Mail,45741.7
+C-10527,M,Women's Career,207.784,YES,Email,20778.4
+C-10528,F,Women's Shoes,344.437,NO,Email,34443.7
+C-10529,F,Men's Casual,369.448,NO,Mobile,36944.8
+C-10531,M,Women's Shoes,300.67,NO,Email,30067
+C-10533,F,Men's Sportswear,307.868,YES,Email,30786.8
+C-10537,F,Men's Career,223.177,YES,Email,22317.7
+C-10538,F,Home goods,115.144,NO,Email,11514.4
+C-10541,F,Women's Sportwear,398.296,YES,Direct Mail,39829.6
+C-10542,M,Women's Career,382.717,NO,Mobile,38271.7
+C-10543,F,Women's Shoes,128.47,NO,Email,12847
+C-10544,F,Men's Casual,348.497,NO,Mobile,34849.7
+C-10545,F,Women's Shoes,289.163,YES,Mobile,28916.3
+C-10548,F,Men's Sportswear,425.534,NO,Email,42553.4
+C-10549,M,Men's Career,305.434,NO,Mobile,30543.4
+C-10551,M,Home goods,201.812,NO,Direct Mail,20181.2
+C-10555,M,Women's Sportwear,424.567,NO,Mobile,42456.7
+C-10556,M,Women's Career,179.591,YES,Mobile,17959.1
+C-10557,M,Women's Shoes,402.274,NO,Email,40227.4
+C-10561,M,Men's Casual,170.993,NO,Email,17099.3
+C-10562,M,Women's Shoes,448.107,NO,Email,44810.7
+C-10564,M,Men's Sportswear,338.642,NO,Email,33864.2
+C-10565,F,Men's Career,213.633,YES,Email,21363.3
+C-10571,M,Home goods,157.681,NO,Mobile,15768.1
+C-10572,F,Women's Sportwear,358.494,YES,Direct Mail,35849.4
+C-10573,F,Women's Career,285.154,NO,Email,28515.4
+C-10577,F,Women's Shoes,373.617,NO,Mobile,37361.7
+C-10580,M,Men's Casual,364.166,NO,Mobile,36416.6
+C-10591,F,Women's Shoes,402.677,YES,Direct Mail,40267.7
+C-10592,F,Men's Sportswear,400.868,NO,Email,40086.8
+C-10594,F,Men's Career,106.184,NO,Email,10618.4
+C-10595,F,Home goods,111.224,YES,Mobile,11122.4
+C-10596,F,Women's Sportwear,367.285,YES,Mobile,36728.5
+C-10598,F,Women's Career,351.487,NO,Direct Mail,35148.7
+C-10601,M,Women's Shoes,275.083,YES,Mobile,27508.3
+C-10604,F,Men's Casual,233.31,NO,Direct Mail,23331
+C-10605,F,Women's Shoes,107.267,NO,Email,10726.7
+C-10609,M,Men's Sportswear,497.316,YES,Mobile,49731.6
+C-10614,F,Men's Career,373.485,NO,Email,37348.5
+C-10615,F,Home goods,113.294,NO,Direct Mail,11329.4
+C-10616,F,Women's Sportwear,348.889,NO,Email,34888.9
+C-10618,F,Women's Career,375.762,YES,Direct Mail,37576.2
+C-10619,M,Women's Shoes,183.099,NO,Email,18309.9
+C-10620,F,Men's Casual,356.757,YES,Email,35675.7
+C-10621,F,Women's Shoes,376.838,YES,Mobile,37683.8
+C-10624,F,Men's Sportswear,437.48,NO,Mobile,43748
+C-10625,M,Men's Career,347.872,NO,Direct Mail,34787.2
+C-10626,F,Home goods,356.562,NO,Direct Mail,35656.2
+C-10627,M,Women's Sportwear,314.868,NO,Direct Mail,31486.8
+C-10628,M,Women's Career,358.231,YES,Mobile,35823.1
+C-10629,M,Women's Shoes,129.477,NO,Mobile,12947.7
+C-10632,F,Men's Casual,338.303,YES,Mobile,33830.3
+C-10636,F,Women's Shoes,451.901,YES,Mobile,45190.1
+C-10640,M,Men's Sportswear,141.216,NO,Email,14121.6
+C-10646,M,Men's Career,156.793,NO,Mobile,15679.3
+C-10647,F,Home goods,132.005,YES,Email,13200.5
+C-10650,F,Women's Sportwear,461.507,YES,Mobile,46150.7
+C-10656,M,Women's Career,473.234,NO,Direct Mail,47323.4
+C-10658,M,Women's Shoes,303.759,NO,Mobile,30375.9
+C-10660,F,Men's Casual,382.559,YES,Email,38255.9
+C-10664,F,Women's Shoes,153.726,NO,Direct Mail,15372.6
+C-10673,M,Men's Sportswear,239.357,NO,Email,23935.7
+C-10674,M,Men's Career,320.691,NO,Email,32069.1
+C-10675,F,Home goods,453.239,NO,Mobile,45323.9
+C-10676,M,Women's Sportwear,230.638,YES,Direct Mail,23063.8
+C-10677,M,Women's Career,151.133,NO,Email,15113.3
+C-10678,M,Women's Shoes,206.815,YES,Email,20681.5
+C-10680,F,Men's Casual,428.159,YES,Email,42815.9
+C-10683,F,Women's Shoes,350.157,YES,Email,35015.7
+C-10686,F,Men's Sportswear,169.603,NO,Direct Mail,16960.3
+C-10687,M,Men's Career,266.278,YES,Email,26627.8
+C-10689,F,Home goods,191.927,YES,Mobile,19192.7
+C-10692,F,Women's Sportwear,100.926,YES,Direct Mail,10092.6
+C-10694,F,Women's Career,341.082,NO,Email,34108.2
+C-10695,M,Women's Shoes,327.656,NO,Direct Mail,32765.6
+C-10696,F,Men's Casual,152.704,YES,Mobile,15270.4
+C-10698,F,Women's Shoes,466.323,YES,Mobile,46632.3
+C-10699,F,Men's Sportswear,294.064,NO,Mobile,29406.4
+C-10701,M,Men's Career,141.309,YES,Email,14130.9
+C-10703,M,Home goods,430.372,NO,Email,43037.2
+C-10704,M,Women's Sportwear,325.518,NO,Email,32551.8
+C-10707,M,Women's Career,370.037,YES,Mobile,37003.7
+C-10708,M,Women's Shoes,494.132,YES,Mobile,49413.2
+C-10710,M,Men's Casual,378.611,YES,Direct Mail,37861.1
+C-10711,M,Women's Shoes,205.95,YES,Mobile,20595
+C-10716,M,Men's Sportswear,491.922,YES,Mobile,49192.2
+C-10718,M,Men's Career,344.236,YES,Email,34423.6
+C-10722,F,Home goods,308.872,YES,Mobile,30887.2
+C-10723,F,Women's Sportwear,277.032,NO,Direct Mail,27703.2
+C-10725,M,Women's Career,209.462,YES,Email,20946.2
+C-10730,M,Women's Shoes,438.622,YES,Mobile,43862.2
+C-10732,F,Men's Casual,342.67,NO,Mobile,34267
+C-10734,F,Women's Shoes,326.446,YES,Mobile,32644.6
+C-10735,M,Men's Sportswear,270.515,YES,Email,27051.5
+C-10736,F,Men's Career,442.831,YES,Mobile,44283.1
+C-10737,M,Home goods,219.871,YES,Email,21987.1
+C-10740,F,Women's Sportwear,285.955,NO,Email,28595.5
+C-10744,F,Women's Career,149.647,YES,Email,14964.7
+C-10745,M,Women's Shoes,109.737,NO,Email,10973.7
+C-10746,M,Men's Casual,322.963,NO,Mobile,32296.3
+C-10747,F,Women's Shoes,104.506,NO,Mobile,10450.6
+C-10748,F,Men's Sportswear,356.814,YES,Direct Mail,35681.4
+C-10749,F,Men's Career,328.053,NO,Mobile,32805.3
+C-10751,F,Home goods,346.651,YES,Mobile,34665.1
+C-10752,F,Women's Sportwear,202.332,NO,Email,20233.2
+C-10756,M,Women's Career,153.56,YES,Mobile,15356
+C-10757,F,Women's Shoes,409.979,YES,Mobile,40997.9
+C-10758,F,Men's Casual,123.639,NO,Mobile,12363.9
+C-10760,F,Women's Shoes,319.965,NO,Email,31996.5
+C-10768,F,Men's Sportswear,143.918,YES,Email,14391.8
+C-10769,F,Men's Career,119.753,NO,Mobile,11975.3
+C-10770,F,Home goods,374.582,NO,Mobile,37458.2
+C-10773,M,Women's Sportwear,159.9,NO,Direct Mail,15990
+C-10775,M,Women's Career,138.168,YES,Email,13816.8
+C-10776,F,Women's Shoes,245.056,YES,Email,24505.6
+C-10777,F,Men's Casual,142.389,NO,Direct Mail,14238.9
+C-10780,F,Women's Shoes,168.793,NO,Mobile,16879.3
+C-10782,M,Men's Sportswear,453.683,NO,Email,45368.3
+C-10786,F,Men's Career,292.526,YES,Email,29252.6
+C-10791,M,Home goods,391.559,YES,Direct Mail,39155.9
+C-10792,M,Women's Sportwear,158.347,NO,Mobile,15834.7
+C-10793,M,Women's Career,209.511,YES,Direct Mail,20951.1
+C-10796,F,Women's Shoes,436.042,NO,Email,43604.2
+C-10802,M,Men's Casual,154.964,YES,Mobile,15496.4
+C-10803,F,Women's Shoes,156.822,YES,Mobile,15682.2
+C-10804,M,Men's Sportswear,220.941,YES,Mobile,22094.1
+C-10805,F,Men's Career,335.584,YES,Email,33558.4
+C-10807,F,Home goods,183.91,NO,Email,18391
+C-10810,M,Women's Sportwear,458.037,NO,Email,45803.7
+C-10811,F,Women's Career,304.368,YES,Email,30436.8
+C-10814,F,Women's Shoes,234.241,YES,Email,23424.1
+C-10815,F,Men's Casual,150.004,NO,Direct Mail,15000.4
+C-10816,F,Women's Shoes,156.86,NO,Email,15686
+C-10818,F,Men's Sportswear,278.2,NO,Mobile,27820
+C-10819,M,Men's Career,467.406,YES,Direct Mail,46740.6
+C-10820,F,Home goods,274.529,YES,Mobile,27452.9
+C-10822,F,Women's Sportwear,309.04,YES,Direct Mail,30904
+C-10824,F,Women's Career,414.07,NO,Email,41407
+C-10825,M,Women's Shoes,131.647,YES,Email,13164.7
+C-10826,F,Men's Casual,219.036,NO,Mobile,21903.6
+C-10827,M,Women's Shoes,407.025,YES,Mobile,40702.5
+C-10828,M,Men's Sportswear,459.486,NO,Mobile,45948.6
+C-10829,F,Men's Career,136.452,YES,Email,13645.2
+C-10830,M,Home goods,319.765,NO,Mobile,31976.5
+C-10835,F,Women's Sportwear,169.724,NO,Mobile,16972.4
+C-10839,F,Women's Career,220.32,NO,Email,22032
+C-10840,M,Women's Shoes,127.641,YES,Direct Mail,12764.1
+C-10844,F,Men's Casual,111.86,NO,Email,11186
+C-10845,F,Women's Shoes,375.651,YES,Email,37565.1
+C-10846,M,Men's Sportswear,394.947,NO,Mobile,39494.7
+C-10847,F,Men's Career,328.363,YES,Email,32836.3
+C-10848,F,Home goods,276.713,NO,Mobile,27671.3
+C-10849,M,Women's Sportwear,181.849,NO,Email,18184.9
+C-10850,F,Women's Career,236.794,YES,Email,23679.4
+C-10852,M,Women's Shoes,108.529,YES,Mobile,10852.9
+C-10853,M,Men's Casual,298.836,YES,Email,29883.6
+C-10855,M,Women's Shoes,219.204,YES,Direct Mail,21920.4
+C-10856,M,Men's Sportswear,362.776,YES,Mobile,36277.6
+C-10857,M,Men's Career,485.787,NO,Email,48578.7
+C-10859,F,Home goods,295.925,NO,Direct Mail,29592.5
+C-10860,M,Women's Sportwear,372.821,YES,Mobile,37282.1
+C-10861,F,Women's Career,298.575,NO,Mobile,29857.5
+C-10862,M,Women's Shoes,104.233,YES,Direct Mail,10423.3
+C-10870,F,Men's Casual,491.579,NO,Mobile,49157.9
+C-10872,F,Women's Shoes,442.289,NO,Mobile,44228.9
+C-10873,F,Men's Sportswear,126.097,NO,Mobile,12609.7
+C-10874,F,Men's Career,441.181,NO,Direct Mail,44118.1
+C-10875,M,Home goods,102.25,YES,Email,10225
+C-10876,F,Women's Sportwear,114.154,YES,Mobile,11415.4
+C-10878,M,Women's Career,173.355,YES,Email,17335.5
+C-10884,M,Women's Shoes,223.248,NO,Email,22324.8
+C-10885,M,Men's Casual,225.392,YES,Mobile,22539.2
+C-10895,M,Women's Shoes,293.125,YES,Email,29312.5
+C-10899,M,Men's Sportswear,127.214,YES,Email,12721.4
+C-10901,M,Men's Career,340.689,YES,Mobile,34068.9
+C-10902,F,Home goods,168.537,NO,Mobile,16853.7
+C-10903,M,Women's Sportwear,189.32,YES,Mobile,18932
+C-10905,F,Women's Career,409.484,NO,Mobile,40948.4
+C-10909,M,Women's Shoes,308.594,NO,Mobile,30859.4
+C-10910,F,Men's Casual,434.371,YES,Email,43437.1
+C-10911,F,Women's Shoes,347.134,NO,Mobile,34713.4
+C-10913,M,Men's Sportswear,230.974,NO,Direct Mail,23097.4
+C-10916,F,Men's Career,377.352,NO,Direct Mail,37735.2
+C-10917,M,Home goods,304.099,YES,Direct Mail,30409.9
+C-10919,M,Women's Sportwear,213.634,NO,Email,21363.4
+C-10920,F,Women's Career,490.675,NO,Direct Mail,49067.5
+C-10921,M,Women's Shoes,396.015,YES,Mobile,39601.5
+C-10923,M,Men's Casual,472.341,NO,Mobile,47234.1
+C-10924,M,Women's Shoes,416.462,YES,Mobile,41646.2
+C-10925,F,Men's Sportswear,188.207,NO,Mobile,18820.7
+C-10928,F,Men's Career,269.621,NO,Direct Mail,26962.1
+C-10933,F,Home goods,360.742,NO,Email,36074.2
+C-10935,M,Women's Sportwear,462.79,NO,Email,46279
+C-10936,F,Women's Career,204.889,YES,Mobile,20488.9
+C-10940,M,Women's Shoes,165.348,NO,Email,16534.8
+C-10942,M,Men's Casual,104.971,NO,Mobile,10497.1
+C-10943,F,Women's Shoes,100.844,NO,Direct Mail,10084.4
+C-10948,F,Men's Sportswear,167.073,YES,Mobile,16707.3
+C-10949,F,Men's Career,215.804,NO,Mobile,21580.4
+C-10950,M,Home goods,329.521,NO,Direct Mail,32952.1
+C-10952,F,Women's Sportwear,134.226,YES,Email,13422.6
+C-10953,F,Women's Career,401.01,YES,Mobile,40101
+C-10954,M,Women's Shoes,204.104,NO,Mobile,20410.4
+C-10955,F,Men's Casual,498.863,NO,Email,49886.3
+C-10957,F,Women's Shoes,124.227,YES,Mobile,12422.7
+C-10959,M,Men's Sportswear,353.369,NO,Mobile,35336.9
+C-10961,M,Men's Career,310.65,YES,Mobile,31065
+C-10964,F,Home goods,171.837,YES,Direct Mail,17183.7
+C-10965,M,Women's Sportwear,284.132,YES,Direct Mail,28413.2
+C-10967,M,Women's Career,112.731,NO,Mobile,11273.1
+C-10969,M,Women's Shoes,119.099,NO,Direct Mail,11909.9
+C-10970,F,Men's Casual,148.697,NO,Email,14869.7
+C-10971,F,Women's Shoes,364.736,YES,Email,36473.6
+C-10976,M,Men's Sportswear,291.981,YES,Mobile,29198.1
+C-10977,F,Men's Career,439.948,YES,Direct Mail,43994.8
+C-10978,M,Home goods,139.759,NO,Direct Mail,13975.9
+C-10979,M,Women's Sportwear,195.378,YES,Mobile,19537.8
+C-10980,F,Women's Career,247.818,YES,Mobile,24781.8
+C-10983,F,Women's Shoes,372.746,NO,Direct Mail,37274.6
+C-10984,M,Men's Casual,460.621,NO,Email,46062.1
+C-10988,M,Women's Shoes,139.726,NO,Email,13972.6
+C-10990,M,Men's Sportswear,116.576,NO,Email,11657.6
+C-10992,F,Men's Career,346.469,NO,Mobile,34646.9
+C-10996,F,Home goods,187.964,YES,Email,18796.4
+C-11002,F,Women's Sportwear,158.755,NO,Email,15875.5
+C-11003,F,Women's Career,448.521,YES,Mobile,44852.1
+C-11005,F,Women's Shoes,156.201,NO,Email,15620.1
+C-11007,M,Men's Casual,246.1,NO,Mobile,24610
+C-11009,M,Women's Shoes,184.421,YES,Direct Mail,18442.1
+C-11010,F,Men's Sportswear,400.147,YES,Mobile,40014.7
+C-11011,F,Men's Career,478.128,NO,Email,47812.8
+C-11012,F,Home goods,209.057,YES,Mobile,20905.7
+C-11014,M,Women's Sportwear,208.675,YES,Mobile,20867.5
+C-11015,M,Women's Career,108.367,YES,Email,10836.7
+C-11017,M,Women's Shoes,124.456,NO,Mobile,12445.6
+C-11018,M,Men's Casual,112.921,NO,Direct Mail,11292.1
+C-11021,M,Women's Shoes,108.645,YES,Mobile,10864.5
+C-11023,M,Men's Sportswear,432.178,NO,Mobile,43217.8
+C-11025,F,Men's Career,170.04,YES,Email,17004
+C-11026,M,Home goods,427.334,YES,Mobile,42733.4
+C-11028,F,Women's Sportwear,435.884,YES,Email,43588.4
+C-11031,F,Women's Career,297.579,YES,Email,29757.9
+C-11032,M,Women's Shoes,253.732,YES,Mobile,25373.2
+C-11033,F,Men's Casual,186.381,NO,Direct Mail,18638.1
+C-11034,F,Women's Shoes,334.975,YES,Mobile,33497.5
+C-11035,M,Men's Sportswear,463.814,NO,Mobile,46381.4
+C-11036,M,Men's Career,160.295,YES,Mobile,16029.5
+C-11037,F,Home goods,165.846,YES,Email,16584.6
+C-11038,M,Women's Sportwear,362.168,NO,Mobile,36216.8
+C-11044,F,Women's Career,116.818,NO,Mobile,11681.8
+C-11045,F,Women's Sportwear,231.67,NO,Email,23167
+C-11046,F,Women's Career,184.412,NO,Direct Mail,18441.2
+C-11047,M,Women's Shoes,421.336,YES,Email,42133.6
+C-11049,M,Men's Casual,383.992,NO,Direct Mail,38399.2
+C-11051,M,Women's Shoes,286.205,NO,Email,28620.5
+C-11052,F,Men's Sportswear,247.427,NO,Email,24742.7
+C-11054,M,Men's Career,223.741,NO,Mobile,22374.1
+C-11056,M,Home goods,395.627,NO,Mobile,39562.7
+C-11059,F,Women's Sportwear,304.335,YES,Mobile,30433.5
+C-11061,M,Women's Career,267.182,NO,Mobile,26718.2
+C-11063,F,Women's Shoes,258.123,NO,Mobile,25812.3
+C-11064,M,Men's Casual,415.652,NO,Mobile,41565.2
+C-11065,M,Women's Shoes,114.931,YES,Mobile,11493.1
+C-11068,M,Men's Sportswear,256.66,YES,Email,25666
+C-11069,F,Men's Career,242.569,NO,Mobile,24256.9
+C-11071,F,Home goods,430.07,YES,Direct Mail,43007
+C-11072,M,Women's Sportwear,474.76,NO,Mobile,47476
+C-11075,F,Women's Career,214.266,NO,Email,21426.6
+C-11076,M,Women's Shoes,208.234,NO,Direct Mail,20823.4
+C-11077,F,Men's Casual,129.942,YES,Mobile,12994.2
+C-11081,F,Women's Shoes,239.797,NO,Direct Mail,23979.7
+C-11082,M,Men's Sportswear,190.629,NO,Email,19062.9
+C-11083,M,Men's Career,468.411,NO,Mobile,46841.1
+C-11086,M,Home goods,306.545,NO,Email,30654.5
+C-11087,M,Women's Sportwear,183.222,YES,Email,18322.2
+C-11088,M,Women's Career,225.496,YES,Direct Mail,22549.6
+C-11092,F,Women's Shoes,213.574,NO,Mobile,21357.4
+C-11094,M,Men's Casual,472.705,NO,Mobile,47270.5
+C-11096,M,Women's Shoes,248.952,YES,Mobile,24895.2
+C-11100,F,Men's Sportswear,340.379,NO,Direct Mail,34037.9
+C-11102,M,Men's Career,331.864,YES,Email,33186.4
+C-11103,M,Home goods,295.005,NO,Email,29500.5
+C-11105,M,Women's Sportwear,118.488,NO,Email,11848.8
+C-11108,M,Women's Career,297.839,YES,Mobile,29783.9
+C-11110,F,Women's Shoes,368.045,NO,Mobile,36804.5
+C-11111,M,Men's Casual,475.451,YES,Mobile,47545.1
+C-11116,M,Women's Shoes,200.766,NO,Direct Mail,20076.6
+C-11117,F,Men's Sportswear,478.98,YES,Mobile,47898
+C-11118,F,Men's Career,491.791,NO,Direct Mail,49179.1
+C-11119,M,Home goods,492.505,YES,Mobile,49250.5
+C-11121,M,Women's Sportwear,345.206,NO,Mobile,34520.6
+C-11123,F,Women's Career,157.511,NO,Email,15751.1
+C-11126,M,Women's Shoes,433.344,YES,Mobile,43334.4
+C-11129,M,Men's Casual,185.153,YES,Direct Mail,18515.3
+C-11130,F,Women's Shoes,130.883,NO,Direct Mail,13088.3
+C-11131,F,Men's Sportswear,224.563,NO,Mobile,22456.3
+C-11133,M,Men's Career,169.606,NO,Direct Mail,16960.6
+C-11134,F,Home goods,288.307,NO,Mobile,28830.7
+C-11138,M,Women's Sportwear,253.568,YES,Mobile,25356.8
+C-11142,F,Women's Career,112.168,NO,Email,11216.8
+C-11146,M,Women's Shoes,410.628,YES,Email,41062.8
+C-11147,M,Men's Casual,189.1,YES,Email,18910
+C-11149,F,Women's Shoes,151.803,YES,Direct Mail,15180.3
+C-11151,F,Men's Sportswear,408.875,YES,Mobile,40887.5
+C-11153,F,Men's Career,280.822,NO,Email,28082.2
+C-11156,M,Home goods,419.003,YES,Direct Mail,41900.3
+C-11158,F,Women's Sportwear,433.446,NO,Mobile,43344.6
+C-11159,F,Women's Career,441.263,YES,Email,44126.3
+C-11162,F,Women's Shoes,276.473,NO,Mobile,27647.3
+C-11164,M,Men's Casual,483.546,NO,Direct Mail,48354.6
+C-11166,M,Women's Shoes,375.076,YES,Mobile,37507.6
+C-11168,F,Men's Sportswear,460.629,NO,Mobile,46062.9
+C-11170,M,Men's Career,423.719,YES,Mobile,42371.9
+C-11172,M,Home goods,207.035,YES,Email,20703.5
+C-11173,F,Women's Sportwear,259.133,NO,Mobile,25913.3
+C-11175,F,Women's Career,123.961,YES,Email,12396.1
+C-11177,F,Women's Shoes,453.326,YES,Email,45332.6
+C-11178,F,Men's Casual,429.427,YES,Mobile,42942.7
+C-11179,M,Women's Shoes,301.201,YES,Mobile,30120.1
+C-11180,M,Men's Sportswear,131.243,YES,Direct Mail,13124.3
+C-11182,F,Men's Career,374.002,YES,Mobile,37400.2
+C-11183,M,Home goods,140.502,YES,Mobile,14050.2
+C-11184,M,Women's Sportwear,317.561,YES,Mobile,31756.1
+C-11189,F,Women's Career,319.051,YES,Mobile,31905.1
+C-11190,F,Women's Shoes,219.571,YES,Direct Mail,21957.1
+C-11192,F,Men's Casual,408.684,YES,Email,40868.4
+C-11193,M,Women's Shoes,172.856,YES,Email,17285.6
+C-11194,F,Men's Sportswear,382.586,YES,Mobile,38258.6
+C-11195,M,Men's Career,132.577,NO,Mobile,13257.7
+C-11196,F,Home goods,157.945,NO,Mobile,15794.5
+C-11197,M,Women's Sportwear,429.349,NO,Email,42934.9
+C-11198,M,Women's Career,212.654,NO,Email,21265.4
+C-11200,M,Women's Shoes,262.117,YES,Mobile,26211.7
+C-11201,F,Men's Casual,184.71,YES,Mobile,18471
+C-11203,M,Women's Shoes,172.076,YES,Mobile,17207.6
+C-11204,M,Men's Sportswear,463,NO,Email,46300
+C-11205,F,Men's Career,208.372,YES,Mobile,20837.2
+C-11206,F,Home goods,230.249,YES,Mobile,23024.9
+C-11207,M,Women's Sportwear,366.913,NO,Direct Mail,36691.3
+C-11209,F,Women's Career,352.522,YES,Mobile,35252.2
+C-11211,M,Women's Shoes,226.799,NO,Direct Mail,22679.9
+C-11214,M,Men's Casual,440.704,NO,Email,44070.4
+C-11218,M,Women's Shoes,340.079,NO,Mobile,34007.9
+C-11219,M,Men's Sportswear,256.014,NO,Email,25601.4
+C-11220,F,Men's Career,171.59,NO,Direct Mail,17159
+C-11221,F,Home goods,464.065,YES,Mobile,46406.5
+C-11222,M,Women's Sportwear,151.33,YES,Email,15133
+C-11225,M,Women's Career,284.931,YES,Mobile,28493.1
+C-11226,F,Women's Shoes,280.198,NO,Mobile,28019.8
+C-11228,F,Men's Casual,367.54,NO,Email,36754
+C-11230,F,Women's Shoes,260.61,YES,Email,26061
+C-11231,F,Men's Sportswear,356.361,YES,Email,35636.1
+C-11232,F,Men's Career,276.682,NO,Mobile,27668.2
+C-11234,M,Home goods,410.697,YES,Email,41069.7
+C-11239,F,Women's Sportwear,304.989,NO,Direct Mail,30498.9
+C-11242,M,Women's Career,461.326,YES,Email,46132.6
+C-11243,F,Women's Shoes,197.255,YES,Direct Mail,19725.5
+C-11245,M,Men's Casual,228.296,NO,Email,22829.6
+C-11246,F,Women's Shoes,468.845,NO,Email,46884.5
+C-11248,M,Men's Sportswear,224.622,NO,Mobile,22462.2
+C-11249,M,Men's Career,388.52,YES,Email,38852
+C-11250,M,Home goods,431.101,YES,Email,43110.1
+C-11251,F,Women's Sportwear,481.146,NO,Email,48114.6
+C-11253,M,Women's Career,247.74,YES,Mobile,24774
+C-11255,F,Women's Shoes,230.34,YES,Mobile,23034
+C-11258,F,Men's Casual,433.975,YES,Mobile,43397.5
+C-11261,F,Women's Shoes,270.835,YES,Direct Mail,27083.5
+C-11262,M,Men's Sportswear,353.104,NO,Mobile,35310.4
+C-11263,F,Men's Career,455.905,NO,Mobile,45590.5
+C-11267,M,Home goods,148.671,YES,Mobile,14867.1
+C-11269,M,Women's Sportwear,274.8,YES,Mobile,27480
+C-11270,M,Women's Career,173.132,NO,Email,17313.2
+C-11271,M,Women's Shoes,287.408,YES,Email,28740.8
+C-11273,M,Men's Casual,407.653,YES,Mobile,40765.3
+C-11275,M,Women's Shoes,241.621,YES,Direct Mail,24162.1
+C-11278,M,Men's Sportswear,440.797,YES,Email,44079.7
+C-11279,M,Men's Career,213.284,YES,Mobile,21328.4
+C-11280,F,Home goods,294.205,YES,Direct Mail,29420.5
+C-11281,M,Women's Sportwear,467.916,YES,Mobile,46791.6
+C-11282,M,Women's Career,319.036,NO,Mobile,31903.6
+C-11285,M,Women's Shoes,236.325,YES,Mobile,23632.5
+C-11287,F,Men's Casual,356.412,NO,Email,35641.2
+C-11289,F,Women's Shoes,242.582,NO,Email,24258.2
+C-11290,F,Men's Sportswear,191.763,NO,Email,19176.3
+C-11291,F,Men's Career,327.941,NO,Email,32794.1
+C-11296,M,Home goods,246.694,YES,Email,24669.4
+C-11297,F,Women's Sportwear,124.807,NO,Email,12480.7
+C-11300,F,Women's Career,182.962,YES,Direct Mail,18296.2
+C-11302,M,Women's Shoes,216.406,NO,Mobile,21640.6
+C-11304,F,Men's Casual,192.175,YES,Mobile,19217.5
+C-11309,F,Women's Shoes,269.729,NO,Mobile,26972.9
+C-11310,F,Men's Sportswear,438.689,YES,Mobile,43868.9
+C-11314,M,Men's Career,432.528,NO,Email,43252.8
+C-11316,F,Home goods,174.561,NO,Direct Mail,17456.1
+C-11318,M,Women's Sportwear,200.58,YES,Mobile,20058
+C-11319,F,Women's Career,298.812,NO,Mobile,29881.2
+C-11322,M,Women's Shoes,115.295,YES,Direct Mail,11529.5
+C-11324,F,Men's Casual,263.646,YES,Mobile,26364.6
+C-11325,M,Women's Shoes,498.042,YES,Email,49804.2
+C-11326,F,Men's Sportswear,495.666,NO,Email,49566.6
+C-11328,F,Men's Career,268.28,NO,Mobile,26828
+C-11329,F,Home goods,382.775,NO,Mobile,38277.5
+C-11333,M,Women's Sportwear,480.396,NO,Email,48039.6
+C-11337,M,Women's Career,397.012,NO,Mobile,39701.2
+C-11338,F,Women's Shoes,446.825,NO,Mobile,44682.5
+C-11339,F,Men's Casual,472.099,YES,Email,47209.9
+C-11342,M,Women's Shoes,417.778,NO,Mobile,41777.8
+C-11343,F,Men's Sportswear,360.895,YES,Mobile,36089.5
+C-11346,M,Men's Career,323.073,YES,Mobile,32307.3
+C-11350,M,Home goods,479.564,YES,Direct Mail,47956.4
+C-11351,F,Women's Sportwear,395.687,NO,Mobile,39568.7
+C-11352,F,Women's Career,262.23,NO,Direct Mail,26223
+C-11354,F,Women's Shoes,390.228,YES,Mobile,39022.8
+C-11359,F,Men's Casual,387.433,NO,Direct Mail,38743.3
+C-11361,M,Women's Shoes,123.519,YES,Mobile,12351.9
+C-11362,F,Men's Sportswear,363.388,NO,Mobile,36338.8
+C-11365,M,Men's Career,406.114,YES,Email,40611.4
+C-11366,F,Home goods,240.284,YES,Email,24028.4
+C-11367,M,Women's Sportwear,213.607,YES,Direct Mail,21360.7
+C-11368,M,Women's Career,256.03,NO,Email,25603
+C-11369,F,Women's Shoes,248.043,YES,Mobile,24804.3
+C-11370,F,Men's Casual,257.388,YES,Mobile,25738.8
+C-11373,M,Women's Shoes,334.191,YES,Email,33419.1
+C-11374,F,Men's Sportswear,459.019,NO,Direct Mail,45901.9
+C-11379,M,Men's Career,291.147,YES,Direct Mail,29114.7
+C-11381,M,Home goods,412.905,NO,Direct Mail,41290.5
+C-11383,M,Women's Sportwear,402.238,YES,Email,40223.8
+C-11385,M,Women's Career,106.842,YES,Email,10684.2
+C-11386,F,Women's Shoes,439.612,NO,Mobile,43961.2
+C-11389,F,Men's Casual,464.275,NO,Direct Mail,46427.5
+C-11391,M,Women's Shoes,183.863,YES,Email,18386.3
+C-11393,M,Men's Sportswear,354.566,NO,Email,35456.6
+C-11394,M,Men's Career,446.318,NO,Mobile,44631.8
+C-11395,M,Home goods,209.389,YES,Mobile,20938.9
+C-11396,F,Women's Sportwear,391.493,YES,Direct Mail,39149.3
+C-11397,M,Women's Career,177.18,NO,Mobile,17718
+C-11399,F,Women's Shoes,248.076,NO,Direct Mail,24807.6
+C-11401,M,Men's Casual,187.703,NO,Direct Mail,18770.3
+C-11402,F,Women's Shoes,241.036,NO,Email,24103.6
+C-11404,F,Men's Sportswear,431.953,NO,Mobile,43195.3
+C-11405,F,Men's Career,126.155,YES,Mobile,12615.5
+C-11406,M,Home goods,261.937,NO,Mobile,26193.7
+C-11408,F,Women's Sportwear,382.919,YES,Mobile,38291.9
+C-11409,F,Women's Career,108.55,YES,Direct Mail,10855
+C-11411,F,Women's Shoes,275.05,YES,Direct Mail,27505
+C-11412,M,Men's Casual,161.359,NO,Mobile,16135.9
+C-11414,M,Women's Shoes,486.573,NO,Email,48657.3
+C-11415,M,Men's Sportswear,180.642,NO,Email,18064.2
+C-11416,F,Men's Career,122.038,NO,Mobile,12203.8
+C-11418,M,Home goods,192.276,YES,Email,19227.6
+C-11419,M,Women's Sportwear,312.017,NO,Email,31201.7
+C-11420,M,Women's Career,181.721,YES,Mobile,18172.1
+C-11422,M,Women's Shoes,149.206,YES,Mobile,14920.6
+C-11427,F,Men's Casual,408.109,YES,Email,40810.9
+C-11428,F,Women's Shoes,465.449,YES,Email,46544.9
+C-11431,M,Men's Sportswear,400.432,YES,Mobile,40043.2
+C-11435,F,Men's Career,316.988,YES,Direct Mail,31698.8
+C-11437,F,Home goods,335.207,YES,Email,33520.7
+C-11440,F,Women's Sportwear,481.999,NO,Direct Mail,48199.9
+C-11444,M,Women's Career,311.958,YES,Email,31195.8
+C-11445,M,Women's Shoes,294.406,NO,Email,29440.6
+C-11450,M,Men's Casual,236.473,NO,Email,23647.3
+C-11451,M,Women's Shoes,374.77,NO,Email,37477
+C-11452,M,Men's Sportswear,263.763,YES,Mobile,26376.3
+C-11453,F,Men's Career,171.606,NO,Mobile,17160.6
+C-11454,F,Home goods,275.548,NO,Mobile,27554.8
+C-11455,F,Women's Sportwear,434.2,YES,Email,43420
+C-11456,M,Women's Career,177.878,YES,Mobile,17787.8
+C-11459,F,Women's Shoes,445.139,YES,Direct Mail,44513.9
+C-11462,M,Men's Casual,151.186,YES,Mobile,15118.6
+C-11463,M,Women's Shoes,364.903,NO,Direct Mail,36490.3
+C-11464,M,Men's Sportswear,424.066,NO,Mobile,42406.6
+C-11466,M,Men's Career,161.584,NO,Mobile,16158.4
+C-11468,F,Home goods,412.514,YES,Mobile,41251.4
+C-11469,F,Women's Sportwear,165.851,YES,Mobile,16585.1
+C-11470,F,Women's Career,255.922,NO,Email,25592.2
+C-11471,F,Women's Shoes,311.795,NO,Direct Mail,31179.5
+C-11472,M,Men's Casual,261.124,NO,Mobile,26112.4
+C-11475,M,Women's Shoes,361.337,NO,Mobile,36133.7
+C-11478,M,Men's Sportswear,338.901,NO,Direct Mail,33890.1
+C-11479,M,Men's Career,221.877,NO,Mobile,22187.7
+C-11482,F,Home goods,243.642,YES,Email,24364.2
+C-11484,F,Women's Sportwear,221.969,YES,Mobile,22196.9
+C-11487,M,Women's Career,467.096,NO,Direct Mail,46709.6
+C-11492,F,Women's Shoes,339.481,YES,Email,33948.1
+C-11493,F,Men's Casual,449.825,NO,Email,44982.5
+C-11495,M,Women's Shoes,277.087,NO,Email,27708.7
+C-11496,M,Men's Sportswear,492.205,YES,Email,49220.5
+C-11498,M,Men's Career,166.528,NO,Mobile,16652.8
+C-11499,M,Home goods,487.559,YES,Mobile,48755.9
+C-11500,F,Women's Sportwear,467.188,YES,Email,46718.8
+C-11502,F,Women's Career,104.023,YES,Direct Mail,10402.3
+C-11504,F,Women's Shoes,347.506,YES,Mobile,34750.6
+C-11506,F,Men's Casual,326.006,NO,Email,32600.6
+C-11507,M,Women's Shoes,267.967,YES,Email,26796.7
+C-11509,F,Men's Sportswear,398.343,NO,Email,39834.3
+C-11510,M,Men's Career,318.546,NO,Email,31854.6
+C-11511,M,Home goods,139.755,NO,Mobile,13975.5
+C-11516,M,Women's Sportwear,449.981,NO,Email,44998.1
+C-11517,M,Women's Career,182.815,NO,Email,18281.5
+C-11518,M,Women's Shoes,205.746,NO,Mobile,20574.6
+C-11522,M,Men's Casual,174.934,NO,Mobile,17493.4
+C-11523,F,Women's Shoes,123.794,YES,Mobile,12379.4
+C-11525,F,Men's Sportswear,257.551,YES,Email,25755.1
+C-11527,F,Men's Career,140.896,YES,Mobile,14089.6
+C-11529,M,Home goods,375.927,NO,Mobile,37592.7
+C-11531,F,Women's Sportwear,305.207,NO,Email,30520.7
+C-11533,F,Women's Career,190.756,NO,Email,19075.6
+C-11536,M,Women's Shoes,327.653,YES,Email,32765.3
+C-11540,M,Men's Casual,100.726,NO,Email,10072.6
+C-11541,F,Women's Shoes,125.105,NO,Mobile,12510.5
+C-11545,M,Men's Sportswear,162.099,YES,Mobile,16209.9
+C-11547,F,Men's Career,394.701,YES,Mobile,39470.1
+C-11548,F,Home goods,409.457,YES,Email,40945.7
+C-11549,M,Women's Sportwear,387.874,NO,Mobile,38787.4
+C-11551,F,Women's Career,241.955,NO,Direct Mail,24195.5
+C-11556,F,Women's Shoes,412.805,NO,Mobile,41280.5
+C-11557,M,Men's Casual,338.601,YES,Mobile,33860.1
+C-11558,F,Women's Shoes,344.744,YES,Direct Mail,34474.4
+C-11559,F,Men's Sportswear,493.472,NO,Mobile,49347.2
+C-11562,M,Men's Career,372.656,NO,Mobile,37265.6
+C-11563,M,Home goods,490.631,YES,Mobile,49063.1
+C-11565,F,Women's Sportwear,323.863,NO,Email,32386.3
+C-11566,M,Women's Career,391,YES,Mobile,39100
+C-11568,M,Women's Shoes,330.487,YES,Direct Mail,33048.7
+C-11571,M,Men's Casual,290.087,YES,Email,29008.7
+C-11572,F,Women's Shoes,382.007,NO,Mobile,38200.7
+C-11576,M,Men's Sportswear,200.102,NO,Email,20010.2
+C-11579,F,Men's Career,351.138,YES,Direct Mail,35113.8
+C-11581,F,Home goods,482.053,YES,Mobile,48205.3
+C-11583,M,Women's Sportwear,297.183,YES,Direct Mail,29718.3
+C-11584,M,Women's Career,438.679,NO,Email,43867.9
+C-11586,F,Women's Shoes,138.218,YES,Mobile,13821.8
+C-11589,F,Men's Casual,163.794,YES,Mobile,16379.4
+C-11590,F,Women's Shoes,435.423,YES,Email,43542.3
+C-11593,M,Men's Sportswear,297.398,YES,Mobile,29739.8
+C-11596,M,Men's Career,279.826,YES,Mobile,27982.6
+C-11598,F,Home goods,278.603,NO,Direct Mail,27860.3
+C-11600,M,Women's Sportwear,371.075,NO,Email,37107.5
+C-11601,F,Women's Career,385.516,YES,Mobile,38551.6
+C-11605,M,Women's Shoes,227.651,YES,Mobile,22765.1
+C-11606,F,Men's Casual,351.619,YES,Email,35161.9
+C-11607,M,Women's Shoes,373.032,NO,Email,37303.2
+C-11609,M,Men's Sportswear,218.933,NO,Direct Mail,21893.3
+C-11611,F,Men's Career,358.777,NO,Mobile,35877.7
+C-11613,F,Home goods,305.01,NO,Email,30501
+C-11616,M,Women's Sportwear,136.852,YES,Mobile,13685.2
+C-11618,M,Women's Career,377.746,NO,Mobile,37774.6
+C-11622,M,Women's Shoes,265.31,YES,Direct Mail,26531
+C-11623,M,Men's Casual,135.356,YES,Mobile,13535.6
+C-11626,M,Women's Shoes,405.415,YES,Email,40541.5
+C-11627,M,Men's Sportswear,143.525,NO,Email,14352.5
+C-11629,F,Men's Career,420.572,YES,Email,42057.2
+C-11630,M,Home goods,475.807,YES,Direct Mail,47580.7
+C-11631,F,Women's Sportwear,329.802,NO,Email,32980.2
+C-11632,F,Women's Career,448.626,NO,Mobile,44862.6
+C-11634,M,Women's Shoes,195.788,NO,Email,19578.8
+C-11635,F,Men's Casual,466.62,YES,Direct Mail,46662
+C-11639,F,Women's Shoes,262.052,NO,Direct Mail,26205.2
+C-11643,F,Men's Sportswear,145.031,YES,Mobile,14503.1
+C-11644,F,Men's Career,349.178,NO,Direct Mail,34917.8
+C-11645,M,Home goods,344.264,YES,Direct Mail,34426.4
+C-11649,F,Women's Sportwear,411.354,NO,Mobile,41135.4
+C-11656,F,Women's Career,494.212,YES,Email,49421.2
+C-11659,M,Women's Shoes,190.425,NO,Email,19042.5
+C-11660,M,Men's Casual,376.643,NO,Email,37664.3
+C-11664,F,Women's Shoes,255.805,NO,Email,25580.5
+C-11665,M,Men's Sportswear,150.174,NO,Direct Mail,15017.4
+C-11666,M,Men's Career,192.051,YES,Mobile,19205.1
+C-11668,F,Home goods,291.647,NO,Email,29164.7
+C-11670,M,Women's Sportwear,254.476,YES,Email,25447.6
+C-11673,M,Women's Career,219.79,YES,Email,21979
+C-11675,M,Women's Shoes,330.381,NO,Email,33038.1
+C-11676,M,Men's Casual,116.56,YES,Mobile,11656
+C-11680,M,Women's Shoes,277.47,NO,Mobile,27747
+C-11682,M,Men's Sportswear,236.457,NO,Email,23645.7
+C-11684,F,Men's Career,495.42,YES,Email,49542
+C-11686,F,Home goods,283.283,YES,Direct Mail,28328.3
+C-11689,M,Women's Sportwear,425.797,NO,Mobile,42579.7
+C-11690,M,Women's Career,396.933,NO,Mobile,39693.3
+C-11691,F,Women's Shoes,275.034,NO,Direct Mail,27503.4
+C-11695,F,Men's Casual,242.185,NO,Email,24218.5
+C-11698,M,Women's Shoes,400.922,NO,Email,40092.2
+C-11700,F,Men's Sportswear,195.891,NO,Mobile,19589.1
+C-11706,M,Men's Career,490.56,NO,Direct Mail,49056
+C-11707,M,Home goods,322.881,NO,Mobile,32288.1
+C-11712,M,Women's Sportwear,223.496,NO,Mobile,22349.6
+C-11713,F,Women's Career,385.706,YES,Email,38570.6
+C-11715,M,Women's Shoes,275.586,NO,Mobile,27558.6
+C-11717,F,Men's Casual,411.357,NO,Email,41135.7
+C-11718,M,Women's Shoes,133.662,YES,Mobile,13366.2
+C-11722,F,Men's Sportswear,494.836,NO,Direct Mail,49483.6
+C-11723,M,Men's Career,386.381,YES,Email,38638.1
+C-11724,F,Home goods,243.927,YES,Email,24392.7
+C-11725,F,Women's Sportwear,178.494,YES,Direct Mail,17849.4
+C-11729,F,Women's Career,271.358,YES,Email,27135.8
+C-11731,F,Women's Shoes,457.7,YES,Mobile,45770
+C-11732,F,Men's Casual,465.812,YES,Mobile,46581.2
+C-11734,F,Women's Shoes,209.334,NO,Direct Mail,20933.4
+C-11735,M,Men's Sportswear,260.39,YES,Mobile,26039
+C-11736,F,Men's Career,234.978,NO,Email,23497.8
+C-11737,M,Home goods,236.343,YES,Email,23634.3
+C-11739,M,Women's Sportwear,222.416,YES,Mobile,22241.6
+C-11750,F,Women's Career,139.837,NO,Mobile,13983.7
+C-11753,F,Women's Shoes,197.256,YES,Mobile,19725.6
+C-11756,F,Men's Casual,129.531,YES,Direct Mail,12953.1
+C-11760,M,Women's Shoes,319.126,YES,Email,31912.6
+C-11761,M,Men's Sportswear,101.17,YES,Email,10117
+C-11762,F,Men's Career,380.608,NO,Direct Mail,38060.8
+C-11763,F,Home goods,140.777,YES,Mobile,14077.7
+C-11764,F,Women's Sportwear,306.867,YES,Mobile,30686.7
+C-11768,M,Women's Career,328.441,YES,Mobile,32844.1
+C-11769,F,Women's Shoes,407.113,YES,Direct Mail,40711.3
+C-11770,M,Men's Casual,368.276,NO,Email,36827.6
+C-11771,M,Women's Shoes,119.406,NO,Direct Mail,11940.6
+C-11772,M,Men's Sportswear,188.338,YES,Email,18833.8
+C-11775,F,Men's Career,342.302,NO,Direct Mail,34230.2
+C-11776,F,Home goods,374.335,NO,Direct Mail,37433.5
+C-11777,F,Women's Sportwear,256.375,YES,Mobile,25637.5
+C-11779,M,Women's Career,428.928,NO,Email,42892.8
+C-11781,M,Women's Shoes,114.418,NO,Direct Mail,11441.8
+C-11784,M,Men's Casual,184.9,YES,Email,18490
+C-11785,F,Women's Shoes,132.185,YES,Email,13218.5
+C-11786,F,Men's Sportswear,460.157,YES,Email,46015.7
+C-11787,F,Men's Career,403.384,YES,Email,40338.4
+C-11790,F,Home goods,243.813,NO,Direct Mail,24381.3
+C-11791,M,Women's Sportwear,496.018,YES,Email,49601.8
+C-11792,F,Women's Career,259.767,YES,Mobile,25976.7
+C-11793,M,Women's Shoes,463.67,YES,Mobile,46367
+C-11794,F,Men's Casual,188.473,NO,Email,18847.3
+C-11795,M,Women's Shoes,302.371,YES,Mobile,30237.1
+C-11797,F,Men's Sportswear,122.678,YES,Mobile,12267.8
+C-11800,F,Men's Career,181.207,NO,Email,18120.7
+C-11803,F,Home goods,302.881,YES,Email,30288.1
+C-11808,F,Women's Sportwear,489.554,YES,Mobile,48955.4
+C-11809,F,Women's Career,135.428,YES,Mobile,13542.8
+C-11812,F,Women's Shoes,365.954,NO,Mobile,36595.4
+C-11814,F,Men's Casual,123.374,NO,Mobile,12337.4
+C-11817,M,Women's Shoes,250.85,NO,Direct Mail,25085

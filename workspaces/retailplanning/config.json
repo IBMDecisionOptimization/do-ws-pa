@@ -1,0 +1,131 @@
+{
+    "name": "Retail Planning",
+    "description" : "Draft demo for Retail Planning with ML + DO + PA.",
+    "scenario": {
+      "config": {        
+        "$parameters": {
+          "tableId": "parameters"
+        },
+        "$scenario": {}
+      }
+    },
+    "pa": {
+      "description": "This is the original ibmtraining public PA credentials",
+      "authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
+      "url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
+      "accountId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "tenantId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "userId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "username": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "password": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "mapping": {
+        "versionDimensionName": "Version",
+        "allowInit": true,
+        "input": {
+          "version": "Baseline",
+          "dimensions": {
+          },
+          "cubes": {
+            "Customer": {
+              "name": "Customer",
+              "propertyDimensionName": "CustomerProperties",
+              "readVersion": false
+            },
+            "Offer": {
+              "name": "Offer",
+              "propertyDimensionName": "OfferProperties",
+              "readVersion": false
+            },
+            "Channel": {
+              "name": "Channel",
+              "propertyDimensionName": "ChannelProperties",
+              "readVersion": false
+            },
+            "Probability": {
+              "name": "Probability",
+              "valueColumnName": "Probability",
+              "readVersion": false,
+              "adddummy": true
+            }
+          }
+        },
+        "output": {
+          "version": "Baseline",
+          "cubes": {
+            "_rp_selected": {
+              "name": "selected",
+              "valueColumnName": "selected"       
+            }
+          },
+          "prefix": "rp_"
+        }
+      }
+    },
+    "ws": {
+      "type": "cloud",
+      "url": "https://dataplatform.cloud.ibm.com",
+      "apiurl": "https://api.dataplatform.cloud.ibm.com",
+      "apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+      "projectName": "PA3"
+    },
+    "flow": {
+      "action": {
+        "text": "FLOW"
+      },
+      "steps":
+      [ 
+        {
+          "type":"ml",
+          "mlkey": "ml-response"
+        },
+        {
+          "type":"do",
+          "dokey": "do"
+        }
+      ]
+    },
+    "do": {
+      "url": "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
+      "key": "xxxxxxxxxxxxxxxxxxxxxx",
+      "model": "model.py",
+      "preprocess" : "predo.js",
+      "action": {
+        "text": "SELECT"
+      }
+    },
+    "do-desktop": {
+      "type": "desktop",
+      "model": "model.py",
+      "preprocess" : "predo.js",
+      "action": {
+        "text": "SELECT"
+      }
+    },
+    "ml-response": {
+      "type": "wml",
+      "version": "v4",    
+      "url": "https://us-south.ml.cloud.ibm.com/v4/deployments/b78c37aa-57e6-40a3-8c47-73dd896752d0/predictions",
+      "apikey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "instance_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "preprocess" : "premlresponse.js",
+      "postprocess" : "postmlresponse.js",
+      "input": "inputmlresponse",
+      "fields":["Customer ID","Gender","Affinity","Annual Spend","Loyalty Program Member","Response Channel","CLV","Offer","Offername"],
+      "output": "response",
+      "outputId": "ID",
+      "cleanOutputTable" : true,
+      "nbOutputs" : 1,
+      "oneMoreLevelOutput": true,
+      "action": {
+        "text": "PREDICT RESPONSE",
+        "alertErrors": true
+      }
+    },    
+    "ui": {
+      "title": "Retail Planning",
+      "widgets": {
+        
+      },
+      "gridjs" : "grid.js"
+    }
+  }

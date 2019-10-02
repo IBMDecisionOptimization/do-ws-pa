@@ -1,0 +1,35 @@
+{
+  "Offer": {
+    "category": "input"
+  },
+  "Channel": {
+    "category": "input"
+  },
+  "kpis": {
+    "category": "output"
+  },
+  "parameters": {
+    "category": "input"
+  },
+  "selected": {
+    "category": "output"
+  },
+  "response": {
+    "category": "output"
+  },
+  "Candidate": {
+    "category": "input"
+  },
+  "Probability": {
+    "category": "input"
+  },
+  "OneRowParameters": {
+    "category": "input"
+  },
+  "Customer": {
+    "category": "input"
+  },
+  "inputmlresponse": {
+    "category": "output"
+  }
+}

@@ -1,0 +1,445 @@
+ID,Customer ID,Gender,Affinity,Annual Spend,Loyalty Program Member,Response Channel,CLV,Offer,Offername
+C-10162-O-9,C-10162,F,Men's Casual,236.883,NO,Mobile,23688.3,O-9,Save 20% Career Suits
+C-10164-O-12,C-10164,F,Men's Sportswear,464.867,NO,Mobile,46486.7,O-12,Womens Sweather Sale
+C-10173-O-5,C-10173,M,Women's Shoes,365.09,YES,Mobile,36509,O-5,Home Closeout & Lancome Gift with Purchase
+C-10173-O-10,C-10173,M,Women's Shoes,365.09,YES,Mobile,36509,O-10,Shoe and Handbag sale
+C-10173-O-12,C-10173,M,Women's Shoes,365.09,YES,Mobile,36509,O-12,Womens Sweather Sale
+C-10176-O-9,C-10176,F,Men's Career,103.736,NO,Email,10373.6,O-9,Save 20% Career Suits
+C-10180-O-2,C-10180,F,Women's Career,181.688,YES,Email,18168.8,O-2,Free shipping on orders over $49
+C-10198-O-6,C-10198,F,Women's Career,152.7,YES,Mobile,15270,O-6,Home Closeout & Shoe and Handbag sale
+C-10203-O-7,C-10203,M,Men's Casual,425.669,YES,Mobile,42566.9,O-7,Lancome Gift with Purchase
+C-10209-O-1,C-10209,F,Home goods,389.995,YES,Email,38999.5,O-1,Anastasia Beverly Hills
+C-10209-O-4,C-10209,F,Home goods,389.995,YES,Email,38999.5,O-4,Home Closeout
+C-10209-O-11,C-10209,F,Home goods,389.995,YES,Email,38999.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10212-O-2,C-10212,M,Women's Shoes,103.719,YES,Mobile,10371.9,O-2,Free shipping on orders over $49
+C-10214-O-6,C-10214,M,Men's Casual,291.748,YES,Direct Mail,29174.8,O-6,Home Closeout & Shoe and Handbag sale
+C-10214-O-12,C-10214,M,Men's Casual,291.748,YES,Direct Mail,29174.8,O-12,Womens Sweather Sale
+C-10219-O-2,C-10219,M,Women's Shoes,468.983,YES,Mobile,46898.3,O-2,Free shipping on orders over $49
+C-10222-O-8,C-10222,F,Home goods,385.113,YES,Direct Mail,38511.3,O-8,Loyalty Program Member
+C-10225-O-10,C-10225,M,Women's Sportwear,374.844,NO,Mobile,37484.4,O-10,Shoe and Handbag sale
+C-10229-O-2,C-10229,M,Women's Shoes,118.442,YES,Email,11844.2,O-2,Free shipping on orders over $49
+C-10229-O-3,C-10229,M,Women's Shoes,118.442,YES,Email,11844.2,O-3,Get $5 Cashback
+C-10229-O-9,C-10229,M,Women's Shoes,118.442,YES,Email,11844.2,O-9,Save 20% Career Suits
+C-10239-O-1,C-10239,M,Men's Career,195.369,NO,Email,19536.9,O-1,Anastasia Beverly Hills
+C-10254-O-11,C-10254,F,Men's Career,491.775,NO,Email,49177.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10254-O-12,C-10254,F,Men's Career,491.775,NO,Email,49177.5,O-12,Womens Sweather Sale
+C-10266-O-6,C-10266,M,Men's Sportswear,355.435,YES,Email,35543.5,O-6,Home Closeout & Shoe and Handbag sale
+C-10266-O-12,C-10266,M,Men's Sportswear,355.435,YES,Email,35543.5,O-12,Womens Sweather Sale
+C-10278-O-6,C-10278,M,Women's Career,312.009,NO,Email,31200.9,O-6,Home Closeout & Shoe and Handbag sale
+C-10281-O-6,C-10281,M,Women's Shoes,462.7,YES,Mobile,46270,O-6,Home Closeout & Shoe and Handbag sale
+C-10281-O-8,C-10281,M,Women's Shoes,462.7,YES,Mobile,46270,O-8,Loyalty Program Member
+C-10295-O-4,C-10295,M,Women's Sportwear,449.991,YES,Mobile,44999.1,O-4,Home Closeout
+C-10295-O-9,C-10295,M,Women's Sportwear,449.991,YES,Mobile,44999.1,O-9,Save 20% Career Suits
+C-10303-O-11,C-10303,M,Women's Shoes,476.595,NO,Direct Mail,47659.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10311-O-6,C-10311,M,Men's Sportswear,288.615,NO,Direct Mail,28861.5,O-6,Home Closeout & Shoe and Handbag sale
+C-10315-O-5,C-10315,F,Women's Sportwear,486.794,NO,Direct Mail,48679.4,O-5,Home Closeout & Lancome Gift with Purchase
+C-10315-O-7,C-10315,F,Women's Sportwear,486.794,NO,Direct Mail,48679.4,O-7,Lancome Gift with Purchase
+C-10318-O-12,C-10318,F,Men's Casual,254.945,NO,Direct Mail,25494.5,O-12,Womens Sweather Sale
+C-10330-O-4,C-10330,F,Women's Sportwear,163.704,YES,Mobile,16370.4,O-4,Home Closeout
+C-10330-O-9,C-10330,F,Women's Sportwear,163.704,YES,Mobile,16370.4,O-9,Save 20% Career Suits
+C-10332-O-7,C-10332,F,Women's Career,364.26,YES,Mobile,36426,O-7,Lancome Gift with Purchase
+C-10338-O-4,C-10338,F,Women's Shoes,395.248,NO,Email,39524.8,O-4,Home Closeout
+C-10338-O-12,C-10338,F,Women's Shoes,395.248,NO,Email,39524.8,O-12,Womens Sweather Sale
+C-10346-O-7,C-10346,F,Women's Sportwear,163.51,YES,Email,16351,O-7,Lancome Gift with Purchase
+C-10346-O-12,C-10346,F,Women's Sportwear,163.51,YES,Email,16351,O-12,Womens Sweather Sale
+C-10348-O-10,C-10348,M,Women's Career,100.07,YES,Direct Mail,10007,O-10,Shoe and Handbag sale
+C-10350-O-7,C-10350,F,Men's Casual,126.214,NO,Direct Mail,12621.4,O-7,Lancome Gift with Purchase
+C-10350-O-12,C-10350,F,Men's Casual,126.214,NO,Direct Mail,12621.4,O-12,Womens Sweather Sale
+C-10363-O-8,C-10363,M,Men's Career,228.535,NO,Direct Mail,22853.5,O-8,Loyalty Program Member
+C-10364-O-11,C-10364,M,Home goods,320.161,YES,Mobile,32016.1,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10380-O-7,C-10380,M,Women's Shoes,235.058,NO,Direct Mail,23505.8,O-7,Lancome Gift with Purchase
+C-10380-O-11,C-10380,M,Women's Shoes,235.058,NO,Direct Mail,23505.8,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10381-O-4,C-10381,F,Men's Sportswear,274.252,NO,Mobile,27425.2,O-4,Home Closeout
+C-10383-O-9,C-10383,F,Men's Career,250.338,YES,Direct Mail,25033.8,O-9,Save 20% Career Suits
+C-10383-O-10,C-10383,F,Men's Career,250.338,YES,Direct Mail,25033.8,O-10,Shoe and Handbag sale
+C-10398-O-12,C-10398,F,Men's Sportswear,144.497,YES,Mobile,14449.7,O-12,Womens Sweather Sale
+C-10401-O-1,C-10401,M,Men's Career,182.937,YES,Email,18293.7,O-1,Anastasia Beverly Hills
+C-10401-O-5,C-10401,M,Men's Career,182.937,YES,Email,18293.7,O-5,Home Closeout & Lancome Gift with Purchase
+C-10401-O-6,C-10401,M,Men's Career,182.937,YES,Email,18293.7,O-6,Home Closeout & Shoe and Handbag sale
+C-10408-O-3,C-10408,F,Men's Casual,134.218,YES,Mobile,13421.8,O-3,Get $5 Cashback
+C-10408-O-7,C-10408,F,Men's Casual,134.218,YES,Mobile,13421.8,O-7,Lancome Gift with Purchase
+C-10408-O-8,C-10408,F,Men's Casual,134.218,YES,Mobile,13421.8,O-8,Loyalty Program Member
+C-10410-O-3,C-10410,M,Women's Shoes,189.591,YES,Mobile,18959.1,O-3,Get $5 Cashback
+C-10410-O-5,C-10410,M,Women's Shoes,189.591,YES,Mobile,18959.1,O-5,Home Closeout & Lancome Gift with Purchase
+C-10412-O-12,C-10412,F,Men's Career,146.823,NO,Mobile,14682.3,O-12,Womens Sweather Sale
+C-10426-O-1,C-10426,F,Women's Shoes,297.785,NO,Mobile,29778.5,O-1,Anastasia Beverly Hills
+C-10426-O-2,C-10426,F,Women's Shoes,297.785,NO,Mobile,29778.5,O-2,Free shipping on orders over $49
+C-10426-O-4,C-10426,F,Women's Shoes,297.785,NO,Mobile,29778.5,O-4,Home Closeout
+C-10428-O-11,C-10428,M,Men's Career,388.491,YES,Email,38849.1,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10430-O-2,C-10430,F,Home goods,139.176,NO,Direct Mail,13917.6,O-2,Free shipping on orders over $49
+C-10430-O-4,C-10430,F,Home goods,139.176,NO,Direct Mail,13917.6,O-4,Home Closeout
+C-10430-O-7,C-10430,F,Home goods,139.176,NO,Direct Mail,13917.6,O-7,Lancome Gift with Purchase
+C-10435-O-4,C-10435,M,Women's Sportwear,317.001,YES,Direct Mail,31700.1,O-4,Home Closeout
+C-10446-O-5,C-10446,F,Home goods,208.812,YES,Mobile,20881.2,O-5,Home Closeout & Lancome Gift with Purchase
+C-10457-O-1,C-10457,M,Women's Shoes,303.916,YES,Email,30391.6,O-1,Anastasia Beverly Hills
+C-10457-O-2,C-10457,M,Women's Shoes,303.916,YES,Email,30391.6,O-2,Free shipping on orders over $49
+C-10457-O-10,C-10457,M,Women's Shoes,303.916,YES,Email,30391.6,O-10,Shoe and Handbag sale
+C-10457-O-12,C-10457,M,Women's Shoes,303.916,YES,Email,30391.6,O-12,Womens Sweather Sale
+C-10458-O-7,C-10458,F,Men's Casual,274.881,YES,Email,27488.1,O-7,Lancome Gift with Purchase
+C-10459-O-8,C-10459,M,Women's Shoes,318.011,NO,Email,31801.1,O-8,Loyalty Program Member
+C-10459-O-10,C-10459,M,Women's Shoes,318.011,NO,Email,31801.1,O-10,Shoe and Handbag sale
+C-10460-O-5,C-10460,M,Men's Sportswear,274.012,NO,Direct Mail,27401.2,O-5,Home Closeout & Lancome Gift with Purchase
+C-10470-O-5,C-10470,F,Home goods,183.878,YES,Mobile,18387.8,O-5,Home Closeout & Lancome Gift with Purchase
+C-10472-O-6,C-10472,M,Women's Career,205.285,YES,Mobile,20528.5,O-6,Home Closeout & Shoe and Handbag sale
+C-10477-O-6,C-10477,M,Men's Sportswear,178.916,NO,Email,17891.6,O-6,Home Closeout & Shoe and Handbag sale
+C-10485-O-6,C-10485,F,Women's Career,277.268,YES,Email,27726.8,O-6,Home Closeout & Shoe and Handbag sale
+C-10485-O-8,C-10485,F,Women's Career,277.268,YES,Email,27726.8,O-8,Loyalty Program Member
+C-10486-O-10,C-10486,M,Women's Shoes,146.112,YES,Mobile,14611.2,O-10,Shoe and Handbag sale
+C-10486-O-11,C-10486,M,Women's Shoes,146.112,YES,Mobile,14611.2,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10487-O-7,C-10487,F,Men's Casual,134.513,YES,Email,13451.3,O-7,Lancome Gift with Purchase
+C-10487-O-8,C-10487,F,Men's Casual,134.513,YES,Email,13451.3,O-8,Loyalty Program Member
+C-10488-O-6,C-10488,M,Women's Shoes,312.737,NO,Email,31273.7,O-6,Home Closeout & Shoe and Handbag sale
+C-10488-O-10,C-10488,M,Women's Shoes,312.737,NO,Email,31273.7,O-10,Shoe and Handbag sale
+C-10490-O-1,C-10490,F,Men's Sportswear,453.427,YES,Mobile,45342.7,O-1,Anastasia Beverly Hills
+C-10499-O-6,C-10499,F,Women's Shoes,294.585,NO,Email,29458.5,O-6,Home Closeout & Shoe and Handbag sale
+C-10506-O-2,C-10506,F,Men's Sportswear,205.744,YES,Direct Mail,20574.4,O-2,Free shipping on orders over $49
+C-10507-O-1,C-10507,F,Men's Career,319.368,NO,Email,31936.8,O-1,Anastasia Beverly Hills
+C-10507-O-6,C-10507,F,Men's Career,319.368,NO,Email,31936.8,O-6,Home Closeout & Shoe and Handbag sale
+C-10507-O-7,C-10507,F,Men's Career,319.368,NO,Email,31936.8,O-7,Lancome Gift with Purchase
+C-10511-O-9,C-10511,F,Women's Sportwear,345.366,YES,Mobile,34536.6,O-9,Save 20% Career Suits
+C-10513-O-3,C-10513,F,Women's Shoes,400.773,NO,Mobile,40077.3,O-3,Get $5 Cashback
+C-10522-O-10,C-10522,M,Women's Sportwear,457.417,NO,Direct Mail,45741.7,O-10,Shoe and Handbag sale
+C-10531-O-8,C-10531,M,Women's Shoes,300.67,NO,Email,30067,O-8,Loyalty Program Member
+C-10531-O-10,C-10531,M,Women's Shoes,300.67,NO,Email,30067,O-10,Shoe and Handbag sale
+C-10541-O-12,C-10541,F,Women's Sportwear,398.296,YES,Direct Mail,39829.6,O-12,Womens Sweather Sale
+C-10542-O-1,C-10542,M,Women's Career,382.717,NO,Mobile,38271.7,O-1,Anastasia Beverly Hills
+C-10542-O-8,C-10542,M,Women's Career,382.717,NO,Mobile,38271.7,O-8,Loyalty Program Member
+C-10542-O-12,C-10542,M,Women's Career,382.717,NO,Mobile,38271.7,O-12,Womens Sweather Sale
+C-10544-O-7,C-10544,F,Men's Casual,348.497,NO,Mobile,34849.7,O-7,Lancome Gift with Purchase
+C-10544-O-10,C-10544,F,Men's Casual,348.497,NO,Mobile,34849.7,O-10,Shoe and Handbag sale
+C-10557-O-7,C-10557,M,Women's Shoes,402.274,NO,Email,40227.4,O-7,Lancome Gift with Purchase
+C-10561-O-10,C-10561,M,Men's Casual,170.993,NO,Email,17099.3,O-10,Shoe and Handbag sale
+C-10564-O-1,C-10564,M,Men's Sportswear,338.642,NO,Email,33864.2,O-1,Anastasia Beverly Hills
+C-10564-O-4,C-10564,M,Men's Sportswear,338.642,NO,Email,33864.2,O-4,Home Closeout
+C-10572-O-9,C-10572,F,Women's Sportwear,358.494,YES,Direct Mail,35849.4,O-9,Save 20% Career Suits
+C-10573-O-2,C-10573,F,Women's Career,285.154,NO,Email,28515.4,O-2,Free shipping on orders over $49
+C-10573-O-9,C-10573,F,Women's Career,285.154,NO,Email,28515.4,O-9,Save 20% Career Suits
+C-10580-O-5,C-10580,M,Men's Casual,364.166,NO,Mobile,36416.6,O-5,Home Closeout & Lancome Gift with Purchase
+C-10580-O-11,C-10580,M,Men's Casual,364.166,NO,Mobile,36416.6,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10592-O-11,C-10592,F,Men's Sportswear,400.868,NO,Email,40086.8,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10601-O-2,C-10601,M,Women's Shoes,275.083,YES,Mobile,27508.3,O-2,Free shipping on orders over $49
+C-10632-O-3,C-10632,F,Men's Casual,338.303,YES,Mobile,33830.3,O-3,Get $5 Cashback
+C-10632-O-7,C-10632,F,Men's Casual,338.303,YES,Mobile,33830.3,O-7,Lancome Gift with Purchase
+C-10632-O-12,C-10632,F,Men's Casual,338.303,YES,Mobile,33830.3,O-12,Womens Sweather Sale
+C-10640-O-2,C-10640,M,Men's Sportswear,141.216,NO,Email,14121.6,O-2,Free shipping on orders over $49
+C-10640-O-11,C-10640,M,Men's Sportswear,141.216,NO,Email,14121.6,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10675-O-3,C-10675,F,Home goods,453.239,NO,Mobile,45323.9,O-3,Get $5 Cashback
+C-10677-O-5,C-10677,M,Women's Career,151.133,NO,Email,15113.3,O-5,Home Closeout & Lancome Gift with Purchase
+C-10677-O-6,C-10677,M,Women's Career,151.133,NO,Email,15113.3,O-6,Home Closeout & Shoe and Handbag sale
+C-10678-O-3,C-10678,M,Women's Shoes,206.815,YES,Email,20681.5,O-3,Get $5 Cashback
+C-10680-O-1,C-10680,F,Men's Casual,428.159,YES,Email,42815.9,O-1,Anastasia Beverly Hills
+C-10680-O-5,C-10680,F,Men's Casual,428.159,YES,Email,42815.9,O-5,Home Closeout & Lancome Gift with Purchase
+C-10680-O-6,C-10680,F,Men's Casual,428.159,YES,Email,42815.9,O-6,Home Closeout & Shoe and Handbag sale
+C-10683-O-5,C-10683,F,Women's Shoes,350.157,YES,Email,35015.7,O-5,Home Closeout & Lancome Gift with Purchase
+C-10686-O-6,C-10686,F,Men's Sportswear,169.603,NO,Direct Mail,16960.3,O-6,Home Closeout & Shoe and Handbag sale
+C-10686-O-10,C-10686,F,Men's Sportswear,169.603,NO,Direct Mail,16960.3,O-10,Shoe and Handbag sale
+C-10689-O-2,C-10689,F,Home goods,191.927,YES,Mobile,19192.7,O-2,Free shipping on orders over $49
+C-10699-O-1,C-10699,F,Men's Sportswear,294.064,NO,Mobile,29406.4,O-1,Anastasia Beverly Hills
+C-10718-O-4,C-10718,M,Men's Career,344.236,YES,Email,34423.6,O-4,Home Closeout
+C-10718-O-5,C-10718,M,Men's Career,344.236,YES,Email,34423.6,O-5,Home Closeout & Lancome Gift with Purchase
+C-10718-O-8,C-10718,M,Men's Career,344.236,YES,Email,34423.6,O-8,Loyalty Program Member
+C-10718-O-9,C-10718,M,Men's Career,344.236,YES,Email,34423.6,O-9,Save 20% Career Suits
+C-10734-O-8,C-10734,F,Women's Shoes,326.446,YES,Mobile,32644.6,O-8,Loyalty Program Member
+C-10734-O-10,C-10734,F,Women's Shoes,326.446,YES,Mobile,32644.6,O-10,Shoe and Handbag sale
+C-10734-O-12,C-10734,F,Women's Shoes,326.446,YES,Mobile,32644.6,O-12,Womens Sweather Sale
+C-10736-O-4,C-10736,F,Men's Career,442.831,YES,Mobile,44283.1,O-4,Home Closeout
+C-10737-O-3,C-10737,M,Home goods,219.871,YES,Email,21987.1,O-3,Get $5 Cashback
+C-10737-O-5,C-10737,M,Home goods,219.871,YES,Email,21987.1,O-5,Home Closeout & Lancome Gift with Purchase
+C-10751-O-6,C-10751,F,Home goods,346.651,YES,Mobile,34665.1,O-6,Home Closeout & Shoe and Handbag sale
+C-10751-O-10,C-10751,F,Home goods,346.651,YES,Mobile,34665.1,O-10,Shoe and Handbag sale
+C-10757-O-6,C-10757,F,Women's Shoes,409.979,YES,Mobile,40997.9,O-6,Home Closeout & Shoe and Handbag sale
+C-10757-O-8,C-10757,F,Women's Shoes,409.979,YES,Mobile,40997.9,O-8,Loyalty Program Member
+C-10768-O-6,C-10768,F,Men's Sportswear,143.918,YES,Email,14391.8,O-6,Home Closeout & Shoe and Handbag sale
+C-10768-O-7,C-10768,F,Men's Sportswear,143.918,YES,Email,14391.8,O-7,Lancome Gift with Purchase
+C-10769-O-3,C-10769,F,Men's Career,119.753,NO,Mobile,11975.3,O-3,Get $5 Cashback
+C-10769-O-10,C-10769,F,Men's Career,119.753,NO,Mobile,11975.3,O-10,Shoe and Handbag sale
+C-10770-O-2,C-10770,F,Home goods,374.582,NO,Mobile,37458.2,O-2,Free shipping on orders over $49
+C-10770-O-3,C-10770,F,Home goods,374.582,NO,Mobile,37458.2,O-3,Get $5 Cashback
+C-10782-O-3,C-10782,M,Men's Sportswear,453.683,NO,Email,45368.3,O-3,Get $5 Cashback
+C-10805-O-9,C-10805,F,Men's Career,335.584,YES,Email,33558.4,O-9,Save 20% Career Suits
+C-10815-O-3,C-10815,F,Men's Casual,150.004,NO,Direct Mail,15000.4,O-3,Get $5 Cashback
+C-10815-O-6,C-10815,F,Men's Casual,150.004,NO,Direct Mail,15000.4,O-6,Home Closeout & Shoe and Handbag sale
+C-10815-O-8,C-10815,F,Men's Casual,150.004,NO,Direct Mail,15000.4,O-8,Loyalty Program Member
+C-10815-O-10,C-10815,F,Men's Casual,150.004,NO,Direct Mail,15000.4,O-10,Shoe and Handbag sale
+C-10816-O-6,C-10816,F,Women's Shoes,156.86,NO,Email,15686,O-6,Home Closeout & Shoe and Handbag sale
+C-10816-O-7,C-10816,F,Women's Shoes,156.86,NO,Email,15686,O-7,Lancome Gift with Purchase
+C-10819-O-7,C-10819,M,Men's Career,467.406,YES,Direct Mail,46740.6,O-7,Lancome Gift with Purchase
+C-10829-O-3,C-10829,F,Men's Career,136.452,YES,Email,13645.2,O-3,Get $5 Cashback
+C-10829-O-4,C-10829,F,Men's Career,136.452,YES,Email,13645.2,O-4,Home Closeout
+C-10829-O-8,C-10829,F,Men's Career,136.452,YES,Email,13645.2,O-8,Loyalty Program Member
+C-10839-O-4,C-10839,F,Women's Career,220.32,NO,Email,22032,O-4,Home Closeout
+C-10840-O-2,C-10840,M,Women's Shoes,127.641,YES,Direct Mail,12764.1,O-2,Free shipping on orders over $49
+C-10846-O-4,C-10846,M,Men's Sportswear,394.947,NO,Mobile,39494.7,O-4,Home Closeout
+C-10846-O-7,C-10846,M,Men's Sportswear,394.947,NO,Mobile,39494.7,O-7,Lancome Gift with Purchase
+C-10846-O-8,C-10846,M,Men's Sportswear,394.947,NO,Mobile,39494.7,O-8,Loyalty Program Member
+C-10847-O-5,C-10847,F,Men's Career,328.363,YES,Email,32836.3,O-5,Home Closeout & Lancome Gift with Purchase
+C-10848-O-3,C-10848,F,Home goods,276.713,NO,Mobile,27671.3,O-3,Get $5 Cashback
+C-10848-O-5,C-10848,F,Home goods,276.713,NO,Mobile,27671.3,O-5,Home Closeout & Lancome Gift with Purchase
+C-10849-O-5,C-10849,M,Women's Sportwear,181.849,NO,Email,18184.9,O-5,Home Closeout & Lancome Gift with Purchase
+C-10849-O-6,C-10849,M,Women's Sportwear,181.849,NO,Email,18184.9,O-6,Home Closeout & Shoe and Handbag sale
+C-10853-O-10,C-10853,M,Men's Casual,298.836,YES,Email,29883.6,O-10,Shoe and Handbag sale
+C-10857-O-9,C-10857,M,Men's Career,485.787,NO,Email,48578.7,O-9,Save 20% Career Suits
+C-10859-O-2,C-10859,F,Home goods,295.925,NO,Direct Mail,29592.5,O-2,Free shipping on orders over $49
+C-10860-O-10,C-10860,M,Women's Sportwear,372.821,YES,Mobile,37282.1,O-10,Shoe and Handbag sale
+C-10862-O-12,C-10862,M,Women's Shoes,104.233,YES,Direct Mail,10423.3,O-12,Womens Sweather Sale
+C-10870-O-5,C-10870,F,Men's Casual,491.579,NO,Mobile,49157.9,O-5,Home Closeout & Lancome Gift with Purchase
+C-10870-O-11,C-10870,F,Men's Casual,491.579,NO,Mobile,49157.9,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10873-O-3,C-10873,F,Men's Sportswear,126.097,NO,Mobile,12609.7,O-3,Get $5 Cashback
+C-10874-O-5,C-10874,F,Men's Career,441.181,NO,Direct Mail,44118.1,O-5,Home Closeout & Lancome Gift with Purchase
+C-10901-O-12,C-10901,M,Men's Career,340.689,YES,Mobile,34068.9,O-12,Womens Sweather Sale
+C-10909-O-3,C-10909,M,Women's Shoes,308.594,NO,Mobile,30859.4,O-3,Get $5 Cashback
+C-10910-O-8,C-10910,F,Men's Casual,434.371,YES,Email,43437.1,O-8,Loyalty Program Member
+C-10910-O-12,C-10910,F,Men's Casual,434.371,YES,Email,43437.1,O-12,Womens Sweather Sale
+C-10913-O-10,C-10913,M,Men's Sportswear,230.974,NO,Direct Mail,23097.4,O-10,Shoe and Handbag sale
+C-10917-O-4,C-10917,M,Home goods,304.099,YES,Direct Mail,30409.9,O-4,Home Closeout
+C-10917-O-6,C-10917,M,Home goods,304.099,YES,Direct Mail,30409.9,O-6,Home Closeout & Shoe and Handbag sale
+C-10919-O-9,C-10919,M,Women's Sportwear,213.634,NO,Email,21363.4,O-9,Save 20% Career Suits
+C-10919-O-12,C-10919,M,Women's Sportwear,213.634,NO,Email,21363.4,O-12,Womens Sweather Sale
+C-10923-O-11,C-10923,M,Men's Casual,472.341,NO,Mobile,47234.1,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-10943-O-1,C-10943,F,Women's Shoes,100.844,NO,Direct Mail,10084.4,O-1,Anastasia Beverly Hills
+C-10943-O-12,C-10943,F,Women's Shoes,100.844,NO,Direct Mail,10084.4,O-12,Womens Sweather Sale
+C-10950-O-4,C-10950,M,Home goods,329.521,NO,Direct Mail,32952.1,O-4,Home Closeout
+C-10950-O-9,C-10950,M,Home goods,329.521,NO,Direct Mail,32952.1,O-9,Save 20% Career Suits
+C-10954-O-9,C-10954,M,Women's Shoes,204.104,NO,Mobile,20410.4,O-9,Save 20% Career Suits
+C-10955-O-10,C-10955,F,Men's Casual,498.863,NO,Email,49886.3,O-10,Shoe and Handbag sale
+C-10957-O-9,C-10957,F,Women's Shoes,124.227,YES,Mobile,12422.7,O-9,Save 20% Career Suits
+C-10959-O-12,C-10959,M,Men's Sportswear,353.369,NO,Mobile,35336.9,O-12,Womens Sweather Sale
+C-10965-O-4,C-10965,M,Women's Sportwear,284.132,YES,Direct Mail,28413.2,O-4,Home Closeout
+C-10971-O-4,C-10971,F,Women's Shoes,364.736,YES,Email,36473.6,O-4,Home Closeout
+C-10971-O-7,C-10971,F,Women's Shoes,364.736,YES,Email,36473.6,O-7,Lancome Gift with Purchase
+C-10976-O-1,C-10976,M,Men's Sportswear,291.981,YES,Mobile,29198.1,O-1,Anastasia Beverly Hills
+C-10976-O-7,C-10976,M,Men's Sportswear,291.981,YES,Mobile,29198.1,O-7,Lancome Gift with Purchase
+C-10979-O-8,C-10979,M,Women's Sportwear,195.378,YES,Mobile,19537.8,O-8,Loyalty Program Member
+C-10979-O-9,C-10979,M,Women's Sportwear,195.378,YES,Mobile,19537.8,O-9,Save 20% Career Suits
+C-10984-O-4,C-10984,M,Men's Casual,460.621,NO,Email,46062.1,O-4,Home Closeout
+C-10990-O-4,C-10990,M,Men's Sportswear,116.576,NO,Email,11657.6,O-4,Home Closeout
+C-10990-O-8,C-10990,M,Men's Sportswear,116.576,NO,Email,11657.6,O-8,Loyalty Program Member
+C-11005-O-2,C-11005,F,Women's Shoes,156.201,NO,Email,15620.1,O-2,Free shipping on orders over $49
+C-11007-O-3,C-11007,M,Men's Casual,246.1,NO,Mobile,24610,O-3,Get $5 Cashback
+C-11007-O-10,C-11007,M,Men's Casual,246.1,NO,Mobile,24610,O-10,Shoe and Handbag sale
+C-11009-O-6,C-11009,M,Women's Shoes,184.421,YES,Direct Mail,18442.1,O-6,Home Closeout & Shoe and Handbag sale
+C-11009-O-7,C-11009,M,Women's Shoes,184.421,YES,Direct Mail,18442.1,O-7,Lancome Gift with Purchase
+C-11011-O-1,C-11011,F,Men's Career,478.128,NO,Email,47812.8,O-1,Anastasia Beverly Hills
+C-11011-O-6,C-11011,F,Men's Career,478.128,NO,Email,47812.8,O-6,Home Closeout & Shoe and Handbag sale
+C-11011-O-10,C-11011,F,Men's Career,478.128,NO,Email,47812.8,O-10,Shoe and Handbag sale
+C-11018-O-8,C-11018,M,Men's Casual,112.921,NO,Direct Mail,11292.1,O-8,Loyalty Program Member
+C-11018-O-12,C-11018,M,Men's Casual,112.921,NO,Direct Mail,11292.1,O-12,Womens Sweather Sale
+C-11031-O-7,C-11031,F,Women's Career,297.579,YES,Email,29757.9,O-7,Lancome Gift with Purchase
+C-11031-O-11,C-11031,F,Women's Career,297.579,YES,Email,29757.9,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11049-O-6,C-11049,M,Men's Casual,383.992,NO,Direct Mail,38399.2,O-6,Home Closeout & Shoe and Handbag sale
+C-11051-O-5,C-11051,M,Women's Shoes,286.205,NO,Email,28620.5,O-5,Home Closeout & Lancome Gift with Purchase
+C-11052-O-8,C-11052,F,Men's Sportswear,247.427,NO,Email,24742.7,O-8,Loyalty Program Member
+C-11054-O-4,C-11054,M,Men's Career,223.741,NO,Mobile,22374.1,O-4,Home Closeout
+C-11054-O-12,C-11054,M,Men's Career,223.741,NO,Mobile,22374.1,O-12,Womens Sweather Sale
+C-11061-O-1,C-11061,M,Women's Career,267.182,NO,Mobile,26718.2,O-1,Anastasia Beverly Hills
+C-11061-O-5,C-11061,M,Women's Career,267.182,NO,Mobile,26718.2,O-5,Home Closeout & Lancome Gift with Purchase
+C-11063-O-3,C-11063,F,Women's Shoes,258.123,NO,Mobile,25812.3,O-3,Get $5 Cashback
+C-11069-O-9,C-11069,F,Men's Career,242.569,NO,Mobile,24256.9,O-9,Save 20% Career Suits
+C-11069-O-11,C-11069,F,Men's Career,242.569,NO,Mobile,24256.9,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11072-O-3,C-11072,M,Women's Sportwear,474.76,NO,Mobile,47476,O-3,Get $5 Cashback
+C-11072-O-12,C-11072,M,Women's Sportwear,474.76,NO,Mobile,47476,O-12,Womens Sweather Sale
+C-11083-O-9,C-11083,M,Men's Career,468.411,NO,Mobile,46841.1,O-9,Save 20% Career Suits
+C-11086-O-3,C-11086,M,Home goods,306.545,NO,Email,30654.5,O-3,Get $5 Cashback
+C-11086-O-6,C-11086,M,Home goods,306.545,NO,Email,30654.5,O-6,Home Closeout & Shoe and Handbag sale
+C-11086-O-10,C-11086,M,Home goods,306.545,NO,Email,30654.5,O-10,Shoe and Handbag sale
+C-11086-O-11,C-11086,M,Home goods,306.545,NO,Email,30654.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11088-O-10,C-11088,M,Women's Career,225.496,YES,Direct Mail,22549.6,O-10,Shoe and Handbag sale
+C-11094-O-2,C-11094,M,Men's Casual,472.705,NO,Mobile,47270.5,O-2,Free shipping on orders over $49
+C-11094-O-11,C-11094,M,Men's Casual,472.705,NO,Mobile,47270.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11108-O-7,C-11108,M,Women's Career,297.839,YES,Mobile,29783.9,O-7,Lancome Gift with Purchase
+C-11108-O-10,C-11108,M,Women's Career,297.839,YES,Mobile,29783.9,O-10,Shoe and Handbag sale
+C-11110-O-11,C-11110,F,Women's Shoes,368.045,NO,Mobile,36804.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11111-O-1,C-11111,M,Men's Casual,475.451,YES,Mobile,47545.1,O-1,Anastasia Beverly Hills
+C-11111-O-2,C-11111,M,Men's Casual,475.451,YES,Mobile,47545.1,O-2,Free shipping on orders over $49
+C-11111-O-8,C-11111,M,Men's Casual,475.451,YES,Mobile,47545.1,O-8,Loyalty Program Member
+C-11111-O-11,C-11111,M,Men's Casual,475.451,YES,Mobile,47545.1,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11121-O-4,C-11121,M,Women's Sportwear,345.206,NO,Mobile,34520.6,O-4,Home Closeout
+C-11121-O-5,C-11121,M,Women's Sportwear,345.206,NO,Mobile,34520.6,O-5,Home Closeout & Lancome Gift with Purchase
+C-11121-O-9,C-11121,M,Women's Sportwear,345.206,NO,Mobile,34520.6,O-9,Save 20% Career Suits
+C-11123-O-12,C-11123,F,Women's Career,157.511,NO,Email,15751.1,O-12,Womens Sweather Sale
+C-11126-O-2,C-11126,M,Women's Shoes,433.344,YES,Mobile,43334.4,O-2,Free shipping on orders over $49
+C-11126-O-9,C-11126,M,Women's Shoes,433.344,YES,Mobile,43334.4,O-9,Save 20% Career Suits
+C-11126-O-10,C-11126,M,Women's Shoes,433.344,YES,Mobile,43334.4,O-10,Shoe and Handbag sale
+C-11129-O-5,C-11129,M,Men's Casual,185.153,YES,Direct Mail,18515.3,O-5,Home Closeout & Lancome Gift with Purchase
+C-11129-O-7,C-11129,M,Men's Casual,185.153,YES,Direct Mail,18515.3,O-7,Lancome Gift with Purchase
+C-11138-O-6,C-11138,M,Women's Sportwear,253.568,YES,Mobile,25356.8,O-6,Home Closeout & Shoe and Handbag sale
+C-11138-O-11,C-11138,M,Women's Sportwear,253.568,YES,Mobile,25356.8,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11142-O-3,C-11142,F,Women's Career,112.168,NO,Email,11216.8,O-3,Get $5 Cashback
+C-11142-O-6,C-11142,F,Women's Career,112.168,NO,Email,11216.8,O-6,Home Closeout & Shoe and Handbag sale
+C-11142-O-11,C-11142,F,Women's Career,112.168,NO,Email,11216.8,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11146-O-1,C-11146,M,Women's Shoes,410.628,YES,Email,41062.8,O-1,Anastasia Beverly Hills
+C-11146-O-11,C-11146,M,Women's Shoes,410.628,YES,Email,41062.8,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11149-O-4,C-11149,F,Women's Shoes,151.803,YES,Direct Mail,15180.3,O-4,Home Closeout
+C-11149-O-9,C-11149,F,Women's Shoes,151.803,YES,Direct Mail,15180.3,O-9,Save 20% Career Suits
+C-11156-O-7,C-11156,M,Home goods,419.003,YES,Direct Mail,41900.3,O-7,Lancome Gift with Purchase
+C-11164-O-1,C-11164,M,Men's Casual,483.546,NO,Direct Mail,48354.6,O-1,Anastasia Beverly Hills
+C-11164-O-6,C-11164,M,Men's Casual,483.546,NO,Direct Mail,48354.6,O-6,Home Closeout & Shoe and Handbag sale
+C-11168-O-6,C-11168,F,Men's Sportswear,460.629,NO,Mobile,46062.9,O-6,Home Closeout & Shoe and Handbag sale
+C-11168-O-8,C-11168,F,Men's Sportswear,460.629,NO,Mobile,46062.9,O-8,Loyalty Program Member
+C-11168-O-10,C-11168,F,Men's Sportswear,460.629,NO,Mobile,46062.9,O-10,Shoe and Handbag sale
+C-11183-O-1,C-11183,M,Home goods,140.502,YES,Mobile,14050.2,O-1,Anastasia Beverly Hills
+C-11183-O-2,C-11183,M,Home goods,140.502,YES,Mobile,14050.2,O-2,Free shipping on orders over $49
+C-11183-O-5,C-11183,M,Home goods,140.502,YES,Mobile,14050.2,O-5,Home Closeout & Lancome Gift with Purchase
+C-11183-O-7,C-11183,M,Home goods,140.502,YES,Mobile,14050.2,O-7,Lancome Gift with Purchase
+C-11183-O-8,C-11183,M,Home goods,140.502,YES,Mobile,14050.2,O-8,Loyalty Program Member
+C-11193-O-1,C-11193,M,Women's Shoes,172.856,YES,Email,17285.6,O-1,Anastasia Beverly Hills
+C-11193-O-4,C-11193,M,Women's Shoes,172.856,YES,Email,17285.6,O-4,Home Closeout
+C-11194-O-2,C-11194,F,Men's Sportswear,382.586,YES,Mobile,38258.6,O-2,Free shipping on orders over $49
+C-11194-O-11,C-11194,F,Men's Sportswear,382.586,YES,Mobile,38258.6,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11197-O-10,C-11197,M,Women's Sportwear,429.349,NO,Email,42934.9,O-10,Shoe and Handbag sale
+C-11198-O-1,C-11198,M,Women's Career,212.654,NO,Email,21265.4,O-1,Anastasia Beverly Hills
+C-11198-O-9,C-11198,M,Women's Career,212.654,NO,Email,21265.4,O-9,Save 20% Career Suits
+C-11200-O-1,C-11200,M,Women's Shoes,262.117,YES,Mobile,26211.7,O-1,Anastasia Beverly Hills
+C-11200-O-2,C-11200,M,Women's Shoes,262.117,YES,Mobile,26211.7,O-2,Free shipping on orders over $49
+C-11206-O-3,C-11206,F,Home goods,230.249,YES,Mobile,23024.9,O-3,Get $5 Cashback
+C-11218-O-6,C-11218,M,Women's Shoes,340.079,NO,Mobile,34007.9,O-6,Home Closeout & Shoe and Handbag sale
+C-11220-O-1,C-11220,F,Men's Career,171.59,NO,Direct Mail,17159,O-1,Anastasia Beverly Hills
+C-11228-O-3,C-11228,F,Men's Casual,367.54,NO,Email,36754,O-3,Get $5 Cashback
+C-11228-O-11,C-11228,F,Men's Casual,367.54,NO,Email,36754,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11234-O-6,C-11234,M,Home goods,410.697,YES,Email,41069.7,O-6,Home Closeout & Shoe and Handbag sale
+C-11234-O-10,C-11234,M,Home goods,410.697,YES,Email,41069.7,O-10,Shoe and Handbag sale
+C-11243-O-11,C-11243,F,Women's Shoes,197.255,YES,Direct Mail,19725.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11245-O-6,C-11245,M,Men's Casual,228.296,NO,Email,22829.6,O-6,Home Closeout & Shoe and Handbag sale
+C-11245-O-8,C-11245,M,Men's Casual,228.296,NO,Email,22829.6,O-8,Loyalty Program Member
+C-11245-O-12,C-11245,M,Men's Casual,228.296,NO,Email,22829.6,O-12,Womens Sweather Sale
+C-11246-O-3,C-11246,F,Women's Shoes,468.845,NO,Email,46884.5,O-3,Get $5 Cashback
+C-11246-O-10,C-11246,F,Women's Shoes,468.845,NO,Email,46884.5,O-10,Shoe and Handbag sale
+C-11246-O-12,C-11246,F,Women's Shoes,468.845,NO,Email,46884.5,O-12,Womens Sweather Sale
+C-11250-O-6,C-11250,M,Home goods,431.101,YES,Email,43110.1,O-6,Home Closeout & Shoe and Handbag sale
+C-11250-O-8,C-11250,M,Home goods,431.101,YES,Email,43110.1,O-8,Loyalty Program Member
+C-11250-O-9,C-11250,M,Home goods,431.101,YES,Email,43110.1,O-9,Save 20% Career Suits
+C-11250-O-10,C-11250,M,Home goods,431.101,YES,Email,43110.1,O-10,Shoe and Handbag sale
+C-11255-O-6,C-11255,F,Women's Shoes,230.34,YES,Mobile,23034,O-6,Home Closeout & Shoe and Handbag sale
+C-11258-O-11,C-11258,F,Men's Casual,433.975,YES,Mobile,43397.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11267-O-4,C-11267,M,Home goods,148.671,YES,Mobile,14867.1,O-4,Home Closeout
+C-11270-O-9,C-11270,M,Women's Career,173.132,NO,Email,17313.2,O-9,Save 20% Career Suits
+C-11275-O-6,C-11275,M,Women's Shoes,241.621,YES,Direct Mail,24162.1,O-6,Home Closeout & Shoe and Handbag sale
+C-11275-O-7,C-11275,M,Women's Shoes,241.621,YES,Direct Mail,24162.1,O-7,Lancome Gift with Purchase
+C-11275-O-11,C-11275,M,Women's Shoes,241.621,YES,Direct Mail,24162.1,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11281-O-9,C-11281,M,Women's Sportwear,467.916,YES,Mobile,46791.6,O-9,Save 20% Career Suits
+C-11281-O-11,C-11281,M,Women's Sportwear,467.916,YES,Mobile,46791.6,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11297-O-10,C-11297,F,Women's Sportwear,124.807,NO,Email,12480.7,O-10,Shoe and Handbag sale
+C-11304-O-1,C-11304,F,Men's Casual,192.175,YES,Mobile,19217.5,O-1,Anastasia Beverly Hills
+C-11304-O-6,C-11304,F,Men's Casual,192.175,YES,Mobile,19217.5,O-6,Home Closeout & Shoe and Handbag sale
+C-11304-O-7,C-11304,F,Men's Casual,192.175,YES,Mobile,19217.5,O-7,Lancome Gift with Purchase
+C-11316-O-9,C-11316,F,Home goods,174.561,NO,Direct Mail,17456.1,O-9,Save 20% Career Suits
+C-11319-O-5,C-11319,F,Women's Career,298.812,NO,Mobile,29881.2,O-5,Home Closeout & Lancome Gift with Purchase
+C-11319-O-11,C-11319,F,Women's Career,298.812,NO,Mobile,29881.2,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11322-O-7,C-11322,M,Women's Shoes,115.295,YES,Direct Mail,11529.5,O-7,Lancome Gift with Purchase
+C-11352-O-4,C-11352,F,Women's Career,262.23,NO,Direct Mail,26223,O-4,Home Closeout
+C-11362-O-2,C-11362,F,Men's Sportswear,363.388,NO,Mobile,36338.8,O-2,Free shipping on orders over $49
+C-11362-O-3,C-11362,F,Men's Sportswear,363.388,NO,Mobile,36338.8,O-3,Get $5 Cashback
+C-11362-O-10,C-11362,F,Men's Sportswear,363.388,NO,Mobile,36338.8,O-10,Shoe and Handbag sale
+C-11365-O-12,C-11365,M,Men's Career,406.114,YES,Email,40611.4,O-12,Womens Sweather Sale
+C-11366-O-1,C-11366,F,Home goods,240.284,YES,Email,24028.4,O-1,Anastasia Beverly Hills
+C-11366-O-8,C-11366,F,Home goods,240.284,YES,Email,24028.4,O-8,Loyalty Program Member
+C-11373-O-1,C-11373,M,Women's Shoes,334.191,YES,Email,33419.1,O-1,Anastasia Beverly Hills
+C-11373-O-8,C-11373,M,Women's Shoes,334.191,YES,Email,33419.1,O-8,Loyalty Program Member
+C-11385-O-2,C-11385,M,Women's Career,106.842,YES,Email,10684.2,O-2,Free shipping on orders over $49
+C-11385-O-9,C-11385,M,Women's Career,106.842,YES,Email,10684.2,O-9,Save 20% Career Suits
+C-11394-O-4,C-11394,M,Men's Career,446.318,NO,Mobile,44631.8,O-4,Home Closeout
+C-11396-O-9,C-11396,F,Women's Sportwear,391.493,YES,Direct Mail,39149.3,O-9,Save 20% Career Suits
+C-11404-O-8,C-11404,F,Men's Sportswear,431.953,NO,Mobile,43195.3,O-8,Loyalty Program Member
+C-11405-O-1,C-11405,F,Men's Career,126.155,YES,Mobile,12615.5,O-1,Anastasia Beverly Hills
+C-11405-O-10,C-11405,F,Men's Career,126.155,YES,Mobile,12615.5,O-10,Shoe and Handbag sale
+C-11409-O-1,C-11409,F,Women's Career,108.55,YES,Direct Mail,10855,O-1,Anastasia Beverly Hills
+C-11409-O-3,C-11409,F,Women's Career,108.55,YES,Direct Mail,10855,O-3,Get $5 Cashback
+C-11409-O-5,C-11409,F,Women's Career,108.55,YES,Direct Mail,10855,O-5,Home Closeout & Lancome Gift with Purchase
+C-11409-O-7,C-11409,F,Women's Career,108.55,YES,Direct Mail,10855,O-7,Lancome Gift with Purchase
+C-11422-O-8,C-11422,M,Women's Shoes,149.206,YES,Mobile,14920.6,O-8,Loyalty Program Member
+C-11427-O-11,C-11427,F,Men's Casual,408.109,YES,Email,40810.9,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11428-O-8,C-11428,F,Women's Shoes,465.449,YES,Email,46544.9,O-8,Loyalty Program Member
+C-11428-O-12,C-11428,F,Women's Shoes,465.449,YES,Email,46544.9,O-12,Womens Sweather Sale
+C-11445-O-1,C-11445,M,Women's Shoes,294.406,NO,Email,29440.6,O-1,Anastasia Beverly Hills
+C-11445-O-12,C-11445,M,Women's Shoes,294.406,NO,Email,29440.6,O-12,Womens Sweather Sale
+C-11450-O-6,C-11450,M,Men's Casual,236.473,NO,Email,23647.3,O-6,Home Closeout & Shoe and Handbag sale
+C-11451-O-2,C-11451,M,Women's Shoes,374.77,NO,Email,37477,O-2,Free shipping on orders over $49
+C-11451-O-5,C-11451,M,Women's Shoes,374.77,NO,Email,37477,O-5,Home Closeout & Lancome Gift with Purchase
+C-11452-O-3,C-11452,M,Men's Sportswear,263.763,YES,Mobile,26376.3,O-3,Get $5 Cashback
+C-11452-O-4,C-11452,M,Men's Sportswear,263.763,YES,Mobile,26376.3,O-4,Home Closeout
+C-11454-O-8,C-11454,F,Home goods,275.548,NO,Mobile,27554.8,O-8,Loyalty Program Member
+C-11454-O-10,C-11454,F,Home goods,275.548,NO,Mobile,27554.8,O-10,Shoe and Handbag sale
+C-11454-O-11,C-11454,F,Home goods,275.548,NO,Mobile,27554.8,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11455-O-5,C-11455,F,Women's Sportwear,434.2,YES,Email,43420,O-5,Home Closeout & Lancome Gift with Purchase
+C-11466-O-2,C-11466,M,Men's Career,161.584,NO,Mobile,16158.4,O-2,Free shipping on orders over $49
+C-11466-O-4,C-11466,M,Men's Career,161.584,NO,Mobile,16158.4,O-4,Home Closeout
+C-11466-O-9,C-11466,M,Men's Career,161.584,NO,Mobile,16158.4,O-9,Save 20% Career Suits
+C-11468-O-11,C-11468,F,Home goods,412.514,YES,Mobile,41251.4,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11470-O-2,C-11470,F,Women's Career,255.922,NO,Email,25592.2,O-2,Free shipping on orders over $49
+C-11470-O-3,C-11470,F,Women's Career,255.922,NO,Email,25592.2,O-3,Get $5 Cashback
+C-11470-O-9,C-11470,F,Women's Career,255.922,NO,Email,25592.2,O-9,Save 20% Career Suits
+C-11470-O-11,C-11470,F,Women's Career,255.922,NO,Email,25592.2,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11471-O-2,C-11471,F,Women's Shoes,311.795,NO,Direct Mail,31179.5,O-2,Free shipping on orders over $49
+C-11471-O-3,C-11471,F,Women's Shoes,311.795,NO,Direct Mail,31179.5,O-3,Get $5 Cashback
+C-11471-O-11,C-11471,F,Women's Shoes,311.795,NO,Direct Mail,31179.5,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11475-O-4,C-11475,M,Women's Shoes,361.337,NO,Mobile,36133.7,O-4,Home Closeout
+C-11479-O-9,C-11479,M,Men's Career,221.877,NO,Mobile,22187.7,O-9,Save 20% Career Suits
+C-11482-O-5,C-11482,F,Home goods,243.642,YES,Email,24364.2,O-5,Home Closeout & Lancome Gift with Purchase
+C-11484-O-2,C-11484,F,Women's Sportwear,221.969,YES,Mobile,22196.9,O-2,Free shipping on orders over $49
+C-11487-O-4,C-11487,M,Women's Career,467.096,NO,Direct Mail,46709.6,O-4,Home Closeout
+C-11496-O-7,C-11496,M,Men's Sportswear,492.205,YES,Email,49220.5,O-7,Lancome Gift with Purchase
+C-11502-O-3,C-11502,F,Women's Career,104.023,YES,Direct Mail,10402.3,O-3,Get $5 Cashback
+C-11502-O-6,C-11502,F,Women's Career,104.023,YES,Direct Mail,10402.3,O-6,Home Closeout & Shoe and Handbag sale
+C-11516-O-9,C-11516,M,Women's Sportwear,449.981,NO,Email,44998.1,O-9,Save 20% Career Suits
+C-11517-O-3,C-11517,M,Women's Career,182.815,NO,Email,18281.5,O-3,Get $5 Cashback
+C-11517-O-7,C-11517,M,Women's Career,182.815,NO,Email,18281.5,O-7,Lancome Gift with Purchase
+C-11525-O-9,C-11525,F,Men's Sportswear,257.551,YES,Email,25755.1,O-9,Save 20% Career Suits
+C-11525-O-10,C-11525,F,Men's Sportswear,257.551,YES,Email,25755.1,O-10,Shoe and Handbag sale
+C-11525-O-11,C-11525,F,Men's Sportswear,257.551,YES,Email,25755.1,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11540-O-10,C-11540,M,Men's Casual,100.726,NO,Email,10072.6,O-10,Shoe and Handbag sale
+C-11559-O-6,C-11559,F,Men's Sportswear,493.472,NO,Mobile,49347.2,O-6,Home Closeout & Shoe and Handbag sale
+C-11559-O-12,C-11559,F,Men's Sportswear,493.472,NO,Mobile,49347.2,O-12,Womens Sweather Sale
+C-11562-O-7,C-11562,M,Men's Career,372.656,NO,Mobile,37265.6,O-7,Lancome Gift with Purchase
+C-11562-O-8,C-11562,M,Men's Career,372.656,NO,Mobile,37265.6,O-8,Loyalty Program Member
+C-11562-O-9,C-11562,M,Men's Career,372.656,NO,Mobile,37265.6,O-9,Save 20% Career Suits
+C-11571-O-12,C-11571,M,Men's Casual,290.087,YES,Email,29008.7,O-12,Womens Sweather Sale
+C-11586-O-9,C-11586,F,Women's Shoes,138.218,YES,Mobile,13821.8,O-9,Save 20% Career Suits
+C-11596-O-5,C-11596,M,Men's Career,279.826,YES,Mobile,27982.6,O-5,Home Closeout & Lancome Gift with Purchase
+C-11596-O-9,C-11596,M,Men's Career,279.826,YES,Mobile,27982.6,O-9,Save 20% Career Suits
+C-11601-O-11,C-11601,F,Women's Career,385.516,YES,Mobile,38551.6,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11605-O-7,C-11605,M,Women's Shoes,227.651,YES,Mobile,22765.1,O-7,Lancome Gift with Purchase
+C-11609-O-3,C-11609,M,Men's Sportswear,218.933,NO,Direct Mail,21893.3,O-3,Get $5 Cashback
+C-11618-O-10,C-11618,M,Women's Career,377.746,NO,Mobile,37774.6,O-10,Shoe and Handbag sale
+C-11623-O-4,C-11623,M,Men's Casual,135.356,YES,Mobile,13535.6,O-4,Home Closeout
+C-11623-O-6,C-11623,M,Men's Casual,135.356,YES,Mobile,13535.6,O-6,Home Closeout & Shoe and Handbag sale
+C-11623-O-7,C-11623,M,Men's Casual,135.356,YES,Mobile,13535.6,O-7,Lancome Gift with Purchase
+C-11623-O-12,C-11623,M,Men's Casual,135.356,YES,Mobile,13535.6,O-12,Womens Sweather Sale
+C-11630-O-7,C-11630,M,Home goods,475.807,YES,Direct Mail,47580.7,O-7,Lancome Gift with Purchase
+C-11660-O-2,C-11660,M,Men's Casual,376.643,NO,Email,37664.3,O-2,Free shipping on orders over $49
+C-11668-O-2,C-11668,F,Home goods,291.647,NO,Email,29164.7,O-2,Free shipping on orders over $49
+C-11682-O-1,C-11682,M,Men's Sportswear,236.457,NO,Email,23645.7,O-1,Anastasia Beverly Hills
+C-11682-O-9,C-11682,M,Men's Sportswear,236.457,NO,Email,23645.7,O-9,Save 20% Career Suits
+C-11684-O-3,C-11684,F,Men's Career,495.42,YES,Email,49542,O-3,Get $5 Cashback
+C-11684-O-5,C-11684,F,Men's Career,495.42,YES,Email,49542,O-5,Home Closeout & Lancome Gift with Purchase
+C-11684-O-10,C-11684,F,Men's Career,495.42,YES,Email,49542,O-10,Shoe and Handbag sale
+C-11684-O-11,C-11684,F,Men's Career,495.42,YES,Email,49542,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11691-O-12,C-11691,F,Women's Shoes,275.034,NO,Direct Mail,27503.4,O-12,Womens Sweather Sale
+C-11712-O-8,C-11712,M,Women's Sportwear,223.496,NO,Mobile,22349.6,O-8,Loyalty Program Member
+C-11712-O-9,C-11712,M,Women's Sportwear,223.496,NO,Mobile,22349.6,O-9,Save 20% Career Suits
+C-11729-O-7,C-11729,F,Women's Career,271.358,YES,Email,27135.8,O-7,Lancome Gift with Purchase
+C-11737-O-8,C-11737,M,Home goods,236.343,YES,Email,23634.3,O-8,Loyalty Program Member
+C-11760-O-6,C-11760,M,Women's Shoes,319.126,YES,Email,31912.6,O-6,Home Closeout & Shoe and Handbag sale
+C-11764-O-4,C-11764,F,Women's Sportwear,306.867,YES,Mobile,30686.7,O-4,Home Closeout
+C-11764-O-8,C-11764,F,Women's Sportwear,306.867,YES,Mobile,30686.7,O-8,Loyalty Program Member
+C-11764-O-12,C-11764,F,Women's Sportwear,306.867,YES,Mobile,30686.7,O-12,Womens Sweather Sale
+C-11768-O-7,C-11768,M,Women's Career,328.441,YES,Mobile,32844.1,O-7,Lancome Gift with Purchase
+C-11768-O-8,C-11768,M,Women's Career,328.441,YES,Mobile,32844.1,O-8,Loyalty Program Member
+C-11770-O-2,C-11770,M,Men's Casual,368.276,NO,Email,36827.6,O-2,Free shipping on orders over $49
+C-11770-O-4,C-11770,M,Men's Casual,368.276,NO,Email,36827.6,O-4,Home Closeout
+C-11772-O-4,C-11772,M,Men's Sportswear,188.338,YES,Email,18833.8,O-4,Home Closeout
+C-11772-O-7,C-11772,M,Men's Sportswear,188.338,YES,Email,18833.8,O-7,Lancome Gift with Purchase
+C-11777-O-6,C-11777,F,Women's Sportwear,256.375,YES,Mobile,25637.5,O-6,Home Closeout & Shoe and Handbag sale
+C-11779-O-5,C-11779,M,Women's Career,428.928,NO,Email,42892.8,O-5,Home Closeout & Lancome Gift with Purchase
+C-11779-O-7,C-11779,M,Women's Career,428.928,NO,Email,42892.8,O-7,Lancome Gift with Purchase
+C-11785-O-5,C-11785,F,Women's Shoes,132.185,YES,Email,13218.5,O-5,Home Closeout & Lancome Gift with Purchase
+C-11793-O-3,C-11793,M,Women's Shoes,463.67,YES,Mobile,46367,O-3,Get $5 Cashback
+C-11793-O-6,C-11793,M,Women's Shoes,463.67,YES,Mobile,46367,O-6,Home Closeout & Shoe and Handbag sale
+C-11793-O-11,C-11793,M,Women's Shoes,463.67,YES,Mobile,46367,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11808-O-2,C-11808,F,Women's Sportwear,489.554,YES,Mobile,48955.4,O-2,Free shipping on orders over $49
+C-11808-O-4,C-11808,F,Women's Sportwear,489.554,YES,Mobile,48955.4,O-4,Home Closeout
+C-11808-O-11,C-11808,F,Women's Sportwear,489.554,YES,Mobile,48955.4,O-11,Shoe and Handbag sale & Lancome Gift with Purchase
+C-11812-O-9,C-11812,F,Women's Shoes,365.954,NO,Mobile,36595.4,O-9,Save 20% Career Suits
+C-11814-O-2,C-11814,F,Men's Casual,123.374,NO,Mobile,12337.4,O-2,Free shipping on orders over $49
+C-11814-O-3,C-11814,F,Men's Casual,123.374,NO,Mobile,12337.4,O-3,Get $5 Cashback
+C-11814-O-7,C-11814,F,Men's Casual,123.374,NO,Mobile,12337.4,O-7,Lancome Gift with Purchase
+C-11814-O-8,C-11814,F,Men's Casual,123.374,NO,Mobile,12337.4,O-8,Loyalty Program Member

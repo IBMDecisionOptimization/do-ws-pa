@@ -1,0 +1,445 @@
+CustomerID,OfferID,ChannelID,selected
+C-10162,O-9,Mobile,1.0
+C-10164,O-12,Mobile,1.0
+C-10173,O-10,Mobile,1.0
+C-10173,O-12,Mobile,0.0
+C-10173,O-5,Mobile,0.0
+C-10176,O-9,Email,1.0
+C-10180,O-2,Email,1.0
+C-10198,O-6,Mobile,1.0
+C-10203,O-7,Mobile,1.0
+C-10209,O-1,Email,1.0
+C-10209,O-11,Email,0.0
+C-10209,O-4,Email,0.0
+C-10212,O-2,Mobile,1.0
+C-10214,O-12,Direct Mail,0.0
+C-10214,O-6,Direct Mail,1.0
+C-10219,O-2,Mobile,1.0
+C-10222,O-8,Direct Mail,1.0
+C-10225,O-10,Mobile,1.0
+C-10229,O-2,Email,1.0
+C-10229,O-3,Email,0.0
+C-10229,O-9,Email,0.0
+C-10239,O-1,Email,1.0
+C-10254,O-11,Email,1.0
+C-10254,O-12,Email,0.0
+C-10266,O-12,Email,0.0
+C-10266,O-6,Email,1.0
+C-10278,O-6,Email,1.0
+C-10281,O-6,Mobile,1.0
+C-10281,O-8,Mobile,0.0
+C-10295,O-4,Mobile,0.0
+C-10295,O-9,Mobile,1.0
+C-10303,O-11,Direct Mail,1.0
+C-10311,O-6,Direct Mail,1.0
+C-10315,O-5,Direct Mail,0.0
+C-10315,O-7,Direct Mail,1.0
+C-10318,O-12,Direct Mail,1.0
+C-10330,O-4,Mobile,0.0
+C-10330,O-9,Mobile,1.0
+C-10332,O-7,Mobile,1.0
+C-10338,O-12,Email,0.0
+C-10338,O-4,Email,1.0
+C-10346,O-12,Email,0.0
+C-10346,O-7,Email,1.0
+C-10348,O-10,Direct Mail,1.0
+C-10350,O-12,Direct Mail,0.0
+C-10350,O-7,Direct Mail,1.0
+C-10363,O-8,Direct Mail,1.0
+C-10364,O-11,Mobile,1.0
+C-10380,O-11,Direct Mail,0.0
+C-10380,O-7,Direct Mail,1.0
+C-10381,O-4,Mobile,1.0
+C-10383,O-10,Direct Mail,1.0
+C-10383,O-9,Direct Mail,0.0
+C-10398,O-12,Mobile,1.0
+C-10401,O-1,Email,1.0
+C-10401,O-5,Email,0.0
+C-10401,O-6,Email,0.0
+C-10408,O-3,Mobile,0.0
+C-10408,O-7,Mobile,1.0
+C-10408,O-8,Mobile,0.0
+C-10410,O-3,Mobile,1.0
+C-10410,O-5,Mobile,0.0
+C-10412,O-12,Mobile,1.0
+C-10426,O-1,Mobile,1.0
+C-10426,O-2,Mobile,0.0
+C-10426,O-4,Mobile,0.0
+C-10428,O-11,Email,1.0
+C-10430,O-2,Direct Mail,0.0
+C-10430,O-4,Direct Mail,0.0
+C-10430,O-7,Direct Mail,1.0
+C-10435,O-4,Direct Mail,1.0
+C-10446,O-5,Mobile,1.0
+C-10457,O-1,Email,1.0
+C-10457,O-10,Email,0.0
+C-10457,O-12,Email,0.0
+C-10457,O-2,Email,0.0
+C-10458,O-7,Email,1.0
+C-10459,O-10,Email,1.0
+C-10459,O-8,Email,0.0
+C-10460,O-5,Direct Mail,1.0
+C-10470,O-5,Mobile,1.0
+C-10472,O-6,Mobile,1.0
+C-10477,O-6,Email,1.0
+C-10485,O-6,Email,1.0
+C-10485,O-8,Email,0.0
+C-10486,O-10,Mobile,0.0
+C-10486,O-11,Mobile,1.0
+C-10487,O-7,Email,1.0
+C-10487,O-8,Email,0.0
+C-10488,O-10,Email,0.0
+C-10488,O-6,Email,1.0
+C-10490,O-1,Mobile,1.0
+C-10499,O-6,Email,1.0
+C-10506,O-2,Direct Mail,1.0
+C-10507,O-1,Email,1.0
+C-10507,O-6,Email,0.0
+C-10507,O-7,Email,0.0
+C-10511,O-9,Mobile,1.0
+C-10513,O-3,Mobile,1.0
+C-10522,O-10,Direct Mail,1.0
+C-10531,O-10,Email,1.0
+C-10531,O-8,Email,0.0
+C-10541,O-12,Direct Mail,1.0
+C-10542,O-1,Mobile,1.0
+C-10542,O-12,Mobile,0.0
+C-10542,O-8,Mobile,0.0
+C-10544,O-10,Mobile,0.0
+C-10544,O-7,Mobile,1.0
+C-10557,O-7,Email,1.0
+C-10561,O-10,Email,1.0
+C-10564,O-1,Email,1.0
+C-10564,O-4,Email,0.0
+C-10572,O-9,Direct Mail,1.0
+C-10573,O-2,Email,1.0
+C-10573,O-9,Email,0.0
+C-10580,O-11,Mobile,1.0
+C-10580,O-5,Mobile,0.0
+C-10592,O-11,Email,1.0
+C-10601,O-2,Mobile,1.0
+C-10632,O-12,Mobile,0.0
+C-10632,O-3,Mobile,0.0
+C-10632,O-7,Mobile,1.0
+C-10640,O-11,Email,1.0
+C-10640,O-2,Email,0.0
+C-10675,O-3,Mobile,1.0
+C-10677,O-5,Email,0.0
+C-10677,O-6,Email,1.0
+C-10678,O-3,Email,1.0
+C-10680,O-1,Email,1.0
+C-10680,O-5,Email,0.0
+C-10680,O-6,Email,0.0
+C-10683,O-5,Email,1.0
+C-10686,O-10,Direct Mail,0.0
+C-10686,O-6,Direct Mail,1.0
+C-10689,O-2,Mobile,1.0
+C-10699,O-1,Mobile,1.0
+C-10718,O-4,Email,0.0
+C-10718,O-5,Email,0.0
+C-10718,O-8,Email,0.0
+C-10718,O-9,Email,1.0
+C-10734,O-10,Mobile,1.0
+C-10734,O-12,Mobile,0.0
+C-10734,O-8,Mobile,0.0
+C-10736,O-4,Mobile,1.0
+C-10737,O-3,Email,1.0
+C-10737,O-5,Email,0.0
+C-10751,O-10,Mobile,0.0
+C-10751,O-6,Mobile,1.0
+C-10757,O-6,Mobile,1.0
+C-10757,O-8,Mobile,0.0
+C-10768,O-6,Email,0.0
+C-10768,O-7,Email,1.0
+C-10769,O-10,Mobile,1.0
+C-10769,O-3,Mobile,0.0
+C-10770,O-2,Mobile,1.0
+C-10770,O-3,Mobile,0.0
+C-10782,O-3,Email,1.0
+C-10805,O-9,Email,1.0
+C-10815,O-10,Direct Mail,0.0
+C-10815,O-3,Direct Mail,0.0
+C-10815,O-6,Direct Mail,1.0
+C-10815,O-8,Direct Mail,0.0
+C-10816,O-6,Email,0.0
+C-10816,O-7,Email,1.0
+C-10819,O-7,Direct Mail,1.0
+C-10829,O-3,Email,1.0
+C-10829,O-4,Email,0.0
+C-10829,O-8,Email,0.0
+C-10839,O-4,Email,1.0
+C-10840,O-2,Direct Mail,1.0
+C-10846,O-4,Mobile,0.0
+C-10846,O-7,Mobile,1.0
+C-10846,O-8,Mobile,0.0
+C-10847,O-5,Email,1.0
+C-10848,O-3,Mobile,1.0
+C-10848,O-5,Mobile,0.0
+C-10849,O-5,Email,0.0
+C-10849,O-6,Email,1.0
+C-10853,O-10,Email,1.0
+C-10857,O-9,Email,1.0
+C-10859,O-2,Direct Mail,1.0
+C-10860,O-10,Mobile,1.0
+C-10862,O-12,Direct Mail,1.0
+C-10870,O-11,Mobile,1.0
+C-10870,O-5,Mobile,0.0
+C-10873,O-3,Mobile,1.0
+C-10874,O-5,Direct Mail,1.0
+C-10901,O-12,Mobile,1.0
+C-10909,O-3,Mobile,1.0
+C-10910,O-12,Email,0.0
+C-10910,O-8,Email,1.0
+C-10913,O-10,Direct Mail,1.0
+C-10917,O-4,Direct Mail,0.0
+C-10917,O-6,Direct Mail,1.0
+C-10919,O-12,Email,0.0
+C-10919,O-9,Email,1.0
+C-10923,O-11,Mobile,1.0
+C-10943,O-1,Direct Mail,1.0
+C-10943,O-12,Direct Mail,0.0
+C-10950,O-4,Direct Mail,0.0
+C-10950,O-9,Direct Mail,1.0
+C-10954,O-9,Mobile,1.0
+C-10955,O-10,Email,1.0
+C-10957,O-9,Mobile,1.0
+C-10959,O-12,Mobile,1.0
+C-10965,O-4,Direct Mail,1.0
+C-10971,O-4,Email,0.0
+C-10971,O-7,Email,1.0
+C-10976,O-1,Mobile,1.0
+C-10976,O-7,Mobile,0.0
+C-10979,O-8,Mobile,0.0
+C-10979,O-9,Mobile,1.0
+C-10984,O-4,Email,1.0
+C-10990,O-4,Email,1.0
+C-10990,O-8,Email,0.0
+C-11005,O-2,Email,1.0
+C-11007,O-10,Mobile,1.0
+C-11007,O-3,Mobile,0.0
+C-11009,O-6,Direct Mail,0.0
+C-11009,O-7,Direct Mail,1.0
+C-11011,O-1,Email,1.0
+C-11011,O-10,Email,0.0
+C-11011,O-6,Email,0.0
+C-11018,O-12,Direct Mail,0.0
+C-11018,O-8,Direct Mail,1.0
+C-11031,O-11,Email,0.0
+C-11031,O-7,Email,1.0
+C-11049,O-6,Direct Mail,1.0
+C-11051,O-5,Email,1.0
+C-11052,O-8,Email,1.0
+C-11054,O-12,Mobile,0.0
+C-11054,O-4,Mobile,1.0
+C-11061,O-1,Mobile,1.0
+C-11061,O-5,Mobile,0.0
+C-11063,O-3,Mobile,1.0
+C-11069,O-11,Mobile,1.0
+C-11069,O-9,Mobile,0.0
+C-11072,O-12,Mobile,0.0
+C-11072,O-3,Mobile,1.0
+C-11083,O-9,Mobile,1.0
+C-11086,O-10,Email,0.0
+C-11086,O-11,Email,1.0
+C-11086,O-3,Email,0.0
+C-11086,O-6,Email,0.0
+C-11088,O-10,Direct Mail,1.0
+C-11094,O-11,Mobile,1.0
+C-11094,O-2,Mobile,0.0
+C-11108,O-10,Mobile,0.0
+C-11108,O-7,Mobile,1.0
+C-11110,O-11,Mobile,1.0
+C-11111,O-1,Mobile,1.0
+C-11111,O-11,Mobile,0.0
+C-11111,O-2,Mobile,0.0
+C-11111,O-8,Mobile,0.0
+C-11121,O-4,Mobile,0.0
+C-11121,O-5,Mobile,0.0
+C-11121,O-9,Mobile,1.0
+C-11123,O-12,Email,1.0
+C-11126,O-10,Mobile,0.0
+C-11126,O-2,Mobile,1.0
+C-11126,O-9,Mobile,0.0
+C-11129,O-5,Direct Mail,0.0
+C-11129,O-7,Direct Mail,1.0
+C-11138,O-11,Mobile,1.0
+C-11138,O-6,Mobile,0.0
+C-11142,O-11,Email,1.0
+C-11142,O-3,Email,0.0
+C-11142,O-6,Email,0.0
+C-11146,O-1,Email,1.0
+C-11146,O-11,Email,0.0
+C-11149,O-4,Direct Mail,0.0
+C-11149,O-9,Direct Mail,1.0
+C-11156,O-7,Direct Mail,1.0
+C-11164,O-1,Direct Mail,1.0
+C-11164,O-6,Direct Mail,0.0
+C-11168,O-10,Mobile,0.0
+C-11168,O-6,Mobile,1.0
+C-11168,O-8,Mobile,0.0
+C-11183,O-1,Mobile,1.0
+C-11183,O-2,Mobile,0.0
+C-11183,O-5,Mobile,0.0
+C-11183,O-7,Mobile,0.0
+C-11183,O-8,Mobile,0.0
+C-11193,O-1,Email,1.0
+C-11193,O-4,Email,0.0
+C-11194,O-11,Mobile,1.0
+C-11194,O-2,Mobile,0.0
+C-11197,O-10,Email,1.0
+C-11198,O-1,Email,1.0
+C-11198,O-9,Email,0.0
+C-11200,O-1,Mobile,1.0
+C-11200,O-2,Mobile,0.0
+C-11206,O-3,Mobile,1.0
+C-11218,O-6,Mobile,1.0
+C-11220,O-1,Direct Mail,1.0
+C-11228,O-11,Email,1.0
+C-11228,O-3,Email,0.0
+C-11234,O-10,Email,0.0
+C-11234,O-6,Email,1.0
+C-11243,O-11,Direct Mail,1.0
+C-11245,O-12,Email,0.0
+C-11245,O-6,Email,1.0
+C-11245,O-8,Email,0.0
+C-11246,O-10,Email,1.0
+C-11246,O-12,Email,0.0
+C-11246,O-3,Email,0.0
+C-11250,O-10,Email,0.0
+C-11250,O-6,Email,1.0
+C-11250,O-8,Email,0.0
+C-11250,O-9,Email,0.0
+C-11255,O-6,Mobile,1.0
+C-11258,O-11,Mobile,1.0
+C-11267,O-4,Mobile,1.0
+C-11270,O-9,Email,1.0
+C-11275,O-11,Direct Mail,0.0
+C-11275,O-6,Direct Mail,0.0
+C-11275,O-7,Direct Mail,1.0
+C-11281,O-11,Mobile,1.0
+C-11281,O-9,Mobile,0.0
+C-11297,O-10,Email,1.0
+C-11304,O-1,Mobile,1.0
+C-11304,O-6,Mobile,0.0
+C-11304,O-7,Mobile,0.0
+C-11316,O-9,Direct Mail,1.0
+C-11319,O-11,Mobile,1.0
+C-11319,O-5,Mobile,0.0
+C-11322,O-7,Direct Mail,1.0
+C-11352,O-4,Direct Mail,1.0
+C-11362,O-10,Mobile,0.0
+C-11362,O-2,Mobile,1.0
+C-11362,O-3,Mobile,0.0
+C-11365,O-12,Email,1.0
+C-11366,O-1,Email,1.0
+C-11366,O-8,Email,0.0
+C-11373,O-1,Email,1.0
+C-11373,O-8,Email,0.0
+C-11385,O-2,Email,1.0
+C-11385,O-9,Email,0.0
+C-11394,O-4,Mobile,1.0
+C-11396,O-9,Direct Mail,1.0
+C-11404,O-8,Mobile,1.0
+C-11405,O-1,Mobile,1.0
+C-11405,O-10,Mobile,0.0
+C-11409,O-1,Direct Mail,1.0
+C-11409,O-3,Direct Mail,0.0
+C-11409,O-5,Direct Mail,0.0
+C-11409,O-7,Direct Mail,0.0
+C-11422,O-8,Mobile,1.0
+C-11427,O-11,Email,1.0
+C-11428,O-12,Email,0.0
+C-11428,O-8,Email,1.0
+C-11445,O-1,Email,1.0
+C-11445,O-12,Email,0.0
+C-11450,O-6,Email,1.0
+C-11451,O-2,Email,1.0
+C-11451,O-5,Email,0.0
+C-11452,O-3,Mobile,1.0
+C-11452,O-4,Mobile,0.0
+C-11454,O-10,Mobile,0.0
+C-11454,O-11,Mobile,1.0
+C-11454,O-8,Mobile,0.0
+C-11455,O-5,Email,1.0
+C-11466,O-2,Mobile,1.0
+C-11466,O-4,Mobile,0.0
+C-11466,O-9,Mobile,0.0
+C-11468,O-11,Mobile,1.0
+C-11470,O-11,Email,1.0
+C-11470,O-2,Email,0.0
+C-11470,O-3,Email,0.0
+C-11470,O-9,Email,0.0
+C-11471,O-11,Direct Mail,1.0
+C-11471,O-2,Direct Mail,0.0
+C-11471,O-3,Direct Mail,0.0
+C-11475,O-4,Mobile,1.0
+C-11479,O-9,Mobile,1.0
+C-11482,O-5,Email,1.0
+C-11484,O-2,Mobile,1.0
+C-11487,O-4,Direct Mail,1.0
+C-11496,O-7,Email,1.0
+C-11502,O-3,Direct Mail,0.0
+C-11502,O-6,Direct Mail,1.0
+C-11516,O-9,Email,1.0
+C-11517,O-3,Email,0.0
+C-11517,O-7,Email,1.0
+C-11525,O-10,Email,0.0
+C-11525,O-11,Email,1.0
+C-11525,O-9,Email,0.0
+C-11540,O-10,Email,1.0
+C-11559,O-12,Mobile,0.0
+C-11559,O-6,Mobile,1.0
+C-11562,O-7,Mobile,1.0
+C-11562,O-8,Mobile,0.0
+C-11562,O-9,Mobile,0.0
+C-11571,O-12,Email,1.0
+C-11586,O-9,Mobile,1.0
+C-11596,O-5,Mobile,0.0
+C-11596,O-9,Mobile,1.0
+C-11601,O-11,Mobile,1.0
+C-11605,O-7,Mobile,1.0
+C-11609,O-3,Direct Mail,1.0
+C-11618,O-10,Mobile,1.0
+C-11623,O-12,Mobile,0.0
+C-11623,O-4,Mobile,0.0
+C-11623,O-6,Mobile,0.0
+C-11623,O-7,Mobile,1.0
+C-11630,O-7,Direct Mail,1.0
+C-11660,O-2,Email,1.0
+C-11668,O-2,Email,1.0
+C-11682,O-1,Email,1.0
+C-11682,O-9,Email,0.0
+C-11684,O-10,Email,0.0
+C-11684,O-11,Email,1.0
+C-11684,O-3,Email,0.0
+C-11684,O-5,Email,0.0
+C-11691,O-12,Direct Mail,1.0
+C-11712,O-8,Mobile,0.0
+C-11712,O-9,Mobile,1.0
+C-11729,O-7,Email,1.0
+C-11737,O-8,Email,1.0
+C-11760,O-6,Email,1.0
+C-11764,O-12,Mobile,0.0
+C-11764,O-4,Mobile,1.0
+C-11764,O-8,Mobile,0.0
+C-11768,O-7,Mobile,1.0
+C-11768,O-8,Mobile,0.0
+C-11770,O-2,Email,1.0
+C-11770,O-4,Email,0.0
+C-11772,O-4,Email,0.0
+C-11772,O-7,Email,1.0
+C-11777,O-6,Mobile,1.0
+C-11779,O-5,Email,0.0
+C-11779,O-7,Email,1.0
+C-11785,O-5,Email,1.0
+C-11793,O-11,Mobile,1.0
+C-11793,O-3,Mobile,0.0
+C-11793,O-6,Mobile,0.0
+C-11808,O-11,Mobile,1.0
+C-11808,O-2,Mobile,0.0
+C-11808,O-4,Mobile,0.0
+C-11812,O-9,Mobile,1.0
+C-11814,O-2,Mobile,0.0
+C-11814,O-3,Mobile,0.0
+C-11814,O-7,Mobile,1.0
+C-11814,O-8,Mobile,0.0
