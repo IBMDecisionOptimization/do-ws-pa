@@ -55,9 +55,16 @@
             "_rp_selected": {
               "name": "selected",
               "valueColumnName": "selected"       
+            },
+            "_rp_cost": {
+              "name": "cost",
+              "valueColumnName": "cost"       
+            },
+            "_rp_expectedrevenue": {
+              "name": "expectedrevenue",
+              "valueColumnName": "expectedrevenue"       
             }
-          },
-          "prefix": "rp_"
+          }
         }
       }
     },
@@ -89,6 +96,7 @@
       "key": "xxxxxxxxxxxxxxxxxxxxxx",
       "model": "model.py",
       "preprocess" : "predo.js",
+      "postprocess" : "postdo.js",
       "action": {
         "text": "SELECT"
       }
