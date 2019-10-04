@@ -105,6 +105,7 @@
       "type": "desktop",
       "model": "model.py",
       "preprocess" : "predo.js",
+      "postprocess" : "postdo.js",
       "action": {
         "text": "SELECT"
       }
