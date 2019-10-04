@@ -10,14 +10,11 @@
       }
     },
     "pa": {
-      "description": "This is the original ibmtraining public PA credentials",
-      "authurl" : "https://ibmtraining.planning-analytics.ibmcloud.com/oauth2/token",
-      "url" : "https://ibmtraining.planning-analytics.ibmcloud.com/api/v0/tm1/Decision%20Optimisation",
-      "accountId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "tenantId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "userId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "username": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "password": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "description": "PA local credentials",
+      "loginurl" : "http://ibmdemos/login",
+      "url" : "http://ibmdemos/tm1/Decision%20Optimisation",
+      "username": "pm",
+      "password": "IBMDem0s",      
       "mapping": {
         "versionDimensionName": "Version",
         "allowInit": true,
@@ -29,16 +26,19 @@
             "Customer": {
               "name": "Customer",
               "propertyDimensionName": "CustomerProperties",
+              "propertyDimensionType": "String",
               "readVersion": false
             },
             "Offer": {
               "name": "Offer",
               "propertyDimensionName": "OfferProperties",
+              "propertyDimensionType": "String",
               "readVersion": false
             },
             "Channel": {
               "name": "Channel",
               "propertyDimensionName": "ChannelProperties",
+              "propertyDimensionType": "String",
               "readVersion": false
             },
             "Probability": {
