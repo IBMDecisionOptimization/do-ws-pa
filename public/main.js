@@ -241,6 +241,13 @@ function load() {
                 console.log("Development mode");
                 devModeDiv.style.display = "block";
                 deployModeDiv.style.display = "none";
+
+                let importDivHTML = getImportHTML(workspace) + getProgressHTML();
+                let importDiv = document.getElementById("import_div");
+                importDiv.initDone = false;
+                importDiv.innerHTML = importDivHTML;
+                
+                hideProgress();
         } 
         if (deployMode) {
                 console.log("Deployment mode");
@@ -257,6 +264,8 @@ function load() {
         } else {
                 
                 document.getElementById("DEV_CONFIG_BTN").onclick = toggleDevConfig;
+
+                document.getElementById("DEV_IMPORT_BTN").onclick = function () {switchVisibleImport(workspace);}
 
                 let configDiv =  document.getElementById("deploy_config_div");
                 configDiv.style.display = "none"
