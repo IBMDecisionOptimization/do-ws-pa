@@ -271,6 +271,10 @@ function load() {
                 configDiv.style.display = "none"
                 document.getElementById("DEPLOY_CONFIG_BTN").onclick = toggleDeployConfig;
 
+                let mappingDiv =  document.getElementById("mapping_div");
+                mappingDiv.style.display = "none"
+                document.getElementById("MAPPING_BTN").onclick = toggleMapping;
+
                 let maDiv =  document.getElementById("ma_dev_div");
                 maDiv.style.display = "none"
                 document.getElementById("MA_BTN").onclick = toggleMA;
@@ -289,7 +293,7 @@ function load() {
                 document.getElementById("INITPA").onclick = function() {initPA('INITPA');}; 
 
                 document.getElementById("GETFROMPA").onclick = function() {getFromPA('GETFROMPA');}; 
-                document.getElementById("PUSHTOWS").onclick = createProjectAndPushToWS; 
+                document.getElementById("PUSHTOWS").onclick = function() {createProjectAndPushToWS('PUSHTOWS')}; 
                 document.getElementById("OPENWS").onclick = openWS;                 
 
                 document.getElementById("PUSHTOPA").onclick = function() {pushToPA('PUSHTOPA')};   ; 
