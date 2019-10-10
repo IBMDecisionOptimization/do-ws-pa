@@ -79,10 +79,7 @@
           </div>
        
             <div class="row">
-              <div class="col-md-auto">
-                
-                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="INITPA">0. INIT PA</button> 
-                    &nbsp; &nbsp; &nbsp;
+              <div class="col-md-auto">                                    
                     <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="GETFROMPA">1. GET FROM PA</button> 
                     &nbsp; &nbsp; &nbsp;
                     <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="PUSHTOWS">2. PUSH TO WS</button> 
@@ -93,9 +90,11 @@
                     &nbsp; &nbsp; &nbsp;
                     <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="DEV_SCORE">4. SCORE</button> 
                     &nbsp; &nbsp; &nbsp;
-                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="PUSHTOPA">5. PUSH TO PA</button>
-      
+                    <button type="button" class="btn btn-sm btn-primary btn-arrow-right" id="PUSHTOPA">5. PUSH TO PA</button>                        
               </div>
+            </div>
+            <div class="row" style="height:5px">  </div>
+            <div class="row">
               <div class="col">
                   <div class="btn-group" role="group" aria-label="Basic example">
                       <button type="button" class="btn btn-sm btn-secondary"  id="INPUTS_BTN">INPUTS</button>
@@ -108,15 +107,28 @@
               </div>
               
             </div>
-      
+            <div class="row" style="height:5px">  </div>
         <div>
         <div id="import_div"> </div>
-        <div id="inputs_div"> </div>
-        <div id="mapping_div"></div>
+        <div id="inputs_div"> 
+          <button type="button" id="CLEAR_INPUTS" class="btn btn-outline-secondary btn-sm" onclick="clearScenario('input')">CLEAR</button>
+          <div class="row" style="height:5px">  </div>
+          <div id="inputs_tables_div"></div>
+        </div>
+        <div id="mapping_div">
+          <button type="button" class="btn btn-sm btn-outline-secondary" id="INITPA">INIT PA</button> 
+          <button type="button" class="btn btn-sm btn-outline-secondary" id="DELETEPA">DELETE PA</button>
+          <div class="row" style="height:5px">  </div>
+          <div id="mapping_content_div"></div>
+        </div>
         <div id="ma_dev_div"></div>
         <div id="solve_div"> </div>
-        <div id="outputs_div"> </div>
-        <div id="dev_config_div"  class="container-fluid" style="border-style: solid">
+        <div id="outputs_div"> 
+            <button type="button" id="CLEAR_OUTPUTS" class="btn btn-outline-secondary btn-sm" onclick="clearScenario('output')">CLEAR</button>
+            <div class="row" style="height:5px">  </div>
+            <div id="outputs_tables_div"></div>
+          </div>
+        <div id="dev_config_div"  class="container-fluid">
             <div id="CONFIG_EDITOR" style="width:100%; height:600px"></div>
         </div>
       </div> 

@@ -177,6 +177,7 @@ function paConfigCB(workspace) {
         if ('allowInit' in config.pa.mapping && config.pa.mapping.allowInit) {
         } else {
                 hideButton('INITPA');  
+                hideButton('DELETEPA');  
         }
 
         if (mlkey in config) {
@@ -291,6 +292,7 @@ function load() {
                 //document.getElementById("ALLDIMENSIONS").onclick = getAllDimensions;       
                 //document.getElementById("ALLCUBES").onclick = getAllCubes;       
                 document.getElementById("INITPA").onclick = function() {initPA('INITPA');}; 
+                document.getElementById("DELETEPA").onclick = function() {deletePA('DELETEPA');}; 
 
                 document.getElementById("GETFROMPA").onclick = function() {getFromPA('GETFROMPA');}; 
                 document.getElementById("PUSHTOWS").onclick = function() {createProjectAndPushToWS('PUSHTOWS')}; 
@@ -333,9 +335,9 @@ function paShowInputsAndOutputs(scenario) {
         if (scenario == undefined)
                 return;
         if (scenario.name == config.pa.mapping.input.version)
-                showAsGoogleTables(scenario, 'inputs_div', 'input', undefined, undefined, true);
+                showAsGoogleTables(scenario, 'inputs_tables_div', 'input', undefined, undefined, true);
         if (scenario.name == config.pa.mapping.output.version)
-                showAsGoogleTables(scenario, 'outputs_div', 'output', undefined, undefined, true);
+                showAsGoogleTables(scenario, 'outputs_tables_div', 'output', undefined, undefined, true);
 
                 
         if ('ma' in config) {
