@@ -276,9 +276,9 @@ function load() {
                 mappingDiv.style.display = "none"
                 document.getElementById("MAPPING_BTN").onclick = toggleMapping;
 
-                let maDiv =  document.getElementById("ma_dev_div");
-                maDiv.style.display = "none"
-                document.getElementById("MA_BTN").onclick = toggleMA;
+                let modelDiv =  document.getElementById("model_dev_div");
+                modelDiv.style.display = "none"
+                document.getElementById("MODEL_BTN").onclick = toggleModel;
 
                 let inputsDiv =  document.getElementById("inputs_div");
                 inputsDiv.style.display = "none"

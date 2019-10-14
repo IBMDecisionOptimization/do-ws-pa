@@ -13,7 +13,7 @@
     "express": "4.15.x",
     "multer": "x",
     "request": "2.83.x",
-    "do-ws-js": ">=0.1.132",
+    "do-ws-js": ">=0.1.133",
     "copyfiles": "^2.1.0",
     "gridstack": "*",
     "tar": "*"
