@@ -91,7 +91,33 @@
         }
       ]
     },
+    "do-py-wml": {
+      "type": "wml",
+      "apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+      "instance_id": "xxxxxxxxxxxxxxxxxxxxxx",
+      "url": "https://us-south.ml.cloud.ibm.com",
+      "model": "model.py",
+      "preprocess" : "predo.js",
+      "postprocess" : "postdo.js",      
+      "action": {
+          "text": "PLAN"
+      }
+    },    
     "do": {
+      "description" : "MA on WML",
+      "type": "wml",
+      "apikey": "xxxxxxxxxxxxxxxxxxxxxx",
+      "instance_id": "xxxxxxxxxxxxxxxxxxxxxx",
+      "deployment_id": "xxxxxxxxxxxxxxxxxxxxxx",
+      "url": "https://us-south.ml.cloud.ibm.com",
+      "model": "model.py",
+      "preprocess" : "predo.js",
+      "postprocess" : "postdoma.js",      
+      "action": {
+          "text": "PLAN"
+      }
+    },
+    "do-cloud": {
       "url": "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
       "key": "xxxxxxxxxxxxxxxxxxxxxx",
       "model": "model.py",

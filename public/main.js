@@ -27,31 +27,15 @@ function getConfig(workspace, cb) {
         });
 }
 
-function testui() {
-      
- 
-
-}
 var initDone = false;
 function initGrid() {
         initDone = true;
-        //testui();
-        // return;
         if ('ui' in config) {
+                function gridcb() {
+                        scenariogrid.redraw();
+                }
                 if ( 'gridjs' in config.ui) {
-                        let url = './api/config/file?fileName='+config.ui.gridjs;
-                        if (workspace != undefined)
-                                url += '&workspace='+workspace;
-                        axios({
-                                method:'get',
-                                url:url,
-                                responseType:'text'
-                        })
-                        .then(function (response) {
-                                let grid = response.data;
-                                eval(grid);
-                                scenariogrid.redraw();
-                        }); 
+                        callScript(config.ui.gridjs, gridcb);
                 }
                 if ('widgets' in config.ui) {
                         scenariogrid.init(config.ui.widgets)

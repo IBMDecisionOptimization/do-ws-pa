@@ -29,6 +29,32 @@ for (let i in candidates) {
     mycandidates[customer][offer][channel] = candidate;
 }
 
+// Build selected table
+let candidate_sols = scenario.getTableRows('list_of_Candidate_solution')
+
+let selecteds_cols = ['CustomerID', 'OfferID', 'ChannelID', 'selected'];
+scenario.addTable('selected', 'output', selecteds_cols, {});
+
+for (let i in candidate_sols) {
+    let candidate_sol = candidate_sols[i]; 
+    let idx  = candidate_sol['id_of_Candidate'];
+    let value = candidate_sol['selectionVar']
+
+    let candidate = candidates[idx];
+
+    let customer = candidate['CustomerID'];
+    let offer =  candidate['OfferID']
+    let channel = candidate['ChannelID'];
+
+    let selected_row = {}
+    selected_row['CustomerID'] = customer
+    selected_row['OfferID'] = offer
+    selected_row['ChannelID'] = channel
+    selected_row['selected'] = value;
+    
+    scenario.addRowToTable('selected', idx, selected_row);  
+}
+
 // Build cost and expected revenue table
 let selecteds = scenario.getTableRows('selected');
 
