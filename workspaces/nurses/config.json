@@ -7,6 +7,7 @@
         }
     },  
     "do" : {  
+        "type": "desktop",
         "url":  "https://api-oaas.docloud.ibmcloud.com/job_manager/rest/v1/",
         "key": "api_xxxxxxxxxxxxxxxxx",
         "model": "model.py"

@@ -431,11 +431,12 @@ def make_kpi_df(solution):
     return DataFrame.from_records(kpi_as_tuples, columns=['kpi', 'value'])
 #dd-cell
 from copy import deepcopy
+from six import iteritems
 
 def build_solution(solution):
     assigned_vars = solution.model.assigned
     report = []
-    for k,v in assigned_vars.iteritems():
+    for k,v in iteritems(assigned_vars):
         if v._get_solution_value(solution) >= 0.5:
             k2 = deepcopy(k)
             k2 = k2 + (k[0],)
@@ -462,7 +463,7 @@ mdl.report()
 #dd-cell
 outputs = build_solution(s)
 #dd-cell
-for k,v in outputs.iteritems():
+for k,v in iteritems(outputs):
     print(v)
 #dd-cell
 outputs
