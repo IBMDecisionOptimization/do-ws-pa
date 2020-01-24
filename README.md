@@ -12,7 +12,7 @@ It uses the shared npm package with goodies for DO for WS/WML and PA: https://ww
 * [How it works](#How-it-works)
 * [The code](#The-code)
 * [How to start a new application](#How-to-start-a-new-application)  
-* [How to use the Planning Analytics service?](#How-to-use-the-Planning-Analytics-service?)  
+* [How to use the Planning Analytics service?](#How-to-use-the-Planning-Analytics-service)  
   * [Run the nodejs service](#Run-the-nodejs-service)  
   * [Integrate into PA workbook](#Integrate-into-PA-workbook)  
   * [Configure workspace](#Configure-workspace)  
@@ -259,7 +259,7 @@ Then run the node js application for this workspace using <http://localhost:6004
 You can then import scenarios and save them, They will be stored in your local data folder.
 
 
-## How to use the Planning Analytics service?
+## How to use the Planning Analytics service
 
 Here are the parts to do in order to use this:
 * get access or set up some **Planning Analytics environment**: 
