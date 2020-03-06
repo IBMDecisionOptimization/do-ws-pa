@@ -1,14 +1,14 @@
-A sample application showing what can be done with the do-ws-js library. 
-* prototype Line of Business application  using Decision Optimization (DO) or Machine Learning (ML)
+This repository contains a sample application showing what can be done with the do-ws-js library to:
 * easily integrate IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML)
+* prototype Line of Business application  using Decision Optimization (DO) or Machine Learning (ML)
 
 It uses the shared npm package with goodies for DO for WS/WML and PA: https://www.npmjs.com/package/do-ws-js
 
 ## Table of contents
 
 * [What is this?](#What-is-this?)
-  * [NodeJS Application](#NodeJS-Application)
   * [Planning Analytics](#Planning-Analytics)
+  * [NodeJS Application](#NodeJS-Application)
 * [How it works](#How-it-works)
 * [The code](#The-code)
 * [How to start a new application](#How-to-start-a-new-application)  
@@ -23,9 +23,20 @@ It uses the shared npm package with goodies for DO for WS/WML and PA: https://ww
 
 This is a sample repository for what can be done using the [do-ws-js](https://github.com/IBMDecisionOptimization/do-ws-js) library.
 
-I shows to types oi usage:
-* creating a NodeJS application
+It shows two types of usage:
 * creating an integration service with Planning Analytics
+* creating a NodeJS application
+
+
+### Planning Analytics
+
+A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML), so that you can easily set up the integration of a deployed Decision Optimization (DO) or Machine Learning (ML) models to be executed from PA.
+
+Look at a video showing what it does: https://ibm.box.com/s/v42tfs9m3w8mbni21xlw14x6cyuant5p
+
+See some slides with some more details: https://fr.slideshare.net/AlainChabrier/do-for-ws-pa-external-v1
+
+
 
 ### NodeJS Application
 
@@ -36,14 +47,6 @@ A NodeJa application to prototype use of Decision Optimization by Line of Busine
 You can run other configurations (i.e. other applications) using for example <http://localhost:6004?workspace=sd>
 
 You can see all existing configurations using <http://localhost:6004/workspaces>
-
-### Planning Analytics
-A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML), so that you can easily set up the integration of a deployed Decision Optimization (DO) or Machine Learning (ML) model to be executed from PA.
-
-Look at a video showing what it does: https://ibm.box.com/s/v42tfs9m3w8mbni21xlw14x6cyuant5p
-
-See some slides with some more details: https://fr.slideshare.net/AlainChabrier/do-for-ws-pa-external-v1
-
 
 ## How it works
 
