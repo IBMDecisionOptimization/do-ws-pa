@@ -1,8 +1,8 @@
-This repository contains a sample application showing what can be done with the do-ws-js library to:
-* easily integrate IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML)
-* prototype Line of Business application  using Decision Optimization (DO) or Machine Learning (ML)
+This repository contains a sample application showing what can be done with the `do-ws-js` library to easily:
+* integrate IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML) / Cloud Pak for Data (CP4D)
+* prototype Line of Business application using Decision Optimization (DO) or Machine Learning (ML)
 
-It uses the shared npm package with goodies for DO for WS/WML and PA: https://www.npmjs.com/package/do-ws-js
+It uses the shared npm package with goodies for DO for WS/WML/CP4D and PA: https://www.npmjs.com/package/do-ws-js
 
 ## Table of contents
 
@@ -25,20 +25,28 @@ This is a sample repository for what can be done using the [do-ws-js](https://gi
 
 It shows two types of usage:
 * creating an integration service with Planning Analytics
-* creating a NodeJS application
+* creating a NodeJS prototype LoB application
 
 
 ### Planning Analytics
 
-A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML), so that you can easily set up the integration of a deployed Decision Optimization (DO) or Machine Learning (ML) models to be executed from PA.
+A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML) / Cloud Pak for data (CP4D), so that you can easily set up the integration of a deployed Decision Optimization (DO) or Machine Learning (ML) models to be executed from PA.
 
-Using this service you can easily embed a widget to solve different secnarios extracted from/save to the PA cubes.
+Using this service you can easily embed a widget for the Line of Business (LoB) person to solve different scenarios extracted from/save to the PA cubes and do what-if analysis.
+Decision Optimization and Machine learning models are solved on WML.
+
 ![UCP PA deploy](/images/padeploy.png)
 
 The service can be easily configured using another embedded widget providing all the tools to create and modify the configuration (mapping, connection to WS and WML, etc).
+
 ![UCP PA dev](/images/padev.png)
 
+Decision Optimization and Machine learning models are created by the Data Scientist using WS.
+
+![UCP PA ws](/images/ws.png)
+
 The architecture is pretty simple and can work with PA cloud or local and WS/WML CLoud or CP4D (Local). A new Node JS based service orchestrate all the integration between PA and WS/WML/CP4D.
+
 ![UCP PA architecture](/images/architecture.png)
 
 
