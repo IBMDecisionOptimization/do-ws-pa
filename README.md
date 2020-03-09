@@ -310,8 +310,8 @@ Here are the parts to do in order to use this:
 
 To setup the nodejs service:
 * clone this github repository
-* optionnaly create a new workspace for your application in the **./workspaces/** subdirectory (you can duplicate some of the existing ones)
-* update the config.json file from this workspace for the for your need. 
+* optionnaly create a new workspace for your application in the `./workspaces/` subdirectory (you can duplicate some of the existing ones)
+* update the `config.json` file from this workspace for the for your need. 
 * in the service directory, do:
 
 ```
