@@ -32,9 +32,15 @@ It shows two types of usage:
 
 A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML), so that you can easily set up the integration of a deployed Decision Optimization (DO) or Machine Learning (ML) models to be executed from PA.
 
+Using this service you can easily embed a widget to solve different secnarios extracted from/save to the PA cubes.
 ![UCP PA deploy](/images/padeploy.png)
+
+The service can be easily configured using another embedded widget providing all the tools to create and modify the configuration (mapping, connection to WS and WML, etc).
 ![UCP PA dev](/images/padev.png)
+
+The architecture is pretty simple and can work with PA cloud or local and WS/WML CLoud or CP4D (Local). A new Node JS based service orchestrate all the integration between PA and WS/WML/CP4D.
 ![UCP PA architecture](/images/architecture.png)
+
 
 Look at a video showing what it does: https://ibm.box.com/s/v42tfs9m3w8mbni21xlw14x6cyuant5p
 
@@ -44,7 +50,9 @@ See some slides with some more details: https://fr.slideshare.net/AlainChabrier/
 
 ### NodeJS Application
 
-A NodeJa application to prototype use of Decision Optimization by Line of Business.
+A NodeJS application to prototype use of Decision Optimization by Line of Business.
+
+The application can be created outisde of PA as a prototype application. It can be created starting by extracting the data and optimization model, and visualization widgets from an existing WS project. It can be configured to answer the needs from a LoB user.
 
 ![UCP application Screenshot 1](/images/ucp.png)
 ![UCP application Screenshot 2](/images/ucp2.png)
