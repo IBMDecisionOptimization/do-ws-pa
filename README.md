@@ -32,6 +32,10 @@ It shows two types of usage:
 
 A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML), so that you can easily set up the integration of a deployed Decision Optimization (DO) or Machine Learning (ML) models to be executed from PA.
 
+![UCP PA deploy](/images/padeploy.png)
+![UCP PA dev](/images/padev.png)
+![UCP PA architecture](/images/architecture.png)
+
 Look at a video showing what it does: https://ibm.box.com/s/v42tfs9m3w8mbni21xlw14x6cyuant5p
 
 See some slides with some more details: https://fr.slideshare.net/AlainChabrier/do-for-ws-pa-external-v1
@@ -42,7 +46,8 @@ See some slides with some more details: https://fr.slideshare.net/AlainChabrier/
 
 A NodeJa application to prototype use of Decision Optimization by Line of Business.
 
-![Screnshot](/images/ucp.png)
+![UCP application Screenshot 1](/images/ucp.png)
+![UCP application Screenshot 2](/images/ucp2.png)
 
 You can run other configurations (i.e. other applications) using for example <http://localhost:6004?workspace=sd>
 
