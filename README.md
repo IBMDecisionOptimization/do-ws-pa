@@ -32,7 +32,7 @@ It shows two types of usage:
 
 A service to easily connect IBM Planning Analytics (PA) and Watson Studio (WS) / Watson Machine Learning (WML) / Cloud Pak for data (CP4D), so that you can easily set up the integration of a deployed Decision Optimization (DO) or Machine Learning (ML) models to be executed from PA.
 
-Using this service you can easily embed a widget for the Line of Business (LoB) person to solve different scenarios extracted from/save to the PA cubes and do what-if analysis.
+Using this service, you can easily embed a widget into Planning Analytics Workspaces (PAW) for the Line of Business (LoB) person to solve different scenarios extracted from/save to the PA cubes and do what-if analysis.
 Decision Optimization and Machine learning models are solved on WML.
 
 ![UCP PA deploy](/images/padeploy.png)
@@ -60,7 +60,7 @@ See some slides with some more details: https://fr.slideshare.net/AlainChabrier/
 
 A NodeJS application to prototype use of Decision Optimization by Line of Business.
 
-The application can be created outisde of PA as a prototype application. It can be created starting by extracting the data and optimization model, and visualization widgets from an existing WS project. It can be configured to answer the needs from a LoB user.
+The application can be created outside of PA as a prototype application. It can be created starting by extracting the data and optimization model, and visualization widgets from an existing WS project. It can be configured to answer the needs from a LoB user.
 
 ![UCP application Screenshot 1](/images/ucp.png)
 ![UCP application Screenshot 2](/images/ucp2.png)
@@ -224,17 +224,17 @@ For example:
 ## How to start a new application
 
 The repository comes with a few examples of applications organized into workspaces.
-For each workspace, there must be a config.json configuration file under ./workspaces/workspace_name/config.json.
+For each workspace, there must be a `config.json` configuration file under `./workspaces/workspace_name/config.json`.
 
 
 ### Start from a data set
 
 One way to start is to use a set of csv files.
 The csv files must have the column names as first row in file.
-Create a ./data/workspace_name/scenario 1 folder and put all your csv files in it.
-Create a scenario.json file with the structure shown above
+Create a `./data/workspace_name/scenario 1` folder and put all your csv files in it.
+Create a `scenario.json` file with the structure shown above
 
-Then create a configuration for this workspace under ./workspaces/workspace_name/config.json.
+Then create a configuration for this workspace under `./workspaces/workspace_name/config.json`.
 The minimal content of this file should be like:
 ```
 {
@@ -255,7 +255,7 @@ You will be able to add configuration for DO, ML or PA later.
 ### Start importing some scenario from Watson Studio
 
 An alternative to quickly start a new application is to import scenario, and/or dashboard and/or optimization model, from Watson Studio.
-For that create a minimal configuration file under ./workspaces/workspace_name/config.json, with some ws section:
+For that create a minimal configuration file under `./workspaces/workspace_name/config.json`, with some `ws` section:
 ```
 {
     "name": "Bridge",
@@ -310,8 +310,8 @@ Here are the parts to do in order to use this:
 
 To setup the nodejs service:
 * clone this github repository
-* optionnaly create a new workspace for your application in the **./workspaces/** subdirectory (you can duplicate some of the existing ones)
-* update the config.json file from this workspace for the for your need. 
+* optionnaly create a new workspace for your application in the `./workspaces/` subdirectory (you can duplicate some of the existing ones)
+* update the `config.json` file from this workspace for the for your need. 
 * in the service directory, do:
 
 ```
