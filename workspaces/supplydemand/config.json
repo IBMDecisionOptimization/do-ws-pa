@@ -13,6 +13,7 @@
 		"password": "IBMDem0s",
 		"mapping" : {
 			"versionDimensionName": "Plan",
+			"allowInit" : true,
 			"input": {
 				"version": "Baseline",
 				"dimensions": {
